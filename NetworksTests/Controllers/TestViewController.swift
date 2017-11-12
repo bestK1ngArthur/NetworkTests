@@ -14,13 +14,13 @@ class TestViewController: UIViewController, UITableViewDelegate, UITableViewData
     @IBOutlet weak var questionLabel: UILabel!
     @IBOutlet weak var tableView: UITableView!
     @IBOutlet weak var actionButton: UIButton!
-
+    @IBOutlet weak var countLabel: UILabel!
+    
     var testSession = TestSession(test: TestManager.tests[0])
     var showAnswers = false
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
         
         // Initial preparation
         self.actionButton.isEnabled = false
@@ -28,7 +28,8 @@ class TestViewController: UIViewController, UITableViewDelegate, UITableViewData
         self.questionNumberLabel.text = "Вопрос №\(testSession.currentQuestion!.number-1)"
         self.questionLabel.text = testSession.currentQuestion!.title
         self.showAnswers = false
-    }
+        self.countLabel.text = ""
+}
     
     func showQuestion() {
         
@@ -36,6 +37,9 @@ class TestViewController: UIViewController, UITableViewDelegate, UITableViewData
         self.actionButton.isEnabled = false
         self.showAnswers = false
         self.tableView.allowsSelection = true
+        
+        // Update right answers count
+        self.countLabel.text = "\(testSession.rightAnswersCount)"
         
         // Set question
         self.questionNumberLabel.text = "Вопрос №\(testSession.currentQuestion!.number-1)"
@@ -83,6 +87,7 @@ class TestViewController: UIViewController, UITableViewDelegate, UITableViewData
         tableView.allowsSelection = false
         
         let answer = testSession.currentQuestion!.answers[indexPath.row]
+        testSession.answer(isRight: answer.isRight)
 
         var answersIndexes = [indexPath]
         if !answer.isRight {

@@ -58,4 +58,10 @@ class TestSession {
             action = .end
         }
     }
+    
+    func answer(isRight: Bool) {
+        if isRight {
+            self.rightAnswersCount = rightAnswersCount + 1
+        }
+    }
 }

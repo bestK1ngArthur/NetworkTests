@@ -87,6 +87,12 @@
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="12" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="O8J-nF-Sel">
+                                <rect key="frame" x="337" y="80" width="22" height="24"/>
+                                <fontDescription key="fontDescription" type="system" weight="semibold" pointSize="20"/>
+                                <color key="textColor" red="0.0" green="0.68136258137658468" blue="0.55292650161502999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
                         </subviews>
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
@@ -97,12 +103,14 @@
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="2Qy-S2-Pov" secondAttribute="trailing" constant="16" id="Su5-mQ-ZUC"/>
                             <constraint firstItem="C1z-tP-Rrg" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="16" id="TEx-Kp-aL9"/>
                             <constraint firstItem="2Qy-S2-Pov" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="16" id="URH-Pj-70J"/>
+                            <constraint firstItem="O8J-nF-Sel" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="16" id="eIj-5O-P9N"/>
                             <constraint firstItem="rXA-MA-QlK" firstAttribute="top" secondItem="C1z-tP-Rrg" secondAttribute="bottom" constant="16" id="edB-y9-ctq"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="rXA-MA-QlK" secondAttribute="trailing" constant="16" id="lNg-Li-Swn"/>
                             <constraint firstItem="CAu-Zs-LNy" firstAttribute="top" secondItem="2Qy-S2-Pov" secondAttribute="bottom" constant="8" id="o54-L0-62Q"/>
                             <constraint firstItem="rXA-MA-QlK" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="16" id="oPC-ZU-Z9i"/>
                             <constraint firstItem="CAu-Zs-LNy" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="16" id="qAb-hh-rTp"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="rXA-MA-QlK" secondAttribute="bottom" constant="20" id="u8n-Ag-kGH"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="O8J-nF-Sel" secondAttribute="trailing" constant="16" id="xop-W7-AId"/>
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
@@ -111,6 +119,7 @@
                     </navigationItem>
                     <connections>
                         <outlet property="actionButton" destination="rXA-MA-QlK" id="t6q-40-bWY"/>
+                        <outlet property="countLabel" destination="O8J-nF-Sel" id="xgr-1K-Cul"/>
                         <outlet property="questionLabel" destination="CAu-Zs-LNy" id="x21-xp-oGd"/>
                         <outlet property="questionNumberLabel" destination="2Qy-S2-Pov" id="OWu-Kq-4vf"/>
                         <outlet property="tableView" destination="C1z-tP-Rrg" id="qLc-nL-WD8"/>
@@ -118,7 +127,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1228" y="840"/>
+            <point key="canvasLocation" x="1228" y="839.73013493253382"/>
         </scene>
         <!--Тесты-->
         <scene sceneID="H7J-Qy-Kxx">
