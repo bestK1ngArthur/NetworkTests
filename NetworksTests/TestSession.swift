@@ -16,11 +16,11 @@ class TestSession {
     }
     
     var currentQuestion: Question? {
-        return manager.question(number: currentQuestionNumber)
+        return manager.question(id: currentQuestionNumber)
     }
     
     var nextQuestion: Question? {
-        return manager.question(number: nextQuestionNumber)
+        return manager.question(id: nextQuestionNumber)
     }
     
     var title: String {

@@ -23,7 +23,9 @@ class TestViewController: UIViewController, UITableViewDelegate, UITableViewData
         // Do any additional setup after loading the view, typically from a nib.
         
         // Initial preparation
+        self.actionButton.isEnabled = false
         self.navigationItem.title = testSession.title
+        self.questionNumberLabel.text = "Вопрос №\(testSession.currentQuestion!.number-1)"
         self.questionLabel.text = testSession.currentQuestion!.title
         self.showAnswers = false
     }
@@ -36,7 +38,7 @@ class TestViewController: UIViewController, UITableViewDelegate, UITableViewData
         self.tableView.allowsSelection = true
         
         // Set question
-        self.questionNumberLabel.text = "Вопрос №\(testSession.currentQuestion!.number)"
+        self.questionNumberLabel.text = "Вопрос №\(testSession.currentQuestion!.number-1)"
         self.questionLabel.text = testSession.currentQuestion!.title
         
         // Update answers

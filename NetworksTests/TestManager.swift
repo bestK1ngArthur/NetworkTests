@@ -10,8 +10,8 @@ import UIKit
 
 class TestManager {
     
-    static let tests = [Test(title: "РК №1", startQuestion: 1, endQuestion: 258),
-                        Test(title: "РК №2", startQuestion: 259, endQuestion: 474)]
+    static let tests = [Test(title: "РК №1", startQuestion: 2, endQuestion: 259),
+                        Test(title: "РК №2", startQuestion: 260, endQuestion: 475)]
     
     private var questions: [Question] = []
     private var answers: [Answer] = []
@@ -21,10 +21,10 @@ class TestManager {
         loadQuestions()
     }
     
-    func question(number: Int) -> Question? {
+    func question(id: Int) -> Question? {
         
         let rightQuestions = self.questions.filter { (question) -> Bool in
-            return question.number == number
+            return question.id == id
         }
         
         return rightQuestions.first

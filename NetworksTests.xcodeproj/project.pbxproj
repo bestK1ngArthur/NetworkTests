@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6A39FC2D1FB8525C0067723D /* TestListController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A39FC2C1FB8525C0067723D /* TestListController.swift */; };
+		6A39FC2F1FB853570067723D /* TestCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A39FC2E1FB853570067723D /* TestCell.swift */; };
 		6A5B8F231FAB5FD000F65304 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A5B8F221FAB5FD000F65304 /* AppDelegate.swift */; };
 		6A5B8F251FAB5FD000F65304 /* TestViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A5B8F241FAB5FD000F65304 /* TestViewController.swift */; };
 		6A5B8F281FAB5FD000F65304 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6A5B8F261FAB5FD000F65304 /* Main.storyboard */; };
@@ -23,6 +25,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		6A39FC2C1FB8525C0067723D /* TestListController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestListController.swift; sourceTree = "<group>"; };
+		6A39FC2E1FB853570067723D /* TestCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestCell.swift; sourceTree = "<group>"; };
 		6A5B8F1F1FAB5FD000F65304 /* NetworksTests.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NetworksTests.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6A5B8F221FAB5FD000F65304 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		6A5B8F241FAB5FD000F65304 /* TestViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestViewController.swift; sourceTree = "<group>"; };
@@ -88,6 +92,7 @@
 			isa = PBXGroup;
 			children = (
 				6A5B8F341FAB7E3000F65304 /* AnswerCell.swift */,
+				6A39FC2E1FB853570067723D /* TestCell.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -96,6 +101,7 @@
 			isa = PBXGroup;
 			children = (
 				6A5B8F241FAB5FD000F65304 /* TestViewController.swift */,
+				6A39FC2C1FB8525C0067723D /* TestListController.swift */,
 			);
 			path = Controllers;
 			sourceTree = "<group>";
@@ -195,11 +201,13 @@
 			buildActionMask = 2147483647;
 			files = (
 				6A65357D1FAE293E002230A7 /* TestSession.swift in Sources */,
+				6A39FC2D1FB8525C0067723D /* TestListController.swift in Sources */,
 				6A5B8F3B1FAB7FD500F65304 /* Question.swift in Sources */,
 				6A5B8F351FAB7E3000F65304 /* AnswerCell.swift in Sources */,
 				6A5B8F251FAB5FD000F65304 /* TestViewController.swift in Sources */,
 				6A65357B1FAE20AC002230A7 /* Test.swift in Sources */,
 				6A5B8F3D1FAB806C00F65304 /* Answer.swift in Sources */,
+				6A39FC2F1FB853570067723D /* TestCell.swift in Sources */,
 				6A5B8F231FAB5FD000F65304 /* AppDelegate.swift in Sources */,
 				6A5B8F391FAB7F5000F65304 /* TestManager.swift in Sources */,
 			);
