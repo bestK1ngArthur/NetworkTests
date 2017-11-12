@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  NetworksTests
 //
-//  Created by a.belkov on 02/11/2017.
+//  Created by bestK1ng on 02/11/2017.
 //  Copyright © 2017 bestK1ng. All rights reserved.
 //
 

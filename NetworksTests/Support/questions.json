@@ -1,0 +1,3320 @@
+[
+ {
+   "Question": "В каких сетях отпадает необходимость в административной службе?",
+   "QuestionID": 2,
+   "Complicating": 3,
+   "NumberOfRating": 1,
+   "Order": 2
+ },
+ {
+   "Question": "Сколько уровней в базовой эталонной модели взаимодействия открытых систем ?",
+   "QuestionID": 3,
+   "Complicating": 3,
+   "NumberOfRating": 1,
+   "Order": 3
+ },
+ {
+   "Question": "Проблема выбора наилучшего пути называется",
+   "QuestionID": 4,
+   "Complicating": 3,
+   "NumberOfRating": 1,
+   "Order": 4
+ },
+ {
+   "Question": "Что обеспечивает интерфейс компьютера и принтера на уровне операционной системы?",
+   "QuestionID": 5,
+   "Complicating": 3,
+   "NumberOfRating": 1,
+   "Order": 5
+ },
+ {
+   "Question": "Вычисляет ли канальный уровень контрольную последовательность?",
+   "QuestionID": 8,
+   "Complicating": 3,
+   "NumberOfRating": 1,
+   "Order": 8
+ },
+ {
+   "Question": "Драйвер- это",
+   "QuestionID": 10,
+   "Complicating": 3,
+   "NumberOfRating": 1,
+   "Order": 10
+ },
+ {
+   "Question": "Какие три уровня модели OSI являются сетезависимыми?",
+   "QuestionID": 16,
+   "Complicating": 4,
+   "NumberOfRating": 1,
+   "Order": 1
+ },
+ {
+   "Question": "В компьютерах локальных сетей функции канального уровня реализуются усилиями",
+   "QuestionID": 18,
+   "Complicating": 4,
+   "NumberOfRating": 1,
+   "Order": 3
+ },
+ {
+   "Question": "В сетевой среде драйвер платы сетевого адаптера обеспечивает связь",
+   "QuestionID": 21,
+   "Complicating": 4,
+   "NumberOfRating": 1,
+   "Order": 6
+ },
+ {
+   "Question": "Одной из задач канального уровня является:",
+   "QuestionID": 26,
+   "Complicating": 4,
+   "NumberOfRating": 1,
+   "Order": 11
+ },
+ {
+   "Question": "Что является протокольным блоком данных канального уровня?",
+   "QuestionID": 27,
+   "Complicating": 4,
+   "NumberOfRating": 1,
+   "Order": 12
+ },
+ {
+   "Question": "Основная функция транспортного уровня -",
+   "QuestionID": 28,
+   "Complicating": 4,
+   "NumberOfRating": 1,
+   "Order": 13
+ },
+ {
+   "Question": "Сетевая технология - это",
+   "QuestionID": 29,
+   "Complicating": 4,
+   "NumberOfRating": 1,
+   "Order": 14
+ },
+ {
+   "Question": "Какая служба в РСОД решает задачи обеспечения взаимодействий разнотипных ЭВМ?",
+   "QuestionID": 30,
+   "Complicating": 4,
+   "NumberOfRating": 1,
+   "Order": 15
+ },
+ {
+   "Question": "Распределенная система обработки данных (РСОД) - это",
+   "QuestionID": 31,
+   "Complicating": 5,
+   "NumberOfRating": 1,
+   "Order": 1
+ },
+ {
+   "Question": "Какая служба в РСОД предназначена для решения задач пользователей сети?",
+   "QuestionID": 33,
+   "Complicating": 5,
+   "NumberOfRating": 1,
+   "Order": 3
+ },
+ {
+   "Question": "Связь между объектами N-го и (N-1)-го уровней модели OSI определяется:",
+   "QuestionID": 35,
+   "Complicating": 5,
+   "NumberOfRating": 1,
+   "Order": 5
+ },
+ {
+   "Question": "Заголовок кадра содержит адрес получателя, который состоит из старшей части - номера сети и младшей - номера узла в этой сети.",
+   "QuestionID": 37,
+   "Complicating": 5,
+   "NumberOfRating": 1,
+   "Order": 7
+ },
+ {
+   "Question": "Какой протокол реализует продвижение пакетов через сеть?",
+   "QuestionID": 38,
+   "Complicating": 5,
+   "NumberOfRating": 1,
+   "Order": 8
+ },
+ {
+   "Question": "Какой уровнь модели OSI управляет сжатием данных?",
+   "QuestionID": 39,
+   "Complicating": 5,
+   "NumberOfRating": 1,
+   "Order": 9
+ },
+ {
+   "Question": "Какой протокол стека TCP/IP является протоколом сетевого уровня?",
+   "QuestionID": 42,
+   "Complicating": 5,
+   "NumberOfRating": 1,
+   "Order": 12
+ },
+ {
+   "Question": "Какие службы в РСОД образуют абонентскую службу?",
+   "QuestionID": 43,
+   "Complicating": 5,
+   "NumberOfRating": 1,
+   "Order": 13
+ },
+ {
+   "Question": "На канальном уровне носителями данных являются:",
+   "QuestionID": 44,
+   "Complicating": 5,
+   "NumberOfRating": 1,
+   "Order": 14
+ },
+ {
+   "Question": "Правила взаимодействия программ, находящихся на одном уровне модели OSI, но расположенных в различных ЭВМ, описывают:",
+   "QuestionID": 45,
+   "Complicating": 5,
+   "NumberOfRating": 1,
+   "Order": 15
+ },
+ {
+   "Question": "Что выполняется раньше логическое или физическое кодирование?",
+   "QuestionID": 48,
+   "Complicating": 3,
+   "NumberOfRating": 2,
+   "Order": 3
+ },
+ {
+   "Question": "Что такое модем?",
+   "QuestionID": 49,
+   "Complicating": 3,
+   "NumberOfRating": 2,
+   "Order": 4
+ },
+ {
+   "Question": "Какой тип модемов обеспечивает более высокие скорости передачи данных?",
+   "QuestionID": 50,
+   "Complicating": 3,
+   "NumberOfRating": 2,
+   "Order": 5
+ },
+ {
+   "Question": "Кодирование это:",
+   "QuestionID": 51,
+   "Complicating": 3,
+   "NumberOfRating": 2,
+   "Order": 6
+ },
+ {
+   "Question": "Избыточные блочные коды называются разделимыми, если в них:",
+   "QuestionID": 56,
+   "Complicating": 3,
+   "NumberOfRating": 2,
+   "Order": 11
+ },
+ {
+   "Question": "Выбор величины тайм-аута зависит от:",
+   "QuestionID": 181,
+   "Complicating": 3,
+   "NumberOfRating": 2,
+   "Order": 1
+ },
+ {
+   "Question": "Интеллектуальные модемы содержат регистры, в которых хранятся текущие настройки. Эти регистры называются:",
+   "QuestionID": 63,
+   "Complicating": 4,
+   "NumberOfRating": 2,
+   "Order": 3
+ },
+ {
+   "Question": "Что означают сокращения HST и PEP применительно к модемам?",
+   "QuestionID": 69,
+   "Complicating": 4,
+   "NumberOfRating": 2,
+   "Order": 9
+ },
+ {
+   "Question": "Операция ретрейн (retrain), выполняемая модемами - это:",
+   "QuestionID": 70,
+   "Complicating": 4,
+   "NumberOfRating": 2,
+   "Order": 10
+ },
+ {
+   "Question": "Дейтаграммные процедуры канального уровня обеспечивают передачу",
+   "QuestionID": 71,
+   "Complicating": 4,
+   "NumberOfRating": 2,
+   "Order": 11
+ },
+ {
+   "Question": "Какой из указанных протоколов является протоколом коррекции ошибок?",
+   "QuestionID": 72,
+   "Complicating": 4,
+   "NumberOfRating": 2,
+   "Order": 12
+ },
+ {
+   "Question": "Какие функциональные режимы работы интеллектуального модема являются устойчивыми?",
+   "QuestionID": 74,
+   "Complicating": 4,
+   "NumberOfRating": 2,
+   "Order": 14
+ },
+ {
+   "Question": "Как выглядит ESCAPE - последовательность, переводящая модем в командный режим работы?",
+   "QuestionID": 62,
+   "Complicating": 4,
+   "NumberOfRating": 2,
+   "Order": 2
+ },
+ {
+   "Question": "Если при использовании метода скользящего окна, его размер равен одному кадру, то такой метод называют:",
+   "QuestionID": 79,
+   "Complicating": 5,
+   "NumberOfRating": 2,
+   "Order": 4
+ },
+ {
+   "Question": "АПД (аппаратура передачи данных) или DCE (Data Circuit terminating Equipment) это:",
+   "QuestionID": 80,
+   "Complicating": 5,
+   "NumberOfRating": 2,
+   "Order": 5
+ },
+ {
+   "Question": "Коды символов SYN используют для синхронизации в:",
+   "QuestionID": 82,
+   "Complicating": 5,
+   "NumberOfRating": 2,
+   "Order": 7
+ },
+ {
+   "Question": "Что такое КОЛЛИЗИЯ?",
+   "QuestionID": 109,
+   "Complicating": 4,
+   "NumberOfRating": 3,
+   "Order": 4
+ },
+ {
+   "Question": "Что является основной особенностью сетей технологии 100VG-AnyLAN?",
+   "QuestionID": 110,
+   "Complicating": 4,
+   "NumberOfRating": 3,
+   "Order": 5
+ },
+ {
+   "Question": "Выберите верное утверждение.",
+   "QuestionID": 112,
+   "Complicating": 4,
+   "NumberOfRating": 3,
+   "Order": 7
+ },
+ {
+   "Question": "Что такое ТРАНСИВЕР (Transceiver)?",
+   "QuestionID": 114,
+   "Complicating": 4,
+   "NumberOfRating": 3,
+   "Order": 9
+ },
+ {
+   "Question": "Продолжите утверждение: локальный адрес узла сети или MAC-адрес?",
+   "QuestionID": 115,
+   "Complicating": 4,
+   "NumberOfRating": 3,
+   "Order": 10
+ },
+ {
+   "Question": "Устройство, использующее одну и более метрик для определения оптимального пути передачи сетевого трафика - это?",
+   "QuestionID": 117,
+   "Complicating": 4,
+   "NumberOfRating": 3,
+   "Order": 12
+ },
+ {
+   "Question": "В сетях какой технологии Ethernet требуется наличие заземления среды передачи данных?",
+   "QuestionID": 118,
+   "Complicating": 4,
+   "NumberOfRating": 3,
+   "Order": 13
+ },
+ {
+   "Question": "Для чего используются BNC-терминаторы?",
+   "QuestionID": 119,
+   "Complicating": 4,
+   "NumberOfRating": 3,
+   "Order": 14
+ },
+ {
+   "Question": "Какую скорость передачи данных по сети может обеспечить технология ArcNET?",
+   "QuestionID": 120,
+   "Complicating": 4,
+   "NumberOfRating": 3,
+   "Order": 15
+ },
+ {
+   "Question": "Какой тип кадра Ethernet был разработан первым?",
+   "QuestionID": 113,
+   "Complicating": 4,
+   "NumberOfRating": 3,
+   "Order": 8
+ },
+ {
+   "Question": "Какой стандарт использования ВОЛС в сетях Ethernet предназначен только для соединения повторителей (его также называют <синхронный Ethernet>)?",
+   "QuestionID": 124,
+   "Complicating": 5,
+   "NumberOfRating": 3,
+   "Order": 4
+ },
+ {
+   "Question": "Если длина пакета передаваемых данных меньше минимальной величины, то адаптер Ethernet автоматически дополняет его до ...?",
+   "QuestionID": 125,
+   "Complicating": 5,
+   "NumberOfRating": 3,
+   "Order": 5
+ },
+ {
+   "Question": "Отличаются ли форматы кадров сетей технологии Fast Ethernet от форматов кадров сетей Ethernet?",
+   "QuestionID": 126,
+   "Complicating": 5,
+   "NumberOfRating": 3,
+   "Order": 6
+ },
+ {
+   "Question": "Для чего необходима процедура Claim Token в сетях технологии FDDI?",
+   "QuestionID": 127,
+   "Complicating": 5,
+   "NumberOfRating": 3,
+   "Order": 7
+ },
+ {
+   "Question": "Каково основное назначение виртуальных сетей (Virtual LAN)?",
+   "QuestionID": 128,
+   "Complicating": 5,
+   "NumberOfRating": 3,
+   "Order": 8
+ },
+ {
+   "Question": "Какие существуют варианты архитектуры проводки СКС - структурированной кабельной системы?",
+   "QuestionID": 129,
+   "Complicating": 5,
+   "NumberOfRating": 3,
+   "Order": 9
+ },
+ {
+   "Question": "Есть концентратор DualSpeed, который может работать на скоростях 10 Мбит/с и 100 Мбит/с. К нему подключен узел сети стандарта 10Base-T. С какой скоростью будут взаимодействовать два узла стандарта 100Base-TX, при их подключении к данному концентратору?",
+   "QuestionID": 130,
+   "Complicating": 5,
+   "NumberOfRating": 3,
+   "Order": 10
+ },
+ {
+   "Question": "Есть коммутатор DualSpeed, который может работать на скоростях 10 Мбит/с и 100 Мбит/с. К нему подключен узел сети стандарта 10Base-T. С какой скоростью будут взаимодействовать два узла стандарта 100Base-TX, при их подключении к данному коммутатору?",
+   "QuestionID": 131,
+   "Complicating": 5,
+   "NumberOfRating": 3,
+   "Order": 11
+ },
+ {
+   "Question": "Коммутатор передает пакеты между своими портами, анализируя?",
+   "QuestionID": 132,
+   "Complicating": 5,
+   "NumberOfRating": 3,
+   "Order": 12
+ },
+ {
+   "Question": "На каком уровне модели OSI работает маршрутизатор?",
+   "QuestionID": 133,
+   "Complicating": 5,
+   "NumberOfRating": 3,
+   "Order": 13
+ },
+ {
+   "Question": "На каком уровне модели OSI работает коммутатор?",
+   "QuestionID": 134,
+   "Complicating": 5,
+   "NumberOfRating": 3,
+   "Order": 14
+ },
+ {
+   "Question": "Могут ли сети рекомендации X.25 обеспечивать передачу данных без искажений даже на линиях связи плохого качества?",
+   "QuestionID": 136,
+   "Complicating": 3,
+   "NumberOfRating": 4,
+   "Order": 1
+ },
+ {
+   "Question": "Могут ли сети технологии Frame Relay обеспечивать передачу данных без искажений даже а линиях связи плохого качества?",
+   "QuestionID": 137,
+   "Complicating": 3,
+   "NumberOfRating": 4,
+   "Order": 2
+ },
+ {
+   "Question": "Содержит ли пакет X.25 поле контрольной последовательности блока данных (FCS)?",
+   "QuestionID": 138,
+   "Complicating": 3,
+   "NumberOfRating": 4,
+   "Order": 3
+ },
+ {
+   "Question": "Содержит ли кадр X.25 поле контрольной последовательности блока данных (FCS)?",
+   "QuestionID": 139,
+   "Complicating": 3,
+   "NumberOfRating": 4,
+   "Order": 4
+ },
+ {
+   "Question": "Существует ли возможность модернизации сети технологии X.25 до сети технологии Frame Relay?",
+   "QuestionID": 140,
+   "Complicating": 3,
+   "NumberOfRating": 4,
+   "Order": 5
+ },
+ {
+   "Question": "Регламентировано ли использование виртуальных каналов в сетях стандарта Frame Relay?",
+   "QuestionID": 141,
+   "Complicating": 3,
+   "NumberOfRating": 4,
+   "Order": 6
+ },
+ {
+   "Question": "Возможно ли использование технологии Frame Relay для объединения локальных сетей?",
+   "QuestionID": 143,
+   "Complicating": 3,
+   "NumberOfRating": 4,
+   "Order": 8
+ },
+ {
+   "Question": "Возможна ли эмуляция традиционных протоколов ЛВС с использованием сетевого оборудования технологии АТМ?",
+   "QuestionID": 144,
+   "Complicating": 3,
+   "NumberOfRating": 4,
+   "Order": 9
+ },
+ {
+   "Question": "Особенностью технологии Frame Relay является отказ от коррекции обнаруженных в кадрах искажений. Сказывается ли это на достоверности передачи данных по сети?",
+   "QuestionID": 145,
+   "Complicating": 3,
+   "NumberOfRating": 4,
+   "Order": 10
+ },
+ {
+   "Question": "Возможно ли использование частного коммутатора АТМ (Private ATM Switch) в качестве оконечного коммутатора (с которым соединен пользователь) сети технологии Frame Relay?",
+   "QuestionID": 146,
+   "Complicating": 3,
+   "NumberOfRating": 4,
+   "Order": 11
+ },
+ {
+   "Question": "Для чего предназначены блоки данных формата супервизора (Supervisory (S) frames) в протоколе LAPB?",
+   "QuestionID": 147,
+   "Complicating": 3,
+   "NumberOfRating": 4,
+   "Order": 12
+ },
+ {
+   "Question": "Что представляет собой система подвижной связи ГЛОБАЛСТАР?",
+   "QuestionID": 148,
+   "Complicating": 3,
+   "NumberOfRating": 4,
+   "Order": 13
+ },
+ {
+   "Question": "Что означает рекомендация X.25?",
+   "QuestionID": 151,
+   "Complicating": 4,
+   "NumberOfRating": 4,
+   "Order": 1
+ },
+ {
+   "Question": "Почему сеть Frame Relay обеспечивает более высокую производительность по сравнению с сетью X.25?",
+   "QuestionID": 153,
+   "Complicating": 4,
+   "NumberOfRating": 4,
+   "Order": 3
+ },
+ {
+   "Question": "Какой тип виртуальных цепей не регламентирует технология X.25?",
+   "QuestionID": 154,
+   "Complicating": 4,
+   "NumberOfRating": 4,
+   "Order": 4
+ },
+ {
+   "Question": "Какой тип антенн следует использовать оператору сотовой связи для снижения уровня помех?",
+   "QuestionID": 155,
+   "Complicating": 4,
+   "NumberOfRating": 4,
+   "Order": 5
+ },
+ {
+   "Question": "Что является основой для аутентификации и шифрования передаваемых данных в мобильной сети?",
+   "QuestionID": 156,
+   "Complicating": 4,
+   "NumberOfRating": 4,
+   "Order": 6
+ },
+ {
+   "Question": "Продолжите утверждение: Центр коммуникации подвижной связи?",
+   "QuestionID": 157,
+   "Complicating": 4,
+   "NumberOfRating": 4,
+   "Order": 7
+ },
+ {
+   "Question": "Какой из стандартов сетей сотовой подвижной связи (ССПС) обеспечивает наибольшую общую скорость передачи данных (Кбит/с)?",
+   "QuestionID": 159,
+   "Complicating": 4,
+   "NumberOfRating": 4,
+   "Order": 9
+ },
+ {
+   "Question": "В чем особенность технологии пакетной коммутации ATM?",
+   "QuestionID": 160,
+   "Complicating": 4,
+   "NumberOfRating": 4,
+   "Order": 10
+ },
+ {
+   "Question": "Что регламентирует интерфейс базового уровня (BRI) в сетях технологии ISDN?",
+   "QuestionID": 161,
+   "Complicating": 4,
+   "NumberOfRating": 4,
+   "Order": 11
+ },
+ {
+   "Question": "Что регламентирует интерфейс первичного уровня (PRI) в сетях технологии ISDN?",
+   "QuestionID": 162,
+   "Complicating": 4,
+   "NumberOfRating": 4,
+   "Order": 12
+ },
+ {
+   "Question": "Какова основная причина, сдерживающая применение сетей Frame Relay для передачи голоса?",
+   "QuestionID": 163,
+   "Complicating": 4,
+   "NumberOfRating": 4,
+   "Order": 13
+ },
+ {
+   "Question": "Выберите верное утверждение.",
+   "QuestionID": 164,
+   "Complicating": 4,
+   "NumberOfRating": 4,
+   "Order": 14
+ },
+ {
+   "Question": "Как функционирует дополнительный механизм оповещения пользователей сети Frame Relay о перегрузках?",
+   "QuestionID": 165,
+   "Complicating": 4,
+   "NumberOfRating": 4,
+   "Order": 15
+ },
+ {
+   "Question": "Что определяет рекомендация X.121 CCITT?",
+   "QuestionID": 166,
+   "Complicating": 5,
+   "NumberOfRating": 4,
+   "Order": 1
+ },
+ {
+   "Question": "Какую логическую организацию имеет интерфейс базового уровня (BRI) технологии ISDN?",
+   "QuestionID": 167,
+   "Complicating": 5,
+   "NumberOfRating": 4,
+   "Order": 2
+ },
+ {
+   "Question": "Какие классы служб AAL технологии ATM ориентированы на передачу аудио и видеоданных?",
+   "QuestionID": 168,
+   "Complicating": 5,
+   "NumberOfRating": 4,
+   "Order": 3
+ },
+ {
+   "Question": "Какие специфические типы интерфейсов используются в сетях технологии ISDN?",
+   "QuestionID": 169,
+   "Complicating": 5,
+   "NumberOfRating": 4,
+   "Order": 4
+ },
+ {
+   "Question": "Какую скорость передачи данных может обеспечить сеть технологии Frame Relay?",
+   "QuestionID": 170,
+   "Complicating": 5,
+   "NumberOfRating": 4,
+   "Order": 5
+ },
+ {
+   "Question": "Какую сетевую технологию предпочтительнее использовать для передачи видео и голосовых сообщений (с точки зрения качества)?",
+   "QuestionID": 171,
+   "Complicating": 5,
+   "NumberOfRating": 4,
+   "Order": 6
+ },
+ {
+   "Question": "С какой целью была разработана спецификация LANE в рамках технологии ATM?",
+   "QuestionID": 172,
+   "Complicating": 5,
+   "NumberOfRating": 4,
+   "Order": 7
+ },
+ {
+   "Question": "Какой существует способ для более частого повторного применения частоты в сотах?",
+   "QuestionID": 174,
+   "Complicating": 5,
+   "NumberOfRating": 4,
+   "Order": 9
+ },
+ {
+   "Question": "Для чего используется трансляционное устройство PAD (пакетный ассемблер / дизассемблер) в сетях технологии X.25?",
+   "QuestionID": 176,
+   "Complicating": 5,
+   "NumberOfRating": 4,
+   "Order": 11
+ },
+ {
+   "Question": "В каком случае в сетях технологии Frame Relay кадры, подлежащие удалению, то есть помеченные признаком DE (Discard Eligibility) все-таки доставляются адресату?",
+   "QuestionID": 178,
+   "Complicating": 5,
+   "NumberOfRating": 4,
+   "Order": 13
+ },
+ {
+   "Question": "В какой сетевой технологии все коммутаторы используют алгоритм <дырявого ведра> (Leaky Bucket) для контроля соглашения о параметрах качества обслуживания?",
+   "QuestionID": 180,
+   "Complicating": 5,
+   "NumberOfRating": 4,
+   "Order": 15
+ },
+ {
+   "Question": "Стек протоколов - это:",
+   "QuestionID": 184,
+   "Complicating": 3,
+   "NumberOfRating": 5,
+   "Order": 1
+ },
+ {
+   "Question": "Какой из перечисленных наборов представляет собой стандартный стек протоколов?",
+   "QuestionID": 185,
+   "Complicating": 3,
+   "NumberOfRating": 5,
+   "Order": 2
+ },
+ {
+   "Question": "К какому типу относится протокол FTP?",
+   "QuestionID": 186,
+   "Complicating": 3,
+   "NumberOfRating": 5,
+   "Order": 3
+ },
+ {
+   "Question": "Какому уровню стека TCP/IP соответствуют 4 и 5 уровни модели OSI?",
+   "QuestionID": 187,
+   "Complicating": 3,
+   "NumberOfRating": 5,
+   "Order": 4
+ },
+ {
+   "Question": "Сколько двоичных разрядов содержит IP-адрес в протоколе IPv4?",
+   "QuestionID": 188,
+   "Complicating": 3,
+   "NumberOfRating": 5,
+   "Order": 5
+ },
+ {
+   "Question": "Форматы и процедуры протокола LAPD основаны на протоколе:",
+   "QuestionID": 190,
+   "Complicating": 3,
+   "NumberOfRating": 5,
+   "Order": 7
+ },
+ {
+   "Question": "Протокол SLIP предназначен для",
+   "QuestionID": 191,
+   "Complicating": 3,
+   "NumberOfRating": 5,
+   "Order": 8
+ },
+ {
+   "Question": "Обычно какое сетевое устройство осуществляет фрагментацию дейтаграммы?",
+   "QuestionID": 192,
+   "Complicating": 3,
+   "NumberOfRating": 5,
+   "Order": 9
+ },
+ {
+   "Question": "Какое поле заголовка протокола IPv4 ограничивает продолжительность пребывания дейтаграммы с интерсети?",
+   "QuestionID": 193,
+   "Complicating": 3,
+   "NumberOfRating": 5,
+   "Order": 10
+ },
+ {
+   "Question": "Сети какого класса IP- адреса являются самыми большими?",
+   "QuestionID": 194,
+   "Complicating": 3,
+   "NumberOfRating": 5,
+   "Order": 11
+ },
+ {
+   "Question": "Какая запись соответствует маске подсети при IP - адресации?",
+   "QuestionID": 196,
+   "Complicating": 3,
+   "NumberOfRating": 5,
+   "Order": 13
+ },
+ {
+   "Question": "Кадр RNR (не готов к приему) протокола HDLC используется принимающей станцией для индикации:",
+   "QuestionID": 200,
+   "Complicating": 4,
+   "NumberOfRating": 5,
+   "Order": 2
+ },
+ {
+   "Question": "В каждом кадре протокола SLIP воспроизводится:",
+   "QuestionID": 201,
+   "Complicating": 4,
+   "NumberOfRating": 5,
+   "Order": 3
+ },
+ {
+   "Question": "Запрашиваемый сервис (биты типа передачи D,T и R) в протоколе IP можно рассматривать как:",
+   "QuestionID": 204,
+   "Complicating": 4,
+   "NumberOfRating": 5,
+   "Order": 6
+ },
+ {
+   "Question": "IP - адреса кодируют как сеть, так и узел в этой сети и описывыают:",
+   "QuestionID": 207,
+   "Complicating": 4,
+   "NumberOfRating": 5,
+   "Order": 9
+ },
+ {
+   "Question": "Какой из приведенных IP-адресов является локальным широковещательным адресом?",
+   "QuestionID": 210,
+   "Complicating": 4,
+   "NumberOfRating": 5,
+   "Order": 12
+ },
+ {
+   "Question": "Протокол ICMP:",
+   "QuestionID": 211,
+   "Complicating": 4,
+   "NumberOfRating": 5,
+   "Order": 13
+ },
+ {
+   "Question": "Услугами какого протокола пользуется протокол ICMP для доставки своих сообщений?",
+   "QuestionID": 212,
+   "Complicating": 4,
+   "NumberOfRating": 5,
+   "Order": 14
+ },
+ {
+   "Question": "Какая из версий протокола маршрутизации RIP позволяет работать с масками подсетей и поддерживает групповую рассылку?",
+   "QuestionID": 213,
+   "Complicating": 4,
+   "NumberOfRating": 5,
+   "Order": 15
+ },
+ {
+   "Question": "Какой режим взаимодействия обычно называют межсетевым взаимодействием?",
+   "QuestionID": 214,
+   "Complicating": 5,
+   "NumberOfRating": 5,
+   "Order": 1
+ },
+ {
+   "Question": "Сколько фаз определено для РРР-соединения?",
+   "QuestionID": 219,
+   "Complicating": 5,
+   "NumberOfRating": 5,
+   "Order": 6
+ },
+ {
+   "Question": "Если машина-отправитель включила опцию записи маршрута в IP-дейтаграмме, то информацию о пройденом пути она:",
+   "QuestionID": 223,
+   "Complicating": 5,
+   "NumberOfRating": 5,
+   "Order": 10
+ },
+ {
+   "Question": "Отсутствие поля контрольной суммы заголовка пакета IPv6 напрямую обусловлено:",
+   "QuestionID": 224,
+   "Complicating": 5,
+   "NumberOfRating": 5,
+   "Order": 11
+ },
+ {
+   "Question": "При повреждении фрагментированной дейтаграммы, ICMP-сообщение отправляют:",
+   "QuestionID": 225,
+   "Complicating": 5,
+   "NumberOfRating": 5,
+   "Order": 12
+ },
+ {
+   "Question": "В алгоритмах дистанционно-векторного типа каждый маршрутизатор:",
+   "QuestionID": 226,
+   "Complicating": 5,
+   "NumberOfRating": 5,
+   "Order": 13
+ },
+ {
+   "Question": "Для работы алгоритма OSPF на каждом маршрутизаторе строится база данных состояния связей, которая представляет собой таблицу. где:",
+   "QuestionID": 227,
+   "Complicating": 5,
+   "NumberOfRating": 5,
+   "Order": 14
+ },
+ {
+   "Question": "Какой протокол в каченстве транспорта использует протокол FTP:",
+   "QuestionID": 228,
+   "Complicating": 5,
+   "NumberOfRating": 5,
+   "Order": 15
+ },
+ {
+   "Question": "Что является базовым понятием в рекомендациях Х.400?",
+   "QuestionID": 230,
+   "Complicating": 3,
+   "NumberOfRating": 6,
+   "Order": 2
+ },
+ {
+   "Question": "Какая система адресации используется в системах на базе рекомендаций Х.400?",
+   "QuestionID": 231,
+   "Complicating": 3,
+   "NumberOfRating": 6,
+   "Order": 3
+ },
+ {
+   "Question": "Возможна ли динамическая маршрутизация в системах Х.400?",
+   "QuestionID": 232,
+   "Complicating": 3,
+   "NumberOfRating": 6,
+   "Order": 4
+ },
+ {
+   "Question": "Существуют ли почтовые системы на базе протокола SMTP?",
+   "QuestionID": 233,
+   "Complicating": 3,
+   "NumberOfRating": 6,
+   "Order": 5
+ },
+ {
+   "Question": "Протокол SMTP предназначался исключительно для:",
+   "QuestionID": 234,
+   "Complicating": 3,
+   "NumberOfRating": 6,
+   "Order": 6
+ },
+ {
+   "Question": "Какая система адресации используется в системах на базе SMTP?",
+   "QuestionID": 235,
+   "Complicating": 3,
+   "NumberOfRating": 6,
+   "Order": 7
+ },
+ {
+   "Question": "Какое максимальное количество символов может содержать символическое имя почтового ящика (mailbox) в SMTP?",
+   "QuestionID": 237,
+   "Complicating": 3,
+   "NumberOfRating": 6,
+   "Order": 9
+ },
+ {
+   "Question": "Какое максимальное количество символов может иметь уникальное имя почтового домена (domain) в системе на базе SMTP?",
+   "QuestionID": 238,
+   "Complicating": 3,
+   "NumberOfRating": 6,
+   "Order": 10
+ },
+ {
+   "Question": "В какой почтовой системе используется адресация вида: USER at POST OFFICE?",
+   "QuestionID": 239,
+   "Complicating": 3,
+   "NumberOfRating": 6,
+   "Order": 11
+ },
+ {
+   "Question": "В какой почтовой системе используется адресация вида: NETWORK/PO/USER?",
+   "QuestionID": 240,
+   "Complicating": 3,
+   "NumberOfRating": 6,
+   "Order": 12
+ },
+ {
+   "Question": "Каталоги в системах электронной почты необходимы пользователю для получения расширенной информации о каком-либо предмете на основе:",
+   "QuestionID": 241,
+   "Complicating": 3,
+   "NumberOfRating": 6,
+   "Order": 13
+ },
+ {
+   "Question": "Служба новостей (Network News) создана для организации:",
+   "QuestionID": 243,
+   "Complicating": 3,
+   "NumberOfRating": 6,
+   "Order": 15
+ },
+ {
+   "Question": "Рекомендация Х.400 опирается на семиуровневую модель и семейство протоколов:",
+   "QuestionID": 244,
+   "Complicating": 4,
+   "NumberOfRating": 6,
+   "Order": 1
+ },
+ {
+   "Question": "В терминах Х.400 среда управления сообщениями (MHE- Messaging Handling Environment) представляет собой:",
+   "QuestionID": 245,
+   "Complicating": 4,
+   "NumberOfRating": 6,
+   "Order": 2
+ },
+ {
+   "Question": "Как называется подсистема MHS, выступающая в роли клиента в процессе обмена почтовыми сообщениями?",
+   "QuestionID": 246,
+   "Complicating": 4,
+   "NumberOfRating": 6,
+   "Order": 3
+ },
+ {
+   "Question": "Как называется подсистема MHS, в функции которой входит посылка, прием и хранение сообщений от пользовательских агентов и агентов передачи сообщений?",
+   "QuestionID": 247,
+   "Complicating": 4,
+   "NumberOfRating": 6,
+   "Order": 4
+ },
+ {
+   "Question": "Какая спецификация определяет формат конверта Х.400?",
+   "QuestionID": 249,
+   "Complicating": 4,
+   "NumberOfRating": 6,
+   "Order": 6
+ },
+ {
+   "Question": "Какой формат используется для представления интерперсонального сообщения (IPM-Inter Personal Message) в системах Х.400?",
+   "QuestionID": 250,
+   "Complicating": 4,
+   "NumberOfRating": 6,
+   "Order": 7
+ },
+ {
+   "Question": "Пользовательский адрес Х.400 представляет собой:",
+   "QuestionID": 251,
+   "Complicating": 4,
+   "NumberOfRating": 6,
+   "Order": 8
+ },
+ {
+   "Question": "Протокол обслуживания почтового офиса версии POP3 (POP - Post Office Protocol ) используется в современных:",
+   "QuestionID": 252,
+   "Complicating": 4,
+   "NumberOfRating": 6,
+   "Order": 9
+ },
+ {
+   "Question": "Какая организация занимается регистрацией имен почтовых доменов первого уровня в системах SMTP?",
+   "QuestionID": 253,
+   "Complicating": 4,
+   "NumberOfRating": 6,
+   "Order": 10
+ },
+ {
+   "Question": "Как называется SMTP-сервер, непосредственно подключенный к Internet и выполняющий доставку сообщений напрямую адресатам внутри организации, к которой он принадлежит?",
+   "QuestionID": 254,
+   "Complicating": 4,
+   "NumberOfRating": 6,
+   "Order": 11
+ },
+ {
+   "Question": "При задании названия пользовательского почтового ящика в системе Lotus cc:Mail разрешается использовать:",
+   "QuestionID": 255,
+   "Complicating": 4,
+   "NumberOfRating": 6,
+   "Order": 12
+ },
+ {
+   "Question": "Какой протокол используется в службе новостей Интернет для общения между собой серверов и клиента с сервером?",
+   "QuestionID": 257,
+   "Complicating": 4,
+   "NumberOfRating": 6,
+   "Order": 14
+ },
+ {
+   "Question": "Что относится к службе совместного использования информации?",
+   "QuestionID": 258,
+   "Complicating": 4,
+   "NumberOfRating": 6,
+   "Order": 15
+ },
+ {
+   "Question": "Как называется подсистема MHS , в обязанности которой входит обмен сообщениями с пользовательскими агентами?",
+   "QuestionID": 259,
+   "Complicating": 5,
+   "NumberOfRating": 6,
+   "Order": 1
+ },
+ {
+   "Question": "Как называется подсистема MHS, которая выполняет функции приема, доставки и промежуточного хранения ссобщений?",
+   "QuestionID": 260,
+   "Complicating": 5,
+   "NumberOfRating": 6,
+   "Order": 2
+ },
+ {
+   "Question": "В системах Х.400 для автоматического уведомления отправителя о факте доставки и/или прочтения посланного им сообщения используют:",
+   "QuestionID": 261,
+   "Complicating": 5,
+   "NumberOfRating": 6,
+   "Order": 3
+ },
+ {
+   "Question": "Необязательная подсистема MHS, выступающая в роли клиента при доступе к каталогу в системах Х.400?",
+   "QuestionID": 262,
+   "Complicating": 5,
+   "NumberOfRating": 6,
+   "Order": 4
+ },
+ {
+   "Question": "Дополнительный компонент системы MHS, являющийся частью каталога и предоставляющий доступ к хранящейся в нем информации локальным и внешним агентам в системах Х.400?",
+   "QuestionID": 263,
+   "Complicating": 5,
+   "NumberOfRating": 6,
+   "Order": 5
+ },
+ {
+   "Question": "Для разделения атрибутов в пользовательском адресе Х.400 используют:",
+   "QuestionID": 264,
+   "Complicating": 5,
+   "NumberOfRating": 6,
+   "Order": 6
+ },
+ {
+   "Question": "Укажите вид, в котором записывается каждый атрибут адреса Х.400.",
+   "QuestionID": 265,
+   "Complicating": 5,
+   "NumberOfRating": 6,
+   "Order": 7
+ },
+ {
+   "Question": "Протокол РОР3 создан для обслуживания почтового отделения (офиса) в режиме:",
+   "QuestionID": 267,
+   "Complicating": 5,
+   "NumberOfRating": 6,
+   "Order": 9
+ },
+ {
+   "Question": "Какой протокол разработан для просмотра и манипуляции свойствами почтового сообщения непосредственно на сервере в SMTP- системах?",
+   "QuestionID": 268,
+   "Complicating": 5,
+   "NumberOfRating": 6,
+   "Order": 10
+ },
+ {
+   "Question": "За интепретацию содержимого почтового сообщения в SMTP-системе должна отвечать только:",
+   "QuestionID": 269,
+   "Complicating": 5,
+   "NumberOfRating": 6,
+   "Order": 11
+ },
+ {
+   "Question": "Для каждого отдельного домена SMTP-системы может быть определено в качестве relay-сервера:",
+   "QuestionID": 270,
+   "Complicating": 5,
+   "NumberOfRating": 6,
+   "Order": 12
+ },
+ {
+   "Question": "Какой компьютер осуществляет пересылку сообщений на основе собственной статической таблицы маршрутизации в SMTP - системе?",
+   "QuestionID": 271,
+   "Complicating": 5,
+   "NumberOfRating": 6,
+   "Order": 13
+ },
+ {
+   "Question": "В какой системе почтовое отделение представляет собой набор файлов и каталогов определенной структуры, располагаемых на разделяемом ресурсе файлового сервера?",
+   "QuestionID": 272,
+   "Complicating": 5,
+   "NumberOfRating": 6,
+   "Order": 14
+ },
+ {
+   "Question": "На основании чего поддерживается маршрутизация входящей почты и фильтрация входящих сообщений в MS Exchange Server?",
+   "QuestionID": 273,
+   "Complicating": 5,
+   "NumberOfRating": 6,
+   "Order": 15
+ },
+ {
+   "Question": "Протокол РРР реализует:",
+   "QuestionID": 202,
+   "Complicating": 4,
+   "NumberOfRating": 5,
+   "Order": 4
+ },
+ {
+   "Question": "Поле <Время жизни> дейтаграммы указывает:",
+   "QuestionID": 206,
+   "Complicating": 4,
+   "NumberOfRating": 5,
+   "Order": 8
+ },
+ {
+   "Question": "Какой из приведенных IP-адресов является направленным широковещательным адресом?",
+   "QuestionID": 209,
+   "Complicating": 4,
+   "NumberOfRating": 5,
+   "Order": 11
+ },
+ {
+   "Question": "Как интерпретировать IP-адрес, содержащий все единицы?",
+   "QuestionID": 208,
+   "Complicating": 4,
+   "NumberOfRating": 5,
+   "Order": 10
+ },
+ {
+   "Question": "В какой конфигурации соединения звена данных для передачи информационных кадров протокола LAPD используется способ <передача с подтверждением>?",
+   "QuestionID": 217,
+   "Complicating": 5,
+   "NumberOfRating": 5,
+   "Order": 4
+ },
+ {
+   "Question": "Протокол доступа к каталогу (LDAP) был создан:",
+   "QuestionID": 242,
+   "Complicating": 3,
+   "NumberOfRating": 6,
+   "Order": 14
+ },
+ {
+   "Question": "<Счет до бесконечности> возможен в протоколе",
+   "QuestionID": 197,
+   "Complicating": 3,
+   "NumberOfRating": 5,
+   "Order": 14
+ },
+ {
+   "Question": "Для подключения к ресурсу сети Х.25 пользователю достаточно иметь компьютер и:",
+   "QuestionID": 274,
+   "Complicating": 5,
+   "NumberOfRating": 4,
+   "Order": 16
+ },
+ {
+   "Question": "Каким образом подключается к сети ISDN терминальное оборудование ТЕ1?",
+   "QuestionID": 276,
+   "Complicating": 5,
+   "NumberOfRating": 4,
+   "Order": 18
+ },
+ {
+   "Question": "Каким образом подключается к сети ISDN терминальное оборудование ТЕ2?",
+   "QuestionID": 275,
+   "Complicating": 5,
+   "NumberOfRating": 4,
+   "Order": 17
+ },
+ {
+   "Question": "Что делает технология Frame Relау с искаженными кадрами?",
+   "QuestionID": 277,
+   "Complicating": 5,
+   "NumberOfRating": 4,
+   "Order": 19
+ },
+ {
+   "Question": "Какой параметр виртуального соединения , по которому абонент и сеть Frame Relay заключают соглашение, является основным?",
+   "QuestionID": 278,
+   "Complicating": 5,
+   "NumberOfRating": 4,
+   "Order": 20
+ },
+ {
+   "Question": "Пользователь, пользуясь услугами сети Frame Relay, оплачивает только:",
+   "QuestionID": 280,
+   "Complicating": 5,
+   "NumberOfRating": 4,
+   "Order": 22
+ },
+ {
+   "Question": "Уровень адаптации АТМ - <AAL>, предлагает интерфейс между сетью АТМ и:",
+   "QuestionID": 282,
+   "Complicating": 5,
+   "NumberOfRating": 4,
+   "Order": 24
+ },
+ {
+   "Question": "Какую топологию соединения коммутаторов АТМ поддерживает спецификация LANE, если она обеспечивает совместную работу сетей Ethernet и АТМ на канальном уровне?",
+   "QuestionID": 283,
+   "Complicating": 5,
+   "NumberOfRating": 4,
+   "Order": 25
+ },
+ {
+   "Question": "Какие адреса должен иметь конвертор ATM-LAN для взаимодействия с другими конверторами по сети АТМ?",
+   "QuestionID": 284,
+   "Complicating": 5,
+   "NumberOfRating": 4,
+   "Order": 26
+ },
+ {
+   "Question": "Информацию о каких адресах должен иметь конвертор АTM-LAN при присоединении локальных сетей к сети АТМ по спецификации LANE?",
+   "QuestionID": 285,
+   "Complicating": 5,
+   "NumberOfRating": 4,
+   "Order": 27
+ },
+ {
+   "Question": "В каких устройствах могут быть реализованы основные элементы, реализующие спецификацию LANE, - клиентская (LEC) и серверная (LES) программные компоненты?",
+   "QuestionID": 286,
+   "Complicating": 5,
+   "NumberOfRating": 4,
+   "Order": 28
+ },
+ {
+   "Question": "Почему в сетях АТМ функция рассылки широковещательных сообщений не поддерживается?",
+   "QuestionID": 287,
+   "Complicating": 5,
+   "NumberOfRating": 4,
+   "Order": 29
+ },
+ {
+   "Question": "Какой сервер выполняет рассылку широковещательных сообщений и пакетов с неизвестным адресом локальной сети Ethernet через АТМ сеть в спецификации LANE?",
+   "QuestionID": 288,
+   "Complicating": 5,
+   "NumberOfRating": 4,
+   "Order": 30
+ },
+ {
+   "Question": "Что может являться членом списка рассылки в рекомендациях Х.400?",
+   "QuestionID": 248,
+   "Complicating": 4,
+   "NumberOfRating": 6,
+   "Order": 5
+ },
+ {
+   "Question": "Режим нормального ответа (NRM-Normal Response Mode) протокола HDLC:",
+   "QuestionID": 289,
+   "Complicating": 5,
+   "NumberOfRating": 5,
+   "Order": 16
+ },
+ {
+   "Question": "Максимальное число каких переданных, но не подтвержденных кадров определяет системный параметр К протокола HDLC?",
+   "QuestionID": 292,
+   "Complicating": 5,
+   "NumberOfRating": 5,
+   "Order": 19
+ },
+ {
+   "Question": "Какие кадры нумеруются по модулю 128 в протоколе LAPD?",
+   "QuestionID": 293,
+   "Complicating": 5,
+   "NumberOfRating": 5,
+   "Order": 20
+ },
+ {
+   "Question": "Допускается ли динамическое назначение IP-адресов для установления связи при использовании протокола SLIP?",
+   "QuestionID": 294,
+   "Complicating": 5,
+   "NumberOfRating": 5,
+   "Order": 21
+ },
+ {
+   "Question": "Пакеты каких протоколов сетевого уровня переносит кадр протокола РРР?",
+   "QuestionID": 295,
+   "Complicating": 5,
+   "NumberOfRating": 5,
+   "Order": 22
+ },
+ {
+   "Question": "На основе содержимого каких полей принятых фрагментов программное обеспечение сетевого уровня получателя может вычислить длину исходной IP дейтаграммы?",
+   "QuestionID": 296,
+   "Complicating": 5,
+   "NumberOfRating": 5,
+   "Order": 23
+ },
+ {
+   "Question": "После фрагментирования дейтаграммы, ее фрагменты передаются как отдельные дейтаграммы:",
+   "QuestionID": 297,
+   "Complicating": 5,
+   "NumberOfRating": 5,
+   "Order": 24
+ },
+ {
+   "Question": "Когда маршрутизатор не может доставить IP-дейтаграмму, сообщение какого протокола <назначение недостижимо> он посылает первоначальному отправителю?",
+   "QuestionID": 298,
+   "Complicating": 5,
+   "NumberOfRating": 5,
+   "Order": 25
+ },
+ {
+   "Question": "В случае перегрузки какое сообщение маршрутизатор оптравляет в ответ на удаляемую дейтаграмму?",
+   "QuestionID": 299,
+   "Complicating": 5,
+   "NumberOfRating": 5,
+   "Order": 26
+ },
+ {
+   "Question": "Что представляет собой метрика в протоколе RIP?",
+   "QuestionID": 300,
+   "Complicating": 5,
+   "NumberOfRating": 5,
+   "Order": 27
+ },
+ {
+   "Question": "Метрика канала с какой скоростью передачи данных равна единице в протоколе OSPF?",
+   "QuestionID": 301,
+   "Complicating": 5,
+   "NumberOfRating": 5,
+   "Order": 28
+ },
+ {
+   "Question": "Чему равна метрика сети на базе 100Base-TX в протоколе OSPF?",
+   "QuestionID": 302,
+   "Complicating": 5,
+   "NumberOfRating": 5,
+   "Order": 29
+ },
+ {
+   "Question": "Что является адресом назначения на транспортном уровне стека TCP/IP?",
+   "QuestionID": 303,
+   "Complicating": 5,
+   "NumberOfRating": 5,
+   "Order": 30
+ },
+ {
+   "Question": "Какой протокол основного уровня стека TCP/IP использует в качестве транспорта протокол FTP?",
+   "QuestionID": 198,
+   "Complicating": 3,
+   "NumberOfRating": 5,
+   "Order": 15
+ },
+ {
+   "Question": "Режим асинхронного ответа (ARM - Asynchonous Response Mode) протокола HDLC:",
+   "QuestionID": 290,
+   "Complicating": 5,
+   "NumberOfRating": 5,
+   "Order": 17
+ },
+ {
+   "Question": "IP - адрес идентифицирует подключенный к сети",
+   "QuestionID": 195,
+   "Complicating": 3,
+   "NumberOfRating": 5,
+   "Order": 12
+ },
+ {
+   "Question": "Протокол РРР использует принципы, терминалогию и структуру блока данных процедур протокола HDLC и предъявляет следующие требования к интерфейсу физического уровня:",
+   "QuestionID": 203,
+   "Complicating": 4,
+   "NumberOfRating": 5,
+   "Order": 5
+ },
+ {
+   "Question": "Между какими станциями асинхронный сбалансированный режим протокола HDLC обеспечивает двусторонний обмен потоками данных?",
+   "QuestionID": 215,
+   "Complicating": 5,
+   "NumberOfRating": 5,
+   "Order": 2
+ },
+ {
+   "Question": "Команда SABM (Set Asynchronous Balanced Mode) протокола HDLC устанавливает асинхронный сбалансированный режим, в котором:",
+   "QuestionID": 216,
+   "Complicating": 5,
+   "NumberOfRating": 5,
+   "Order": 3
+ },
+ {
+   "Question": "При работе с реальными телефонными линиями, зашумленными и поэтому искажающими информацию при пересылке, необходимы процедуры обнаружения и коррекции ошибок. В протоколе SLIP такие процедуры:",
+   "QuestionID": 218,
+   "Complicating": 5,
+   "NumberOfRating": 5,
+   "Order": 5
+ },
+ {
+   "Question": "Сколько бит занимает поле <Общая длина>, которое определяет максимально возможный размер дейтаграммы IPv4?",
+   "QuestionID": 220,
+   "Complicating": 5,
+   "NumberOfRating": 5,
+   "Order": 7
+ },
+ {
+   "Question": "Вероятность потери дейтаграммы при использовании фрагментации:",
+   "QuestionID": 221,
+   "Complicating": 5,
+   "NumberOfRating": 5,
+   "Order": 8
+ },
+ {
+   "Question": "При прохождении дейтаграммой промежуточных маршрутизаторов поля IP-адреса отправителя и получателя в дейтаграмме:",
+   "QuestionID": 222,
+   "Complicating": 5,
+   "NumberOfRating": 5,
+   "Order": 9
+ },
+ {
+   "Question": "Асинхронный сбалансированный режим (ABM - Asynchronous Balanse Mode) протокола HDLC:",
+   "QuestionID": 291,
+   "Complicating": 5,
+   "NumberOfRating": 5,
+   "Order": 18
+ },
+ {
+   "Question": "Транспортный уровень",
+   "QuestionID": 9,
+   "Complicating": 3,
+   "NumberOfRating": 1,
+   "Order": 9
+ },
+ {
+   "Question": "На каком уровне модели OSI начинается процесс создания пакета?",
+   "QuestionID": 22,
+   "Complicating": 4,
+   "NumberOfRating": 1,
+   "Order": 7
+ },
+ {
+   "Question": "Для контроля упорядоченной доставки пакетов на транспортном уровне используется",
+   "QuestionID": 41,
+   "Complicating": 5,
+   "NumberOfRating": 1,
+   "Order": 11
+ },
+ {
+   "Question": "Между какими узлами локальной сети обеспечивает доставку кадра канальный уровень?",
+   "QuestionID": 306,
+   "Complicating": 5,
+   "NumberOfRating": 1,
+   "Order": 18
+ },
+ {
+   "Question": "На каком уровне модели OSI осуществляется перевод логических адресов и имен в физические адреса?",
+   "QuestionID": 307,
+   "Complicating": 5,
+   "NumberOfRating": 1,
+   "Order": 19
+ },
+ {
+   "Question": "Протоколы каких уровней модели OSI образуют транспортную подсистему?",
+   "QuestionID": 308,
+   "Complicating": 5,
+   "NumberOfRating": 1,
+   "Order": 20
+ },
+ {
+   "Question": "Какой уровень модели OSI обеспечивает синхронизацию между пользовательскими заданиями?",
+   "QuestionID": 309,
+   "Complicating": 5,
+   "NumberOfRating": 1,
+   "Order": 21
+ },
+ {
+   "Question": "Какой уровень отвечает за адресацию сообщений и перевод логических адресов и имен в физические адреса?",
+   "QuestionID": 17,
+   "Complicating": 4,
+   "NumberOfRating": 1,
+   "Order": 2
+ },
+ {
+   "Question": "Функции каких уровней модели OSI может взять на себя приложение пользователя?",
+   "QuestionID": 310,
+   "Complicating": 5,
+   "NumberOfRating": 1,
+   "Order": 22
+ },
+ {
+   "Question": "Из чего состоит область взаимодействия открытых систем?",
+   "QuestionID": 311,
+   "Complicating": 5,
+   "NumberOfRating": 1,
+   "Order": 23
+ },
+ {
+   "Question": "Для образования единой транспортной системы служит",
+   "QuestionID": 23,
+   "Complicating": 4,
+   "NumberOfRating": 1,
+   "Order": 8
+ },
+ {
+   "Question": "Если множество возможных значений информативного параметра сигнала конечно или счетно, то сигнал называется...",
+   "QuestionID": 64,
+   "Complicating": 4,
+   "NumberOfRating": 1,
+   "Order": 16
+ },
+ {
+   "Question": "Зависит ли пропускная способность линии связи от того, какие сигналы передают - аналоговые или цифровые?",
+   "QuestionID": 66,
+   "Complicating": 4,
+   "NumberOfRating": 1,
+   "Order": 18
+ },
+ {
+   "Question": "Количество изменений информативного параметра несущего периодического сигнала в секунду измеряется в ...",
+   "QuestionID": 67,
+   "Complicating": 4,
+   "NumberOfRating": 1,
+   "Order": 19
+ },
+ {
+   "Question": "Модуляция это:",
+   "QuestionID": 68,
+   "Complicating": 4,
+   "NumberOfRating": 1,
+   "Order": 20
+ },
+ {
+   "Question": "В каких сетях оптические трансиверы, расположенные рядом с компьютером, передают сигналы в определенное место, из которого они транслируются соответствующему компьютеру?",
+   "QuestionID": 76,
+   "Complicating": 5,
+   "NumberOfRating": 1,
+   "Order": 24
+ },
+ {
+   "Question": "Сущность импульсно-кодовой модуляции состоит в следующем:",
+   "QuestionID": 77,
+   "Complicating": 5,
+   "NumberOfRating": 1,
+   "Order": 25
+ },
+ {
+   "Question": "Многопозиционную амплитудно-фазовую модуляцию называют:",
+   "QuestionID": 85,
+   "Complicating": 5,
+   "NumberOfRating": 1,
+   "Order": 27
+ },
+ {
+   "Question": "Выберите тип сигнала, имеющий наименьшую ширину спектра.",
+   "QuestionID": 86,
+   "Complicating": 5,
+   "NumberOfRating": 1,
+   "Order": 28
+ },
+ {
+   "Question": "Какой из способов кодирования сигнала применяется в технологии простого Ethernet?",
+   "QuestionID": 88,
+   "Complicating": 5,
+   "NumberOfRating": 1,
+   "Order": 30
+ },
+ {
+   "Question": "Затухание представляет собой:",
+   "QuestionID": 312,
+   "Complicating": 5,
+   "NumberOfRating": 1,
+   "Order": 33
+ },
+ {
+   "Question": "Показатель NEXT используют применительно к кабелю, состоящему из:",
+   "QuestionID": 314,
+   "Complicating": 5,
+   "NumberOfRating": 1,
+   "Order": 35
+ },
+ {
+   "Question": "Выбор способа представления дискретной информации в виде сигналов, подаваемых на линию связи, называется ...",
+   "QuestionID": 75,
+   "Complicating": 4,
+   "NumberOfRating": 1,
+   "Order": 22
+ },
+ {
+   "Question": "От чего зависит: совпадает или нет пропускная способность линии в бит/с с числом бод?",
+   "QuestionID": 315,
+   "Complicating": 5,
+   "NumberOfRating": 1,
+   "Order": 36
+ },
+ {
+   "Question": "Связь между полосой пропускания линии и ее максимальной пропускной способностью, вне зависимости от принятого способа физического кодирования определяется законом:",
+   "QuestionID": 316,
+   "Complicating": 5,
+   "NumberOfRating": 1,
+   "Order": 37
+ },
+ {
+   "Question": "Аналоговая непрерывная функция после АЦП преобразования может быть точно восстановлена, если частота дискретизации:",
+   "QuestionID": 317,
+   "Complicating": 5,
+   "NumberOfRating": 1,
+   "Order": 38
+ },
+ {
+   "Question": "Для качественной передачи голоса в ИКМ используют частоту квантования амплитуты звуковых колебаний в :",
+   "QuestionID": 318,
+   "Complicating": 5,
+   "NumberOfRating": 1,
+   "Order": 39
+ },
+ {
+   "Question": "Что в большей степени определяет качество передачи голоса по цифровым каналам связи?",
+   "QuestionID": 319,
+   "Complicating": 5,
+   "NumberOfRating": 1,
+   "Order": 40
+ },
+ {
+   "Question": "Значность кода - это",
+   "QuestionID": 320,
+   "Complicating": 3,
+   "NumberOfRating": 2,
+   "Order": 2
+ },
+ {
+   "Question": "Чему равно кодовое расстояние для первичных кодов?",
+   "QuestionID": 321,
+   "Complicating": 3,
+   "NumberOfRating": 2,
+   "Order": 7
+ },
+ {
+   "Question": "Появление запрещенной кодовой комбинации на приемной стороне может служить индикатором того, что",
+   "QuestionID": 322,
+   "Complicating": 3,
+   "NumberOfRating": 2,
+   "Order": 8
+ },
+ {
+   "Question": "Сколько проверочных разрядов содержит групповой [n,k]-код?",
+   "QuestionID": 323,
+   "Complicating": 3,
+   "NumberOfRating": 2,
+   "Order": 12
+ },
+ {
+   "Question": "На какое максимальное расстояние можно удалить внешний модем, подключенный через интерфейс RS-232, от компьютера?",
+   "QuestionID": 324,
+   "Complicating": 3,
+   "NumberOfRating": 2,
+   "Order": 13
+ },
+ {
+   "Question": "Каким префиксом начинается командная строка модема?",
+   "QuestionID": 325,
+   "Complicating": 3,
+   "NumberOfRating": 2,
+   "Order": 14
+ },
+ {
+   "Question": "Для какого синхронного протокола характерна процедура байтстаффинга?",
+   "QuestionID": 326,
+   "Complicating": 3,
+   "NumberOfRating": 2,
+   "Order": 15
+ },
+ {
+   "Question": "Для каких кодов условий обратимости больше?",
+   "QuestionID": 327,
+   "Complicating": 4,
+   "NumberOfRating": 2,
+   "Order": 4
+ },
+ {
+   "Question": "Чему равен вес кодового вектора по Хэммингу?",
+   "QuestionID": 328,
+   "Complicating": 4,
+   "NumberOfRating": 2,
+   "Order": 5
+ },
+ {
+   "Question": "Расстояние Хэмминга между кодовыми векторами определяется как:",
+   "QuestionID": 329,
+   "Complicating": 4,
+   "NumberOfRating": 2,
+   "Order": 6
+ },
+ {
+   "Question": "Кодовое расстояние - это",
+   "QuestionID": 330,
+   "Complicating": 4,
+   "NumberOfRating": 2,
+   "Order": 7
+ },
+ {
+   "Question": "Для обнаружения ошибок кратности q кодовое расстояние d должно быть:",
+   "QuestionID": 331,
+   "Complicating": 4,
+   "NumberOfRating": 2,
+   "Order": 8
+ },
+ {
+   "Question": "Для исправления ошибок кратности q кодовое расстояние d должно быть:",
+   "QuestionID": 332,
+   "Complicating": 4,
+   "NumberOfRating": 2,
+   "Order": 15
+ },
+ {
+   "Question": "Равномерный код называется блочным, если:",
+   "QuestionID": 333,
+   "Complicating": 5,
+   "NumberOfRating": 2,
+   "Order": 1
+ },
+ {
+   "Question": "Методы скрэмблирования заключаются в побитном вычислении результирующего кода на основании:",
+   "QuestionID": 338,
+   "Complicating": 5,
+   "NumberOfRating": 2,
+   "Order": 12
+ },
+ {
+   "Question": "Циклический [n,k]-код пригоден для обнаружения:",
+   "QuestionID": 339,
+   "Complicating": 5,
+   "NumberOfRating": 2,
+   "Order": 13
+ },
+ {
+   "Question": "Что служит межкадровым заполнителем в протоколе LAPM?",
+   "QuestionID": 340,
+   "Complicating": 5,
+   "NumberOfRating": 2,
+   "Order": 14
+ },
+ {
+   "Question": "В биториентированных протоколах длина кадра обязательно должна быть кратна байту?",
+   "QuestionID": 341,
+   "Complicating": 5,
+   "NumberOfRating": 2,
+   "Order": 15
+ },
+ {
+   "Question": "Сколько типов кадров поддерживают дейтаграммные протоколы?",
+   "QuestionID": 83,
+   "Complicating": 5,
+   "NumberOfRating": 2,
+   "Order": 8
+ },
+ {
+   "Question": "Определите кодовое расстояние d для кода, состоящего из трех кодовых комбинаций (00001010, 10100100, 11110000).",
+   "QuestionID": 342,
+   "Complicating": 5,
+   "NumberOfRating": 2,
+   "Order": 16
+ },
+ {
+   "Question": "Какая команда модему, обозначает <набрать вслепую номер 1234567 в режиме импульсного набора>?",
+   "QuestionID": 81,
+   "Complicating": 5,
+   "NumberOfRating": 2,
+   "Order": 6
+ },
+ {
+   "Question": "Выберите синдром ошибки циклического кода [7,4] с порождающим полиномом Х**3+Х+1 для вектора ошибки 0100000.",
+   "QuestionID": 347,
+   "Complicating": 5,
+   "NumberOfRating": 2,
+   "Order": 21
+ },
+ {
+   "Question": "Выберите циклический код [7,4] с порождающим полиномом Х**3+Х+1 для исходной кодовой комбинации 1010?",
+   "QuestionID": 345,
+   "Complicating": 5,
+   "NumberOfRating": 2,
+   "Order": 19
+ },
+ {
+   "Question": "Выберите синдром ошибки циклического кода [7,4] с порождающим полиномом Х**3+Х+1 для вектора ошибки 0001000.",
+   "QuestionID": 348,
+   "Complicating": 5,
+   "NumberOfRating": 2,
+   "Order": 22
+ },
+ {
+   "Question": "Выберите циклический код [7,4] с порождающим полиномом Х**3+Х+1 для исходной кодовой комбинации 1111?",
+   "QuestionID": 346,
+   "Complicating": 5,
+   "NumberOfRating": 2,
+   "Order": 20
+ },
+ {
+   "Question": "Выберите циклический код [7,4] с порождающим полиномом Х**3+Х+1 для исходной кодовой комбинации 1001?",
+   "QuestionID": 354,
+   "Complicating": 5,
+   "NumberOfRating": 2,
+   "Order": 28
+ },
+ {
+   "Question": "Сколько разрешенных кодовых комбинаций в коде 4В/5В?",
+   "QuestionID": 355,
+   "Complicating": 5,
+   "NumberOfRating": 2,
+   "Order": 29
+ },
+ {
+   "Question": "Какую синхронизацию должны всегда поддерживать средства физического уровня?",
+   "QuestionID": 356,
+   "Complicating": 5,
+   "NumberOfRating": 2,
+   "Order": 30
+ },
+ {
+   "Question": "Модуляция с решетчатым кодированием или треллис-кодированием (TCM, Trellis Coded Modulation) имеет главным преимуществом...",
+   "QuestionID": 90,
+   "Complicating": 5,
+   "NumberOfRating": 1,
+   "Order": 32
+ },
+ {
+   "Question": "Скорость обмена информацией в локальных сетях, составляющих основу РСОД, является:",
+   "QuestionID": 1,
+   "Complicating": 3,
+   "NumberOfRating": 1,
+   "Order": 1
+ },
+ {
+   "Question": "Заголовок пакета обычно содержит информацию для проверки ошибок, называемую CRC.",
+   "QuestionID": 6,
+   "Complicating": 3,
+   "NumberOfRating": 1,
+   "Order": 6
+ },
+ {
+   "Question": "На каком уровне определяется способ соединения сетевого кабеля с сетевым адаптером?",
+   "QuestionID": 357,
+   "Complicating": 4,
+   "NumberOfRating": 1,
+   "Order": 23
+ },
+ {
+   "Question": "Распознавание имен и защита, необходимые для связи двух приложений в сети обеспечивается",
+   "QuestionID": 358,
+   "Complicating": 4,
+   "NumberOfRating": 1,
+   "Order": 24
+ },
+ {
+   "Question": "В каком порядке (начиная с верхнего) расположены уровни модели OSI",
+   "QuestionID": 12,
+   "Complicating": 3,
+   "NumberOfRating": 1,
+   "Order": 11
+ },
+ {
+   "Question": "Может ли канальный уровень обнаруживать ошибки и исправлять их за счет повторной передачи поврежденных кадров?",
+   "QuestionID": 13,
+   "Complicating": 3,
+   "NumberOfRating": 1,
+   "Order": 12
+ },
+ {
+   "Question": "С помощью какого протокола маршрутизаторы собирают информацию о топологии межсетевых соединений?",
+   "QuestionID": 14,
+   "Complicating": 3,
+   "NumberOfRating": 1,
+   "Order": 13
+ },
+ {
+   "Question": "Если при модуляции модулирующая функция изменяет амплитуду сигнала-переносчика, то такая модуляция называется:",
+   "QuestionID": 52,
+   "Complicating": 3,
+   "NumberOfRating": 1,
+   "Order": 15
+ },
+ {
+   "Question": "Что измеряется в децибелах (дБ)?",
+   "QuestionID": 65,
+   "Complicating": 4,
+   "NumberOfRating": 1,
+   "Order": 17
+ },
+ {
+   "Question": "Какой из каналов связи с известным отношением сигнал-шум при прочих равных условиях обладает большей пропускной способностью?",
+   "QuestionID": 359,
+   "Complicating": 5,
+   "NumberOfRating": 1,
+   "Order": 41
+ },
+ {
+   "Question": "Какая из формул в общем случае дает более точную количественную оценку неопределенности?",
+   "QuestionID": 360,
+   "Complicating": 5,
+   "NumberOfRating": 1,
+   "Order": 42
+ },
+ {
+   "Question": "Зависит ли частота основной гармоники манчестерского кода от передаваемой информации?",
+   "QuestionID": 361,
+   "Complicating": 5,
+   "NumberOfRating": 1,
+   "Order": 43
+ },
+ {
+   "Question": "Обладает ли код AMI обнаруживающей способностью?",
+   "QuestionID": 362,
+   "Complicating": 5,
+   "NumberOfRating": 1,
+   "Order": 44
+ },
+ {
+   "Question": "Какой должна быть минимальная частота дискретизации для качественной передачи голоса по телефонной сети с использованием ИКМ?",
+   "QuestionID": 364,
+   "Complicating": 4,
+   "NumberOfRating": 1,
+   "Order": 25
+ },
+ {
+   "Question": "Полоса пропускания телефонного канала тональной частоты лежит в диапазоне:",
+   "QuestionID": 365,
+   "Complicating": 4,
+   "NumberOfRating": 1,
+   "Order": 26
+ },
+ {
+   "Question": "Если сигнал изменяется так, что равновероятно можно различить только два состояния его информативного параметра, то в соответствии с оценкой Р.Хартли любое изменение сигнала будет соответствовать...",
+   "QuestionID": 366,
+   "Complicating": 4,
+   "NumberOfRating": 1,
+   "Order": 27
+ },
+ {
+   "Question": "Информативные параметры сигнала служат для:",
+   "QuestionID": 367,
+   "Complicating": 4,
+   "NumberOfRating": 1,
+   "Order": 28
+ },
+ {
+   "Question": "Какое из этих утверждений относится к витой паре?",
+   "QuestionID": 368,
+   "Complicating": 4,
+   "NumberOfRating": 1,
+   "Order": 29
+ },
+ {
+   "Question": "Что понимается под количеством информации?",
+   "QuestionID": 369,
+   "Complicating": 4,
+   "NumberOfRating": 1,
+   "Order": 30
+ },
+ {
+   "Question": "Можно ли по виду синдрома сразу определить место ошибки в коде Хэмминга?",
+   "QuestionID": 335,
+   "Complicating": 5,
+   "NumberOfRating": 2,
+   "Order": 9
+ },
+ {
+   "Question": "В чём основное отличие протокола V.90 от остальных протоколов поддерживающих скорости не более 33,6 Кбит/с?",
+   "QuestionID": 54,
+   "Complicating": 3,
+   "NumberOfRating": 2,
+   "Order": 9
+ },
+ {
+   "Question": "Сколько максимально аналого-цифровых преобразований может быть на пути от клиентского модема до серверного по технологии V.90?",
+   "QuestionID": 370,
+   "Complicating": 5,
+   "NumberOfRating": 2,
+   "Order": 31
+ },
+ {
+   "Question": "Шум квантования имеет место:",
+   "QuestionID": 371,
+   "Complicating": 5,
+   "NumberOfRating": 2,
+   "Order": 32
+ },
+ {
+   "Question": "Какие параметры имеет механизм <скользящего окна>?",
+   "QuestionID": 372,
+   "Complicating": 5,
+   "NumberOfRating": 2,
+   "Order": 33
+ },
+ {
+   "Question": "Чем определяется состав сетевого ПО?",
+   "QuestionID": 34,
+   "Complicating": 5,
+   "NumberOfRating": 1,
+   "Order": 4
+ },
+ {
+   "Question": "При ИКМ разность между оригинальным сигналом и восстановленным на приемной стороне называется:",
+   "QuestionID": 363,
+   "Complicating": 5,
+   "NumberOfRating": 1,
+   "Order": 45
+ },
+ {
+   "Question": "Какие свойства объектно-ориентированных систем программирования обеспечивают расширяемость открытых систем?",
+   "QuestionID": 36,
+   "Complicating": 5,
+   "NumberOfRating": 1,
+   "Order": 6
+ },
+ {
+   "Question": "Какие свойства объектно-ориентированных систем программирования обеспечивают интероперабельность открытых систем?",
+   "QuestionID": 304,
+   "Complicating": 5,
+   "NumberOfRating": 1,
+   "Order": 16
+ },
+ {
+   "Question": "В функции какого подуровня канального уровня входит передача кадров между станциями, установление логического соединения, контроль ошибок?",
+   "QuestionID": 121,
+   "Complicating": 5,
+   "NumberOfRating": 2,
+   "Order": 34
+ },
+ {
+   "Question": "В каком методе доступа к среде передачи данных применяется зондирование для уменьшения накладных расходов?",
+   "QuestionID": 122,
+   "Complicating": 5,
+   "NumberOfRating": 2,
+   "Order": 35
+ },
+ {
+   "Question": "При каком методе случайного доступа коэффициент использования тракта передачи данных достигает 90% и более?",
+   "QuestionID": 123,
+   "Complicating": 5,
+   "NumberOfRating": 2,
+   "Order": 36
+ },
+ {
+   "Question": "В каких сетях все компьютеры равноправны и нет отдельного компьютера, ответственного за администрирование всей сети?",
+   "QuestionID": 91,
+   "Complicating": 4,
+   "NumberOfRating": 2,
+   "Order": 16
+ },
+ {
+   "Question": "Что не относится к методам уплотнения?",
+   "QuestionID": 92,
+   "Complicating": 4,
+   "NumberOfRating": 2,
+   "Order": 17
+ },
+ {
+   "Question": "На рабочих станциях установлена ОС Windows XP, потребуется ли дополнительное программное обеспечение для объединения их в одноранговую сеть?",
+   "QuestionID": 373,
+   "Complicating": 5,
+   "NumberOfRating": 2,
+   "Order": 37
+ },
+ {
+   "Question": "Что представляет собой интерфейс с устройством доступа (AUI) в декомпозиции уровней модели OSI для локальных сетей?",
+   "QuestionID": 374,
+   "Complicating": 5,
+   "NumberOfRating": 2,
+   "Order": 38
+ },
+ {
+   "Question": "Какой подуровень модели OSI для локальных сетей реализует физическую адресацию станций?",
+   "QuestionID": 375,
+   "Complicating": 5,
+   "NumberOfRating": 2,
+   "Order": 39
+ },
+ {
+   "Question": "Какой подуровень модели OSI для локальных сетей выделяется для облегчения схемной интеграции с канальным уровнем и выполняет функции кодирования и передачи двоичных символов, их приема и декодирования?",
+   "QuestionID": 376,
+   "Complicating": 5,
+   "NumberOfRating": 2,
+   "Order": 40
+ },
+ {
+   "Question": "Какие серверы управляют потоком данных и почтовых сообщений между одной сетью и другими сетями либо удаленными пользователями через модем и телефонную линию?",
+   "QuestionID": 106,
+   "Complicating": 4,
+   "NumberOfRating": 2,
+   "Order": 18
+ },
+ {
+   "Question": "Что такое МАРКЕР?",
+   "QuestionID": 107,
+   "Complicating": 4,
+   "NumberOfRating": 2,
+   "Order": 19
+ },
+ {
+   "Question": "В какой из топологий локальной сети с маркерным методом доступа рабочая станция должна обеспечивать удаление пакетов из сети?",
+   "QuestionID": 377,
+   "Complicating": 5,
+   "NumberOfRating": 2,
+   "Order": 41
+ },
+ {
+   "Question": "Какой метод доступа был реализован в локальной сети ALOHA?",
+   "QuestionID": 378,
+   "Complicating": 5,
+   "NumberOfRating": 2,
+   "Order": 42
+ },
+ {
+   "Question": "Столкновения в системе с МДКН возможны лишь в случае, когда два или более узла пытаются переслать пакет",
+   "QuestionID": 379,
+   "Complicating": 5,
+   "NumberOfRating": 2,
+   "Order": 43
+ },
+ {
+   "Question": "При обнаружении столкновения (коллизии) станция повторяет передачу пакета:",
+   "QuestionID": 381,
+   "Complicating": 5,
+   "NumberOfRating": 2,
+   "Order": 45
+ },
+ {
+   "Question": "Код, в любой кодовой комбинации которого длиной 7 имеется ровно 3 единицы, относится к:",
+   "QuestionID": 334,
+   "Complicating": 5,
+   "NumberOfRating": 2,
+   "Order": 2
+ },
+ {
+   "Question": "Метод скользящего окна на канальном уровне используют для:",
+   "QuestionID": 343,
+   "Complicating": 5,
+   "NumberOfRating": 2,
+   "Order": 17
+ },
+ {
+   "Question": "Есть ли ошибка в принятой кодовой комбинации 1111011 циклического кода [7,4] с подождаюшим полиномом х**3+х+1?",
+   "QuestionID": 336,
+   "Complicating": 5,
+   "NumberOfRating": 2,
+   "Order": 10
+ },
+ {
+   "Question": "Есть ли ошибка в принятой кодовой комбинации 1011111 циклического кода [7,4] с подождаюшим полиномом х**3+х+1?",
+   "QuestionID": 352,
+   "Complicating": 5,
+   "NumberOfRating": 2,
+   "Order": 26
+ },
+ {
+   "Question": "Есть ли ошибка в принятой кодовой комбинации 1011001 циклического кода [7,4] с подождаюшим полиномом х**3+х+1?",
+   "QuestionID": 351,
+   "Complicating": 5,
+   "NumberOfRating": 2,
+   "Order": 25
+ },
+ {
+   "Question": "Есть ли ошибка в принятой кодовой комбинации 1111111 циклического кода [7,4] с подождаюшим полиномом х**3+х+1?",
+   "QuestionID": 350,
+   "Complicating": 5,
+   "NumberOfRating": 2,
+   "Order": 24
+ },
+ {
+   "Question": "При передаче пакетов через повторители величина IPG:",
+   "QuestionID": 384,
+   "Complicating": 4,
+   "NumberOfRating": 3,
+   "Order": 1
+ },
+ {
+   "Question": "Каким портом концентратор 100VG-AnyLAN подключается в качестве узла к концентратору более высокого уровня?",
+   "QuestionID": 393,
+   "Complicating": 4,
+   "NumberOfRating": 3,
+   "Order": 23
+ },
+ {
+   "Question": "При полнодуплекной работе стандарт 100Base-TX обеспечивает скорость обмена между узлами, равную:",
+   "QuestionID": 396,
+   "Complicating": 4,
+   "NumberOfRating": 3,
+   "Order": 26
+ },
+ {
+   "Question": "Скорость, с которой коммутатор выполняет следующие этапы обработки кадров: прием кадра в буфер; просмотр адресной таблицы ; передача кадра через найденный по таблице порт назначения; - есть:",
+   "QuestionID": 399,
+   "Complicating": 4,
+   "NumberOfRating": 3,
+   "Order": 29
+ },
+ {
+   "Question": "В каких единицах измеряют скорость фильтрации и скорость продвижения для коммутаторов?",
+   "QuestionID": 400,
+   "Complicating": 4,
+   "NumberOfRating": 3,
+   "Order": 30
+ },
+ {
+   "Question": "Для кадров какого размера по умолчанию обычно приводятся значения такой характеристики коммутатора, как скорость фильтрации?",
+   "QuestionID": 401,
+   "Complicating": 5,
+   "NumberOfRating": 3,
+   "Order": 1
+ },
+ {
+   "Question": "Максимальное значение пропускной способности коммутатора всегда достигается на кадрах:",
+   "QuestionID": 402,
+   "Complicating": 5,
+   "NumberOfRating": 3,
+   "Order": 2
+ },
+ {
+   "Question": "Можетли недостаточная емкость адресной таблицы служить причиной замедления работы коммутатора и засорения сети избыточным трафиком?",
+   "QuestionID": 403,
+   "Complicating": 5,
+   "NumberOfRating": 3,
+   "Order": 3
+ },
+ {
+   "Question": "Коммутаторы какого класса могут фильтровать пакеты на основе признаков, отличающихся от адресов?",
+   "QuestionID": 404,
+   "Complicating": 5,
+   "NumberOfRating": 3,
+   "Order": 16
+ },
+ {
+   "Question": "Для предотвращения влияния отказавшей или отключенной станции на работу кольца Token Ring , станции подключаются к магистрали кольца через устройства, называемые:",
+   "QuestionID": 405,
+   "Complicating": 5,
+   "NumberOfRating": 3,
+   "Order": 17
+ },
+ {
+   "Question": "Какая часть пропускной способности кольца FDDI может адаптивно распределяться между рабочими станциями?",
+   "QuestionID": 406,
+   "Complicating": 5,
+   "NumberOfRating": 3,
+   "Order": 18
+ },
+ {
+   "Question": "В течение какого периода станция FDDI, захватившая маркер, может передавать кадры?",
+   "QuestionID": 407,
+   "Complicating": 5,
+   "NumberOfRating": 3,
+   "Order": 19
+ },
+ {
+   "Question": "Какое событие в сети FDDI считается потерей маркера и порождает выполнение процедуры инициализации кольца?",
+   "QuestionID": 408,
+   "Complicating": 5,
+   "NumberOfRating": 3,
+   "Order": 20
+ },
+ {
+   "Question": "Какое количество кадров имеет право передать концентратор c N портами нижнего уровня сети 100VG-AnyLAN в течение одно цикла опроса?",
+   "QuestionID": 409,
+   "Complicating": 5,
+   "NumberOfRating": 3,
+   "Order": 21
+ },
+ {
+   "Question": "В сети Gigabit Ethernet поле расширения носителя отсутствует, если размер кадра равен или превосходит:",
+   "QuestionID": 410,
+   "Complicating": 5,
+   "NumberOfRating": 3,
+   "Order": 22
+ },
+ {
+   "Question": "К какому уровню модели OSI/ISO относят концентраторы?",
+   "QuestionID": 411,
+   "Complicating": 5,
+   "NumberOfRating": 3,
+   "Order": 23
+ },
+ {
+   "Question": "Распространяется ли правило 4-х хабов на наращиваемые концентраторы?",
+   "QuestionID": 412,
+   "Complicating": 5,
+   "NumberOfRating": 3,
+   "Order": 24
+ },
+ {
+   "Question": "Разрыв кабеля в сети 10Base-2:",
+   "QuestionID": 413,
+   "Complicating": 5,
+   "NumberOfRating": 3,
+   "Order": 25
+ },
+ {
+   "Question": "Какие пары используются для передачи данных в сети 100 Base-TX по стандарту EIA/TIA-568?",
+   "QuestionID": 414,
+   "Complicating": 5,
+   "NumberOfRating": 3,
+   "Order": 26
+ },
+ {
+   "Question": "Для сращивания двух отрезков тонкого коаксиального кабеля применяют:",
+   "QuestionID": 415,
+   "Complicating": 5,
+   "NumberOfRating": 3,
+   "Order": 27
+ },
+ {
+   "Question": "Если длина пакета передаваемых данных в сети Ethernet меньше минимальной величины, то адаптер автоматически дополняет его до 46 байт. Этот процесс называется:",
+   "QuestionID": 417,
+   "Complicating": 5,
+   "NumberOfRating": 3,
+   "Order": 29
+ },
+ {
+   "Question": "Если один из портов коммутатора сконфигурирован как магистральный порт, то на какой порт передается кадр с неизвестным МАС-адресом получателя?",
+   "QuestionID": 418,
+   "Complicating": 5,
+   "NumberOfRating": 3,
+   "Order": 30
+ },
+ {
+   "Question": "Какой кадр переносит пакет максимального размера 1500 байт?",
+   "QuestionID": 388,
+   "Complicating": 5,
+   "NumberOfRating": 3,
+   "Order": 31
+ },
+ {
+   "Question": "Что используется для обозначения незанятого состояния среды в сетях 100BaseFX/TX?",
+   "QuestionID": 390,
+   "Complicating": 5,
+   "NumberOfRating": 3,
+   "Order": 32
+ },
+ {
+   "Question": "Поддерживается ли синхронизм между приемником и передатчиком в периодах между передачами информации с сетях 100BaseTX?",
+   "QuestionID": 391,
+   "Complicating": 5,
+   "NumberOfRating": 3,
+   "Order": 33
+ },
+ {
+   "Question": "Какой метод доступа применен в сетях 100VG-AnyLAN?",
+   "QuestionID": 395,
+   "Complicating": 5,
+   "NumberOfRating": 3,
+   "Order": 35
+ },
+ {
+   "Question": "Для соединения каких устройств предназначен стандарт 10 Base-FB?",
+   "QuestionID": 397,
+   "Complicating": 5,
+   "NumberOfRating": 3,
+   "Order": 36
+ },
+ {
+   "Question": "Для передачи данных в сетях 100BaseT4 используется:",
+   "QuestionID": 387,
+   "Complicating": 5,
+   "NumberOfRating": 3,
+   "Order": 37
+ },
+ {
+   "Question": "Какой режим работы могут поддерживать два взаимодействующих устройства в сети 100BaseT4?",
+   "QuestionID": 389,
+   "Complicating": 5,
+   "NumberOfRating": 3,
+   "Order": 38
+ },
+ {
+   "Question": "В чем основная особенность сетей технологии Token Ring?",
+   "QuestionID": 111,
+   "Complicating": 5,
+   "NumberOfRating": 3,
+   "Order": 39
+ },
+ {
+   "Question": "При восстановлении сигнала повторителем длина пакетов увеличивается из-за включения в него дополнительных битов синхронизации. За счет чего происходит это увеличение?",
+   "QuestionID": 385,
+   "Complicating": 5,
+   "NumberOfRating": 3,
+   "Order": 40
+ },
+ {
+   "Question": "Какой тип коннекторов используется при подключении к сетевому адаптеру компьютера кабеля трансивера?",
+   "QuestionID": 102,
+   "Complicating": 5,
+   "NumberOfRating": 3,
+   "Order": 41
+ },
+ {
+   "Question": "На поддрержку каких кадров может быть сконфигурирован каждый концентратор 100VG-AnyLAN?",
+   "QuestionID": 394,
+   "Complicating": 5,
+   "NumberOfRating": 3,
+   "Order": 42
+ },
+ {
+   "Question": "Скорость, с которой коммутатор выполняет следующие этапы обработки кадров: прием кадра в буфер; просмотр адресной таблицы ; уничтожение кадра, т.к. его порт назначения совпадает с портом-источником; - есть",
+   "QuestionID": 398,
+   "Complicating": 5,
+   "NumberOfRating": 3,
+   "Order": 44
+ },
+ {
+   "Question": "Какая максимальная длина сегмента без повторителей в технологии 10Base5?",
+   "QuestionID": 382,
+   "Complicating": 4,
+   "NumberOfRating": 3,
+   "Order": 2
+ },
+ {
+   "Question": "Какое максимальное число рабочих станций допускается в одном сегменте 10Base-2?",
+   "QuestionID": 383,
+   "Complicating": 4,
+   "NumberOfRating": 3,
+   "Order": 11
+ },
+ {
+   "Question": "В какой спецификации технологии Ethernet средой передачи данных является <толстый> коаксиал?",
+   "QuestionID": 93,
+   "Complicating": 4,
+   "NumberOfRating": 3,
+   "Order": 6
+ },
+ {
+   "Question": "В какой спецификации технологии Ethernet средой передачи данных является <тонкий> коаксиал?",
+   "QuestionID": 94,
+   "Complicating": 4,
+   "NumberOfRating": 3,
+   "Order": 16
+ },
+ {
+   "Question": "В какой спецификации технологии Ethernet средой передачи данных является волоконно-оптический кабель?",
+   "QuestionID": 96,
+   "Complicating": 4,
+   "NumberOfRating": 3,
+   "Order": 18
+ },
+ {
+   "Question": "Какая из технологий локальных сетей имеет наибольшую скорость передачи данных?",
+   "QuestionID": 97,
+   "Complicating": 4,
+   "NumberOfRating": 3,
+   "Order": 19
+ },
+ {
+   "Question": "Какая топология используется при подключении узлов в сетях технологии ArcNET?",
+   "QuestionID": 98,
+   "Complicating": 4,
+   "NumberOfRating": 3,
+   "Order": 20
+ },
+ {
+   "Question": "Какой тип кабеля используется для передачи данных на большие расстояния (более 2 км)?",
+   "QuestionID": 99,
+   "Complicating": 4,
+   "NumberOfRating": 3,
+   "Order": 21
+ },
+ {
+   "Question": "Какой тип коннекторов используется при подключении к сетевому адаптеру компьютера тонкого коаксиального кабеля?",
+   "QuestionID": 100,
+   "Complicating": 4,
+   "NumberOfRating": 3,
+   "Order": 22
+ },
+ {
+   "Question": "Какой тип коннекторов используется при подключении к сетевому адаптеру компьютера кабеля на витой паре?",
+   "QuestionID": 101,
+   "Complicating": 4,
+   "NumberOfRating": 3,
+   "Order": 24
+ },
+ {
+   "Question": "Какое аппаратное устройство предназначено только для восстановления электрических сигналов для их передачи в другие сегменты сети?",
+   "QuestionID": 103,
+   "Complicating": 4,
+   "NumberOfRating": 3,
+   "Order": 25
+ },
+ {
+   "Question": "Какое сетевое устройство обеспечивает возможность одновременных соединений между любыми парами своих портов?",
+   "QuestionID": 104,
+   "Complicating": 4,
+   "NumberOfRating": 3,
+   "Order": 27
+ },
+ {
+   "Question": "В сетях какой технологии Ethernet используются Т-коннекторы?",
+   "QuestionID": 105,
+   "Complicating": 4,
+   "NumberOfRating": 3,
+   "Order": 28
+ },
+ {
+   "Question": "Сколько пар проводников используется для передачи данных в сетях 100 Base TX?",
+   "QuestionID": 419,
+   "Complicating": 3,
+   "NumberOfRating": 3,
+   "Order": 1
+ },
+ {
+   "Question": "Поле DA в формате кадра Ethernet содержит:",
+   "QuestionID": 420,
+   "Complicating": 3,
+   "NumberOfRating": 3,
+   "Order": 2
+ },
+ {
+   "Question": "Преамбула кадра Ethernet представляет собой семибайтовую последовательность:",
+   "QuestionID": 421,
+   "Complicating": 3,
+   "NumberOfRating": 3,
+   "Order": 3
+ },
+ {
+   "Question": "Что означает число 10 в обозначении технологии сети -10 Base-T?",
+   "QuestionID": 422,
+   "Complicating": 3,
+   "NumberOfRating": 3,
+   "Order": 4
+ },
+ {
+   "Question": "Что означает слово Base в обозначении технологии сети -100 Base-TX?",
+   "QuestionID": 423,
+   "Complicating": 3,
+   "NumberOfRating": 3,
+   "Order": 5
+ },
+ {
+   "Question": "Что означает число 2 в обозначении технологии сети 10 Base-2?",
+   "QuestionID": 424,
+   "Complicating": 3,
+   "NumberOfRating": 3,
+   "Order": 6
+ },
+ {
+   "Question": "Какую топологию образует сеть 100 Base-TX?",
+   "QuestionID": 425,
+   "Complicating": 3,
+   "NumberOfRating": 3,
+   "Order": 7
+ },
+ {
+   "Question": "Расстояние между точками подключения трансиверов в сети 10 Base-5 всегда кратно:",
+   "QuestionID": 426,
+   "Complicating": 3,
+   "NumberOfRating": 3,
+   "Order": 8
+ },
+ {
+   "Question": "Обязателен ли BNC-T коннектор при подключении рабочей станции к сети 10 Base-2?",
+   "QuestionID": 427,
+   "Complicating": 3,
+   "NumberOfRating": 3,
+   "Order": 9
+ },
+ {
+   "Question": "Можно ли использовать двухпарный кабель для подключения рабочей станции к сети 100 Base-T4?",
+   "QuestionID": 428,
+   "Complicating": 3,
+   "NumberOfRating": 3,
+   "Order": 10
+ },
+ {
+   "Question": "Можно ли использовать двухпарный кабель для подключения рабочей станции к сети 100 Base-TX?",
+   "QuestionID": 429,
+   "Complicating": 3,
+   "NumberOfRating": 3,
+   "Order": 11
+ },
+ {
+   "Question": "Сколько витых пар используют в кабеле при подключении рабочей станции к сети Token Ring?",
+   "QuestionID": 430,
+   "Complicating": 3,
+   "NumberOfRating": 3,
+   "Order": 12
+ },
+ {
+   "Question": "Содержит ли двухпортовый мост сетевые адаптеры?",
+   "QuestionID": 431,
+   "Complicating": 3,
+   "NumberOfRating": 3,
+   "Order": 13
+ },
+ {
+   "Question": "На сколько доменов коллизии разделяет сеть мост?",
+   "QuestionID": 432,
+   "Complicating": 3,
+   "NumberOfRating": 3,
+   "Order": 14
+ },
+ {
+   "Question": "Чем является технология Fast Ethernet?",
+   "QuestionID": 433,
+   "Complicating": 3,
+   "NumberOfRating": 3,
+   "Order": 15
+ },
+ {
+   "Question": "Какой существует способ оптимизации процедуры выбора маршрутов через сеть ATM?",
+   "QuestionID": 173,
+   "Complicating": 5,
+   "NumberOfRating": 4,
+   "Order": 8
+ },
+ {
+   "Question": "Каким образом возможно осуществление рассылки широковещательных сообщений в сетях технологии АТМ?",
+   "QuestionID": 179,
+   "Complicating": 5,
+   "NumberOfRating": 4,
+   "Order": 14
+ },
+ {
+   "Question": "Является ли механизм оповещения конечных пользователей о перегрузке сети Frame Relay обязательным?",
+   "QuestionID": 281,
+   "Complicating": 5,
+   "NumberOfRating": 4,
+   "Order": 23
+ },
+ {
+   "Question": "Какая скорость изменения сигнала на каждой паре проводников в сети 100BaseT4?",
+   "QuestionID": 386,
+   "Complicating": 5,
+   "NumberOfRating": 3,
+   "Order": 43
+ },
+ {
+   "Question": "Абонент сети Frame Relay желает установить новое соединение с другим абонентом. Требуется ли выполнение операции согласования параметров нового соединения?",
+   "QuestionID": 142,
+   "Complicating": 3,
+   "NumberOfRating": 4,
+   "Order": 7
+ },
+ {
+   "Question": "Что произойдет, если пользователь сети Frame Relay будет передавать данные со скоростью, превосходящей CIR (то есть скорость, установленную для него в соглашении об обслуживании)?",
+   "QuestionID": 149,
+   "Complicating": 3,
+   "NumberOfRating": 4,
+   "Order": 14
+ },
+ {
+   "Question": "Установление скольких виртуальных каналов возможно в сети технологии Frame Relay (номер канала хранится в 10 битном поле DLCI кадра протокола LAP-F)?",
+   "QuestionID": 150,
+   "Complicating": 3,
+   "NumberOfRating": 4,
+   "Order": 15
+ },
+ {
+   "Question": "Если в сети Frame Relay нет перегрузок, то кадры, помеченные признаком DE=1,",
+   "QuestionID": 434,
+   "Complicating": 5,
+   "NumberOfRating": 4,
+   "Order": 31
+ },
+ {
+   "Question": "В каком случае в сети Frame relay кадры помечаются признаком DE=1?",
+   "QuestionID": 435,
+   "Complicating": 5,
+   "NumberOfRating": 4,
+   "Order": 32
+ },
+ {
+   "Question": "В каком случае при согласованных параметрах CIR и Bс в сети Frame relay кадры помечаются признаком DE=1?",
+   "QuestionID": 436,
+   "Complicating": 5,
+   "NumberOfRating": 4,
+   "Order": 33
+ },
+ {
+   "Question": "При согласованных параметрах СIR и Вс в сети Frame relay кадры, помеченные признаком DE=1,",
+   "QuestionID": 437,
+   "Complicating": 5,
+   "NumberOfRating": 4,
+   "Order": 34
+ },
+ {
+   "Question": "Какой параметр качества обслуживания дополнительно согласовывают с сетью Frame relay, если полагают CIR=0?",
+   "QuestionID": 438,
+   "Complicating": 5,
+   "NumberOfRating": 4,
+   "Order": 35
+ },
+ {
+   "Question": "Можно ли в сети PDH выделить канал DS-0 непосредственно из канала DS-3?",
+   "QuestionID": 439,
+   "Complicating": 3,
+   "NumberOfRating": 7,
+   "Order": 1
+ },
+ {
+   "Question": "Какое свойство технологии PDH отражает слово <плезиохронная>?",
+   "QuestionID": 440,
+   "Complicating": 3,
+   "NumberOfRating": 7,
+   "Order": 2
+ },
+ {
+   "Question": "Какое максимальное количество каналов Е-1 может мультиплексировать кадр STM-1?",
+   "QuestionID": 441,
+   "Complicating": 3,
+   "NumberOfRating": 7,
+   "Order": 3
+ },
+ {
+   "Question": "Какое устройство является основным элементом сети SDH?",
+   "QuestionID": 442,
+   "Complicating": 3,
+   "NumberOfRating": 7,
+   "Order": 4
+ },
+ {
+   "Question": "Порты ввода-вывода мультиплексора SDH часто называют также:",
+   "QuestionID": 443,
+   "Complicating": 3,
+   "NumberOfRating": 7,
+   "Order": 5
+ },
+ {
+   "Question": "Какой мультиплексор SDH завершает агрегатные каналы?",
+   "QuestionID": 445,
+   "Complicating": 3,
+   "NumberOfRating": 7,
+   "Order": 7
+ },
+ {
+   "Question": "Какое устройство занимает промежуточное положение на кольцевой магистрали сети SDH?",
+   "QuestionID": 446,
+   "Complicating": 3,
+   "NumberOfRating": 7,
+   "Order": 8
+ },
+ {
+   "Question": "Для обеспечения хорошего качества передачи в технологии ADSL используется код:",
+   "QuestionID": 449,
+   "Complicating": 3,
+   "NumberOfRating": 7,
+   "Order": 11
+ },
+ {
+   "Question": "Какая технология широкополосного доступа xDSL обеспечивает наибольшую скорость передачи?",
+   "QuestionID": 450,
+   "Complicating": 3,
+   "NumberOfRating": 7,
+   "Order": 12
+ },
+ {
+   "Question": "В сетях GPRS",
+   "QuestionID": 452,
+   "Complicating": 3,
+   "NumberOfRating": 7,
+   "Order": 14
+ },
+ {
+   "Question": "Обязательно ли наличие VoIP-шлюза в системе IP-телефонии при организации речевого взаимодействия между мультимедийными компьютерами через IP-сеть?",
+   "QuestionID": 453,
+   "Complicating": 3,
+   "NumberOfRating": 7,
+   "Order": 15
+ },
+ {
+   "Question": "Основу архитектуры IP-телефонии представляет:",
+   "QuestionID": 454,
+   "Complicating": 4,
+   "NumberOfRating": 7,
+   "Order": 1
+ },
+ {
+   "Question": "Какое устройство поддерживает протокол H.323 со стороны Интернета и протоколы коммутируемой телефонной сети общего пользования с стороны КТСОП в IP-телефонии?",
+   "QuestionID": 455,
+   "Complicating": 4,
+   "NumberOfRating": 7,
+   "Order": 2
+ },
+ {
+   "Question": "Какая ЭВМ согласно стандарта H.323 обеспечивает перевод адреса и регулирует доступ к локальной сети для конечных узлов, находящихся в её зоне?",
+   "QuestionID": 456,
+   "Complicating": 4,
+   "NumberOfRating": 7,
+   "Order": 3
+ },
+ {
+   "Question": "Какой протокол в IP-телефонии используется для непосредственной передачи голосовых данных?",
+   "QuestionID": 457,
+   "Complicating": 4,
+   "NumberOfRating": 7,
+   "Order": 4
+ },
+ {
+   "Question": "При организации телефонных переговоров по вычислительным сетям необходимо передавать два типа информации:",
+   "QuestionID": 458,
+   "Complicating": 4,
+   "NumberOfRating": 7,
+   "Order": 5
+ },
+ {
+   "Question": "Сети DWDM работают по принципу:",
+   "QuestionID": 459,
+   "Complicating": 4,
+   "NumberOfRating": 7,
+   "Order": 6
+ },
+ {
+   "Question": "Что представляет собой отдельный канал и несет собственную информацию в технологии DWDM?.",
+   "QuestionID": 460,
+   "Complicating": 4,
+   "NumberOfRating": 7,
+   "Order": 7
+ },
+ {
+   "Question": "При использовании системы GPRS информация собирается в пакеты и передается в эфир:",
+   "QuestionID": 462,
+   "Complicating": 4,
+   "NumberOfRating": 7,
+   "Order": 9
+ },
+ {
+   "Question": "Какой трафик имеет безусловный приоритет в GPRS:",
+   "QuestionID": 463,
+   "Complicating": 4,
+   "NumberOfRating": 7,
+   "Order": 10
+ },
+ {
+   "Question": "Какие достижения в области информационных технологий позволили значительно поднять информационную емкость сетей доступа?",
+   "QuestionID": 465,
+   "Complicating": 4,
+   "NumberOfRating": 7,
+   "Order": 12
+ },
+ {
+   "Question": "Каким образом осуществляется адресация информации от отдельных абонентов в сетях SDH?",
+   "QuestionID": 467,
+   "Complicating": 4,
+   "NumberOfRating": 7,
+   "Order": 14
+ },
+ {
+   "Question": "Чем обеспечивается асинхронность ввода абонентских потоков в кадр SDH?",
+   "QuestionID": 468,
+   "Complicating": 4,
+   "NumberOfRating": 7,
+   "Order": 15
+ },
+ {
+   "Question": "В чем отличие схем защиты 1+1 и 1:1 в сетях SDH?",
+   "QuestionID": 469,
+   "Complicating": 5,
+   "NumberOfRating": 7,
+   "Order": 1
+ },
+ {
+   "Question": "К какому типу сетей относятся сети DWDM?",
+   "QuestionID": 470,
+   "Complicating": 5,
+   "NumberOfRating": 7,
+   "Order": 2
+ },
+ {
+   "Question": "Для инкапсуляции (размещения с целью последующей передачи) соответствующих трибов PDH на входах в сетях SDH служат:",
+   "QuestionID": 471,
+   "Complicating": 5,
+   "NumberOfRating": 7,
+   "Order": 3
+ },
+ {
+   "Question": "SDH-отображение - процедура, при помощи которой:",
+   "QuestionID": 472,
+   "Complicating": 5,
+   "NumberOfRating": 7,
+   "Order": 4
+ },
+ {
+   "Question": "SDH-выравнивание - процедура, при помощи которой",
+   "QuestionID": 473,
+   "Complicating": 5,
+   "NumberOfRating": 7,
+   "Order": 5
+ },
+ {
+   "Question": "SDH-мультиплексирование - процедура, при помощи которой",
+   "QuestionID": 474,
+   "Complicating": 5,
+   "NumberOfRating": 7,
+   "Order": 6
+ },
+ {
+   "Question": "В сети SDH устройство, которое преобразует оптический сигнал в электрический и обратно, восстанавливая при этом форму сигнала и его временные параметры, называется:",
+   "QuestionID": 475,
+   "Complicating": 5,
+   "NumberOfRating": 7,
+   "Order": 7
+ },
+ {
+   "Question": "По какой схеме обычно организуется защита на уровне мультиплексной секции в сетях SDH?",
+   "QuestionID": 476,
+   "Complicating": 5,
+   "NumberOfRating": 7,
+   "Order": 8
+ },
+ {
+   "Question": "Что является объектом защиты соединения SNC-P (Sub-Network Connection Protection) в сетях SDH?",
+   "QuestionID": 477,
+   "Complicating": 5,
+   "NumberOfRating": 7,
+   "Order": 9
+ },
+ {
+   "Question": "В каких топологиях сетей SDH применяется защита SNC-P (Sub-Network Connection Protection)?",
+   "QuestionID": 478,
+   "Complicating": 5,
+   "NumberOfRating": 7,
+   "Order": 10
+ },
+ {
+   "Question": "Кроме того, что технология ADSL обеспечивает крайне асимметричную передачу данных, она также отличается от ISDN-BA тем, что:",
+   "QuestionID": 482,
+   "Complicating": 5,
+   "NumberOfRating": 7,
+   "Order": 14
+ },
+ {
+   "Question": "В технологии HomePNA коллизии возникают только между пакетами:",
+   "QuestionID": 483,
+   "Complicating": 5,
+   "NumberOfRating": 7,
+   "Order": 15
+ },
+ {
+   "Question": "Технология ADSL использует:",
+   "QuestionID": 448,
+   "Complicating": 3,
+   "NumberOfRating": 7,
+   "Order": 10
+ },
+ {
+   "Question": "При возникновении неисправности, например обрыве линии, трафик в мультиплексорах с нарушенной связью разворачивается в обратном направлении. Для этого используются резервные виртуальные контейнеры агрегатных портов. Уровень защиты?",
+   "QuestionID": 479,
+   "Complicating": 5,
+   "NumberOfRating": 7,
+   "Order": 11
+ },
+ {
+   "Question": "В каком случае защита с разделением кольца MS-SPRing обеспечивает более эффективное использование пропускной способности?",
+   "QuestionID": 480,
+   "Complicating": 5,
+   "NumberOfRating": 7,
+   "Order": 12
+ },
+ {
+   "Question": "Какие устройства используется для подключения локальной сети Ethernet к первичной сети по каналу Е-1?",
+   "QuestionID": 466,
+   "Complicating": 4,
+   "NumberOfRating": 7,
+   "Order": 13
+ },
+ {
+   "Question": "Технология ISDN-BA обеспечивает пользователю возможность доступа со скоростью:",
+   "QuestionID": 447,
+   "Complicating": 3,
+   "NumberOfRating": 7,
+   "Order": 9
+ },
+ {
+   "Question": "Какой метод кодирования передаваемой на каждой волне информации используется непосредственно технологией DWDM?",
+   "QuestionID": 461,
+   "Complicating": 4,
+   "NumberOfRating": 7,
+   "Order": 8
+ },
+ {
+   "Question": "Что произойдет с порождающей матрицей [n,k]-кода, если к какой-либо ее строке прибавить линейную комбинацию других строк?",
+   "QuestionID": 344,
+   "Complicating": 5,
+   "NumberOfRating": 10,
+   "Order": 18
+ },
+ {
+   "Question": "Для сетей какой технологии определено понятие <домен коллизий>?",
+   "QuestionID": 484,
+   "Complicating": 5,
+   "NumberOfRating": 2,
+   "Order": 18
+ },
+ {
+   "Question": "Часто критерием при выборе маршрута является",
+   "QuestionID": 7,
+   "Complicating": 3,
+   "NumberOfRating": 1,
+   "Order": 7
+ },
+ {
+   "Question": "Что отражает программная структура?",
+   "QuestionID": 20,
+   "Complicating": 4,
+   "NumberOfRating": 1,
+   "Order": 5
+ },
+ {
+   "Question": "Формула Найквиста, определяющая зависимость максимальной скорости передачи данных - C от ширины полосы пропускания - B ...",
+   "QuestionID": 84,
+   "Complicating": 5,
+   "NumberOfRating": 1,
+   "Order": 26
+ },
+ {
+   "Question": "Что такое ДОМЕН КОЛЛИЗИЙ (Collision domain)?",
+   "QuestionID": 108,
+   "Complicating": 4,
+   "NumberOfRating": 3,
+   "Order": 3
+ },
+ {
+   "Question": "Какое устройство позволяет сегментировать сети?",
+   "QuestionID": 116,
+   "Complicating": 5,
+   "NumberOfRating": 3,
+   "Order": 45
+ },
+ {
+   "Question": "Правило 5-4-3 применимо к сетям ...",
+   "QuestionID": 135,
+   "Complicating": 5,
+   "NumberOfRating": 3,
+   "Order": 15
+ },
+ {
+   "Question": "Что описывает технология ISDN?",
+   "QuestionID": 152,
+   "Complicating": 4,
+   "NumberOfRating": 4,
+   "Order": 2
+ },
+ {
+   "Question": "Что составляет основу сотовых систем подвижной связи?",
+   "QuestionID": 158,
+   "Complicating": 4,
+   "NumberOfRating": 4,
+   "Order": 8
+ },
+ {
+   "Question": "Терминальные устройства какого типа используются для доступа к системе ГЛОБАЛСТАР, но не используются для доступа к наземным сотовым или другим мобильным радиосетям?",
+   "QuestionID": 175,
+   "Complicating": 5,
+   "NumberOfRating": 4,
+   "Order": 10
+ },
+ {
+   "Question": "Что является эффективным механизмом оптимизации процесса передачи информации через сети X.25, а также значительно увеличивает надежность работы сети?",
+   "QuestionID": 177,
+   "Complicating": 5,
+   "NumberOfRating": 4,
+   "Order": 12
+ },
+ {
+   "Question": "Скрэмблирование - это способ:",
+   "QuestionID": 183,
+   "Complicating": 3,
+   "NumberOfRating": 2,
+   "Order": 10
+ },
+ {
+   "Question": "Какая из приведенных комбинаций является флаговой в протоколе HDLC?",
+   "QuestionID": 189,
+   "Complicating": 3,
+   "NumberOfRating": 5,
+   "Order": 6
+ },
+ {
+   "Question": "Наследование -",
+   "QuestionID": 19,
+   "Complicating": 4,
+   "NumberOfRating": 1,
+   "Order": 4
+ },
+ {
+   "Question": "Для управления потоком и обнаружения ошибок в протоколе HDLC используется:",
+   "QuestionID": 199,
+   "Complicating": 4,
+   "NumberOfRating": 5,
+   "Order": 1
+ },
+ {
+   "Question": "Процесс разбиения дейтаграммы на маленькие части для помещения в кадрах с маленьким значением MTU называется:",
+   "QuestionID": 205,
+   "Complicating": 4,
+   "NumberOfRating": 5,
+   "Order": 7
+ },
+ {
+   "Question": "Что представляет собой стандарт Х.400?",
+   "QuestionID": 229,
+   "Complicating": 3,
+   "NumberOfRating": 6,
+   "Order": 1
+ },
+ {
+   "Question": "В какой системе почтовый адрес имеет вид: mailbox@domain?",
+   "QuestionID": 236,
+   "Complicating": 3,
+   "NumberOfRating": 6,
+   "Order": 8
+ },
+ {
+   "Question": "Полностью неоднородная РСОД характеризуется тем, что в ней объединены ЭВМ построенные на основе:",
+   "QuestionID": 24,
+   "Complicating": 4,
+   "NumberOfRating": 1,
+   "Order": 9
+ },
+ {
+   "Question": "Задача каждого уровня- это предоставление услуг:",
+   "QuestionID": 25,
+   "Complicating": 4,
+   "NumberOfRating": 1,
+   "Order": 10
+ },
+ {
+   "Question": "Какую маршрутизацию для отправки сообщений внутри почтового пространства, объдиняющего серверы Exchange, использует система Lotus cc:Mail?",
+   "QuestionID": 256,
+   "Complicating": 4,
+   "NumberOfRating": 6,
+   "Order": 13
+ },
+ {
+   "Question": "Наличие какого доступа клиента к своему почтовому ящику требует классическая почтовая SMTP-система?",
+   "QuestionID": 266,
+   "Complicating": 5,
+   "NumberOfRating": 6,
+   "Order": 8
+ },
+ {
+   "Question": "Какой вариант задания параметров в сети Frame Relay обеспечивает наиболее качественное обслуживание?",
+   "QuestionID": 279,
+   "Complicating": 5,
+   "NumberOfRating": 4,
+   "Order": 21
+ },
+ {
+   "Question": "Какое свойство объектно-ориентированных систем программирования обеспечивает мобильность открытых систем?",
+   "QuestionID": 305,
+   "Complicating": 5,
+   "NumberOfRating": 1,
+   "Order": 17
+ },
+ {
+   "Question": "Чем ниже значение отношения сигнал-шум, тем качество полученного сигнала:",
+   "QuestionID": 313,
+   "Complicating": 5,
+   "NumberOfRating": 1,
+   "Order": 34
+ },
+ {
+   "Question": "Единица данных, которой оперирует прикладной уровень обычно называется",
+   "QuestionID": 32,
+   "Complicating": 5,
+   "NumberOfRating": 1,
+   "Order": 2
+ },
+ {
+   "Question": "К каким кодам можно отнести логический код 4В/5В?",
+   "QuestionID": 337,
+   "Complicating": 5,
+   "NumberOfRating": 2,
+   "Order": 11
+ },
+ {
+   "Question": "Выберите синдром ошибки циклического кода [7,4] с порождающим полиномом Х**3+Х+1 для вектора ошибки 1000000.",
+   "QuestionID": 349,
+   "Complicating": 5,
+   "NumberOfRating": 2,
+   "Order": 23
+ },
+ {
+   "Question": "Есть ли ошибка в принятой кодовой комбинации 1101101 циклического кода [7,4] с подождаюшим полиномом х**3+х+1?",
+   "QuestionID": 353,
+   "Complicating": 5,
+   "NumberOfRating": 2,
+   "Order": 27
+ },
+ {
+   "Question": "К системам какого типа относится система с МДКН/ОС?",
+   "QuestionID": 380,
+   "Complicating": 5,
+   "NumberOfRating": 2,
+   "Order": 44
+ },
+ {
+   "Question": "К какой технологии локальной сети относится понятие <расширение носителя>?",
+   "QuestionID": 392,
+   "Complicating": 5,
+   "NumberOfRating": 3,
+   "Order": 34
+ },
+ {
+   "Question": "Дейтаграммными протоколами называются так же",
+   "QuestionID": 40,
+   "Complicating": 5,
+   "NumberOfRating": 1,
+   "Order": 10
+ },
+ {
+   "Question": "Минимальным требованием для мостов является фильтрация пакетов по:",
+   "QuestionID": 416,
+   "Complicating": 5,
+   "NumberOfRating": 3,
+   "Order": 28
+ },
+ {
+   "Question": "Агрегатные порты мультиплексора SDH часто называют также:",
+   "QuestionID": 444,
+   "Complicating": 3,
+   "NumberOfRating": 7,
+   "Order": 6
+ },
+ {
+   "Question": "Скорость передачи информации в сетях GPRS определяется:",
+   "QuestionID": 451,
+   "Complicating": 3,
+   "NumberOfRating": 7,
+   "Order": 13
+ },
+ {
+   "Question": "Внутри ядра GPRS-системы (между SGSN и GGSN) данные передаются с помощью:",
+   "QuestionID": 464,
+   "Complicating": 4,
+   "NumberOfRating": 7,
+   "Order": 11
+ },
+ {
+   "Question": "Какой тип кабеля обладает лучшими скоростными характеристиками?",
+   "QuestionID": 47,
+   "Complicating": 3,
+   "NumberOfRating": 1,
+   "Order": 14
+ },
+ {
+   "Question": "Какому слою эталонных генераторов, называемых также стратум-таймерами (от stratum - слой), соответствует ведомый задающий генератор высшего качества в сетях SDH?",
+   "QuestionID": 481,
+   "Complicating": 5,
+   "NumberOfRating": 7,
+   "Order": 13
+ },
+ {
+   "Question": "Алгоритм сжатия Лимпеля-Зива состоит в следующем:",
+   "QuestionID": 61,
+   "Complicating": 4,
+   "NumberOfRating": 2,
+   "Order": 1
+ },
+ {
+   "Question": "Структурные параметры сигнала:",
+   "QuestionID": 73,
+   "Complicating": 4,
+   "NumberOfRating": 1,
+   "Order": 21
+ },
+ {
+   "Question": "При действия ошибки кратности q на разрешённую кодовую комбинацию кода с кодовым расстоянием d получена новая кодовая комбинация. Для исправления ошибки кодовое расстояние d должно быть:",
+   "QuestionID": 78,
+   "Complicating": 5,
+   "NumberOfRating": 2,
+   "Order": 3
+ },
+ {
+   "Question": "По какой формуле вычисляется затухание в децибелах?",
+   "QuestionID": 87,
+   "Complicating": 5,
+   "NumberOfRating": 1,
+   "Order": 29
+ },
+ {
+   "Question": "Какие характеристики прямо влияют на производительность и надежность создаваемой сети?",
+   "QuestionID": 89,
+   "Complicating": 5,
+   "NumberOfRating": 1,
+   "Order": 31
+ },
+ {
+   "Question": "В какой спецификации технологии Ethernet средой передачи данных является кабель с витой парой?",
+   "QuestionID": 95,
+   "Complicating": 4,
+   "NumberOfRating": 3,
+   "Order": 17
+ }
+]

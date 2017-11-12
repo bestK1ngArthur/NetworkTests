@@ -1,0 +1,9524 @@
+﻿[
+ {
+   "Answer": "в однородных сетях",
+   "AnswerID": 650,
+   "QuestionID": 2,
+   "IsGood": 0
+ },
+ {
+   "Answer": "в простейших сетях",
+   "AnswerID": 651,
+   "QuestionID": 2,
+   "IsGood": 1
+ },
+ {
+   "Answer": "2 уровня",
+   "AnswerID": 652,
+   "QuestionID": 3,
+   "IsGood": 0
+ },
+ {
+   "Answer": "9 уровней",
+   "AnswerID": 653,
+   "QuestionID": 3,
+   "IsGood": 0
+ },
+ {
+   "Answer": "7 уровней",
+   "AnswerID": 654,
+   "QuestionID": 3,
+   "IsGood": 1
+ },
+ {
+   "Answer": "5 уровней",
+   "AnswerID": 655,
+   "QuestionID": 3,
+   "IsGood": 0
+ },
+ {
+   "Answer": "оптимизацией",
+   "AnswerID": 656,
+   "QuestionID": 4,
+   "IsGood": 0
+ },
+ {
+   "Answer": "минимизацией пути",
+   "AnswerID": 657,
+   "QuestionID": 4,
+   "IsGood": 0
+ },
+ {
+   "Answer": "маршрутизацией",
+   "AnswerID": 658,
+   "QuestionID": 4,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Протокол уровня передачи данных",
+   "AnswerID": 659,
+   "QuestionID": 5,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Ядро операционной системы",
+   "AnswerID": 660,
+   "QuestionID": 5,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Драйвер",
+   "AnswerID": 661,
+   "QuestionID": 5,
+   "IsGood": 1
+ },
+ {
+   "Answer": "да",
+   "AnswerID": 664,
+   "QuestionID": 8,
+   "IsGood": 1
+ },
+ {
+   "Answer": "нет",
+   "AnswerID": 665,
+   "QuestionID": 8,
+   "IsGood": 0
+ },
+ {
+   "Answer": "плата",
+   "AnswerID": 670,
+   "QuestionID": 10,
+   "IsGood": 0
+ },
+ {
+   "Answer": "программное обеспечение",
+   "AnswerID": 671,
+   "QuestionID": 10,
+   "IsGood": 1
+ },
+ {
+   "Answer": "прикладной, представительный, сеансовый",
+   "AnswerID": 686,
+   "QuestionID": 16,
+   "IsGood": 0
+ },
+ {
+   "Answer": "сетевой, канальный, сеансовый",
+   "AnswerID": 687,
+   "QuestionID": 16,
+   "IsGood": 0
+ },
+ {
+   "Answer": "физический, канальный и сетевой",
+   "AnswerID": 688,
+   "QuestionID": 16,
+   "IsGood": 1
+ },
+ {
+   "Answer": "сетевых адаптеров",
+   "AnswerID": 692,
+   "QuestionID": 18,
+   "IsGood": 0
+ },
+ {
+   "Answer": "драйверов",
+   "AnswerID": 694,
+   "QuestionID": 18,
+   "IsGood": 0
+ },
+ {
+   "Answer": "с другими платами адаптеров сети",
+   "AnswerID": 701,
+   "QuestionID": 21,
+   "IsGood": 0
+ },
+ {
+   "Answer": "между платой адаптера и операционной системой компьютера",
+   "AnswerID": 702,
+   "QuestionID": 21,
+   "IsGood": 1
+ },
+ {
+   "Answer": "между различными типами компьютеров в сети",
+   "AnswerID": 703,
+   "QuestionID": 21,
+   "IsGood": 0
+ },
+ {
+   "Answer": "различных архитектур и функционирующие под управлением одинаковых операционных систем",
+   "AnswerID": 710,
+   "QuestionID": 24,
+   "IsGood": 0
+ },
+ {
+   "Answer": "одинаковых архитектур и функционирующие под управлением одинаковых операционных систем",
+   "AnswerID": 711,
+   "QuestionID": 24,
+   "IsGood": 0
+ },
+ {
+   "Answer": "различных архитектур и функционирующие под управлением разных операционных систем",
+   "AnswerID": 712,
+   "QuestionID": 24,
+   "IsGood": 1
+ },
+ {
+   "Answer": "стандартизация типов разъемов и назначение каждого контакта",
+   "AnswerID": 717,
+   "QuestionID": 26,
+   "IsGood": 0
+ },
+ {
+   "Answer": "проверка доступности среды передачи, так как физическая среда может быть занята одной из нескольких пар попеременно взаимодействующих компьютеров",
+   "AnswerID": 718,
+   "QuestionID": 26,
+   "IsGood": 1
+ },
+ {
+   "Answer": "образование единой транспортной системы, объединяющей несколько сетей",
+   "AnswerID": 719,
+   "QuestionID": 26,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Пакет",
+   "AnswerID": 720,
+   "QuestionID": 27,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Кадр",
+   "AnswerID": 721,
+   "QuestionID": 27,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Сегмент",
+   "AnswerID": 722,
+   "QuestionID": 27,
+   "IsGood": 0
+ },
+ {
+   "Answer": "определять форму обмена данными между сетевыми компьютерами",
+   "AnswerID": 723,
+   "QuestionID": 28,
+   "IsGood": 0
+ },
+ {
+   "Answer": "двум приложениям на разных компьютерах устанавливать, использовать и завершать соединение",
+   "AnswerID": 724,
+   "QuestionID": 28,
+   "IsGood": 0
+ },
+ {
+   "Answer": "обеспечение гарантированной доставки пакетов без ошибок, в той же последовательности, без потерь и дублирования",
+   "AnswerID": 725,
+   "QuestionID": 28,
+   "IsGood": 1
+ },
+ {
+   "Answer": "такая форма взаимодействия ЭВМ, при которой любой из процессов одной из машин по своей инициативе может установить логическую связь с любым процессом в любой другой ЭВМ",
+   "AnswerID": 726,
+   "QuestionID": 29,
+   "IsGood": 1
+ },
+ {
+   "Answer": "такая форма взаимодействия ЭВМ, при которой один из процессов одной из машин может установить логическую связь с соответствующим процессом в любой другой ЭВМ",
+   "AnswerID": 727,
+   "QuestionID": 29,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Транспортная",
+   "AnswerID": 728,
+   "QuestionID": 30,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Интерфейсная",
+   "AnswerID": 729,
+   "QuestionID": 30,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Административная",
+   "AnswerID": 730,
+   "QuestionID": 30,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Информационно-вычислительная",
+   "AnswerID": 731,
+   "QuestionID": 30,
+   "IsGood": 0
+ },
+ {
+   "Answer": "специализированная система, позволяющая организовать передачу данных между не связанными между собой ЭВМ",
+   "AnswerID": 732,
+   "QuestionID": 31,
+   "IsGood": 0
+ },
+ {
+   "Answer": "любая система, позволяющая организовать взаимодействие независимых, но связанных между собой ЭВМ",
+   "AnswerID": 733,
+   "QuestionID": 31,
+   "IsGood": 1
+ },
+ {
+   "Answer": "любая система, позволяющая организовать взаимодействие зависимых, но не связанных между собой ЭВМ",
+   "AnswerID": 734,
+   "QuestionID": 31,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Транспортная",
+   "AnswerID": 738,
+   "QuestionID": 33,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Интерфейсная",
+   "AnswerID": 739,
+   "QuestionID": 33,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Терминальная",
+   "AnswerID": 740,
+   "QuestionID": 33,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Информационно-вычислительная",
+   "AnswerID": 741,
+   "QuestionID": 33,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Общим интерфейсом системы",
+   "AnswerID": 745,
+   "QuestionID": 35,
+   "IsGood": 1
+ },
+ {
+   "Answer": "(N-1) - интерфейсом",
+   "AnswerID": 747,
+   "QuestionID": 35,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Да",
+   "AnswerID": 751,
+   "QuestionID": 37,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Нет",
+   "AnswerID": 752,
+   "QuestionID": 37,
+   "IsGood": 1
+ },
+ {
+   "Answer": "протокол маршрутизации",
+   "AnswerID": 753,
+   "QuestionID": 38,
+   "IsGood": 0
+ },
+ {
+   "Answer": "протокол передачи управляющих сообщений",
+   "AnswerID": 755,
+   "QuestionID": 38,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Канальный",
+   "AnswerID": 756,
+   "QuestionID": 39,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Сетевый",
+   "AnswerID": 757,
+   "QuestionID": 39,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Представительный",
+   "AnswerID": 758,
+   "QuestionID": 39,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Протоколы без предварительного установления соединения",
+   "AnswerID": 759,
+   "QuestionID": 40,
+   "IsGood": 1
+ },
+ {
+   "Answer": "FTP",
+   "AnswerID": 764,
+   "QuestionID": 42,
+   "IsGood": 0
+ },
+ {
+   "Answer": "IP",
+   "AnswerID": 765,
+   "QuestionID": 42,
+   "IsGood": 1
+ },
+ {
+   "Answer": "UDP",
+   "AnswerID": 766,
+   "QuestionID": 42,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Административная и терминальная",
+   "AnswerID": 767,
+   "QuestionID": 43,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Интерфейсная и транспортная",
+   "AnswerID": 768,
+   "QuestionID": 43,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Терминальная и транспортная",
+   "AnswerID": 769,
+   "QuestionID": 43,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Информационно-вычислительная и терминальная",
+   "AnswerID": 770,
+   "QuestionID": 43,
+   "IsGood": 1
+ },
+ {
+   "Answer": "кадры",
+   "AnswerID": 771,
+   "QuestionID": 44,
+   "IsGood": 0
+ },
+ {
+   "Answer": "сегменты",
+   "AnswerID": 773,
+   "QuestionID": 44,
+   "IsGood": 0
+ },
+ {
+   "Answer": "межуровневый интерфейс",
+   "AnswerID": 774,
+   "QuestionID": 45,
+   "IsGood": 0
+ },
+ {
+   "Answer": "протокол",
+   "AnswerID": 775,
+   "QuestionID": 45,
+   "IsGood": 1
+ },
+ {
+   "Answer": "логическое",
+   "AnswerID": 780,
+   "QuestionID": 48,
+   "IsGood": 1
+ },
+ {
+   "Answer": "физическое",
+   "AnswerID": 781,
+   "QuestionID": 48,
+   "IsGood": 0
+ },
+ {
+   "Answer": "одновременно",
+   "AnswerID": 782,
+   "QuestionID": 48,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Устройство преобразование высокочастотных радио сигналов в звук и наоборот.",
+   "AnswerID": 783,
+   "QuestionID": 49,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Устройство кодирования/декодирования цифровых сигналов в другие цифровые сигналы",
+   "AnswerID": 785,
+   "QuestionID": 49,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Асинхронные модемы",
+   "AnswerID": 786,
+   "QuestionID": 50,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Синхронные модемы",
+   "AnswerID": 787,
+   "QuestionID": 50,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Преобразование информации с целью обеспечения удобства ее передачи по каналам связи или хранения.",
+   "AnswerID": 788,
+   "QuestionID": 51,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Преобразование информации для защиты от кражи или перехвата при передаче по каналам связи.",
+   "AnswerID": 789,
+   "QuestionID": 51,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Преобразование формы представления информации с целью обеспечения удобства ее передачи по каналам связи или хранения.",
+   "AnswerID": 790,
+   "QuestionID": 51,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Часть разрядов блока являются информационными, остальные разряды играют роль проверочных разрядов.",
+   "AnswerID": 797,
+   "QuestionID": 56,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Информационные разряды блока нельзя отделить от проверочных разрядов.",
+   "AnswerID": 798,
+   "QuestionID": 56,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Проверочная последовательность бит посылается раздельно, в другом блоке.",
+   "AnswerID": 799,
+   "QuestionID": 56,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Второе и последующие вхождения некоторой строки символов в сообщение заменяются ссылкой на ее первое появление в сообщении.",
+   "AnswerID": 806,
+   "QuestionID": 61,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Последовательность одинаковых символов заменяется 2 байтами. В первом байте - символ, во втором - счетчик, то есть число, которое показывает, сколько таких символов идет подряд.",
+   "AnswerID": 807,
+   "QuestionID": 61,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Замена информационных символов кодовыми последовательностями различной длины. Чем чаще используется символ, тем короче кодовая последовательность.",
+   "AnswerID": 808,
+   "QuestionID": 61,
+   "IsGood": 0
+ },
+ {
+   "Answer": "ненадежности сети",
+   "AnswerID": 809,
+   "QuestionID": 181,
+   "IsGood": 0
+ },
+ {
+   "Answer": "задержек передачи кадров",
+   "AnswerID": 810,
+   "QuestionID": 181,
+   "IsGood": 1
+ },
+ {
+   "Answer": "размера окна",
+   "AnswerID": 811,
+   "QuestionID": 181,
+   "IsGood": 0
+ },
+ {
+   "Answer": "физического кодирования",
+   "AnswerID": 815,
+   "QuestionID": 183,
+   "IsGood": 0
+ },
+ {
+   "Answer": "сжатия данных",
+   "AnswerID": 817,
+   "QuestionID": 183,
+   "IsGood": 0
+ },
+ {
+   "Answer": "AT-регистры",
+   "AnswerID": 824,
+   "QuestionID": 63,
+   "IsGood": 0
+ },
+ {
+   "Answer": "S-регистры",
+   "AnswerID": 825,
+   "QuestionID": 63,
+   "IsGood": 1
+ },
+ {
+   "Answer": "T-регистры",
+   "AnswerID": 826,
+   "QuestionID": 63,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Международные стандарты сертификации модемов.",
+   "AnswerID": 841,
+   "QuestionID": 69,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Сокращенные названия фирм - производителей модемов.",
+   "AnswerID": 842,
+   "QuestionID": 69,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Операция рукопожатия при установлении соединения.",
+   "AnswerID": 844,
+   "QuestionID": 70,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Операция повторного вызова удаленного модема при потере несущей.",
+   "AnswerID": 845,
+   "QuestionID": 70,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Операция подстройки параметров при значительных сбоях в линии связи.",
+   "AnswerID": 846,
+   "QuestionID": 70,
+   "IsGood": 1
+ },
+ {
+   "Answer": "с предварительным установлением логического соединения.",
+   "AnswerID": 847,
+   "QuestionID": 71,
+   "IsGood": 0
+ },
+ {
+   "Answer": "без установления физического соединения.",
+   "AnswerID": 848,
+   "QuestionID": 71,
+   "IsGood": 0
+ },
+ {
+   "Answer": "без установления логического соединения.",
+   "AnswerID": 849,
+   "QuestionID": 71,
+   "IsGood": 1
+ },
+ {
+   "Answer": "V.42",
+   "AnswerID": 850,
+   "QuestionID": 72,
+   "IsGood": 1
+ },
+ {
+   "Answer": "V.22",
+   "AnswerID": 851,
+   "QuestionID": 72,
+   "IsGood": 0
+ },
+ {
+   "Answer": "TurboPEP",
+   "AnswerID": 852,
+   "QuestionID": 72,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Режим приема и режим передачи данных",
+   "AnswerID": 856,
+   "QuestionID": 74,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Режим установления соединения и режим данных",
+   "AnswerID": 858,
+   "QuestionID": 74,
+   "IsGood": 0
+ },
+ {
+   "Answer": "ESC",
+   "AnswerID": 862,
+   "QuestionID": 62,
+   "IsGood": 0
+ },
+ {
+   "Answer": "CONNECT",
+   "AnswerID": 863,
+   "QuestionID": 62,
+   "IsGood": 0
+ },
+ {
+   "Answer": "+++",
+   "AnswerID": 864,
+   "QuestionID": 62,
+   "IsGood": 1
+ },
+ {
+   "Answer": "***",
+   "AnswerID": 865,
+   "QuestionID": 62,
+   "IsGood": 0
+ },
+ {
+   "Answer": "d >= q",
+   "AnswerID": 872,
+   "QuestionID": 78,
+   "IsGood": 0
+ },
+ {
+   "Answer": "q < d < 2q+1",
+   "AnswerID": 873,
+   "QuestionID": 78,
+   "IsGood": 0
+ },
+ {
+   "Answer": "d = q",
+   "AnswerID": 874,
+   "QuestionID": 78,
+   "IsGood": 0
+ },
+ {
+   "Answer": "d > 2q",
+   "AnswerID": 875,
+   "QuestionID": 78,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Метод без простоев",
+   "AnswerID": 877,
+   "QuestionID": 79,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Метод с простоями",
+   "AnswerID": 878,
+   "QuestionID": 79,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Связной интерфейс со стороны терминала",
+   "AnswerID": 879,
+   "QuestionID": 80,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Связной интерфейс с сетевой стороны",
+   "AnswerID": 880,
+   "QuestionID": 80,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Связной интерфейс со стороны компьютера",
+   "AnswerID": 881,
+   "QuestionID": 80,
+   "IsGood": 0
+ },
+ {
+   "Answer": "в байт-ориентированных протоколах",
+   "AnswerID": 888,
+   "QuestionID": 82,
+   "IsGood": 1
+ },
+ {
+   "Answer": "в протоколах коррекции ошибок",
+   "AnswerID": 889,
+   "QuestionID": 82,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Это часть сети, все узлы которой распознают коллизию независимо от того, в какой части этой сети коллизия возникла.",
+   "AnswerID": 988,
+   "QuestionID": 108,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Это часть сети, в которой только один узел (выделенный сервер) распознает коллизию независимо от того, в какой части этой сети коллизия возникла.",
+   "AnswerID": 989,
+   "QuestionID": 108,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Это часть сети, все узлы которой распознают коллизии, но только те, которые возникают в соседних узлах.",
+   "AnswerID": 990,
+   "QuestionID": 108,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Это часть сети, в которой только один узел (выделенный сервер) распознает коллизии, но только те, которые возникают в соседних узлах.",
+   "AnswerID": 991,
+   "QuestionID": 108,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Это явление столкновения пакетов, которое может возникнуть при одновременной пересылке пакетов несколькими узлами сети.",
+   "AnswerID": 992,
+   "QuestionID": 109,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Это явление конкуренции между пакетами, принятыми коммутатором сети, вследствие которого коммутатор входит в состояние простоя (Idle).",
+   "AnswerID": 994,
+   "QuestionID": 109,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Сеть всегда содержит центральный (корневой) концентратор.",
+   "AnswerID": 995,
+   "QuestionID": 110,
+   "IsGood": 1
+ },
+ {
+   "Answer": "В данной сети используются только коммутаторы, работа с концентраторами невозможна.",
+   "AnswerID": 996,
+   "QuestionID": 110,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Сеть FDDI представляет собой кольцо на базе кабеля витой пары стандарта UTP 4Cat.",
+   "AnswerID": 1002,
+   "QuestionID": 112,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Сеть FDDI представляет собой кольцо на базе кабеля витой пары стандарта UTP 5Cat.",
+   "AnswerID": 1003,
+   "QuestionID": 112,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Это устройство для подключения к толстому коаксиальному кабелю.",
+   "AnswerID": 1004,
+   "QuestionID": 114,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Это устройство, предназначенное для связи нескольких сетей стандарта Ethernet.",
+   "AnswerID": 1005,
+   "QuestionID": 114,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Это устройство анализа и перераспределения трафика между узлами сети.",
+   "AnswerID": 1006,
+   "QuestionID": 114,
+   "IsGood": 0
+ },
+ {
+   "Answer": "содержится в ПЗУ сетевого адаптера.",
+   "AnswerID": 1007,
+   "QuestionID": 115,
+   "IsGood": 1
+ },
+ {
+   "Answer": "задается программой-инициатором логического соединения и записывается в ОЗУ сетевого адаптера.",
+   "AnswerID": 1008,
+   "QuestionID": 115,
+   "IsGood": 0
+ },
+ {
+   "Answer": "используется только для создания виртуальных сетей (Virtual LAN).",
+   "AnswerID": 1009,
+   "QuestionID": 115,
+   "IsGood": 0
+ },
+ {
+   "Answer": "маршрутизатор",
+   "AnswerID": 1014,
+   "QuestionID": 117,
+   "IsGood": 1
+ },
+ {
+   "Answer": "трансивер",
+   "AnswerID": 1015,
+   "QuestionID": 117,
+   "IsGood": 0
+ },
+ {
+   "Answer": "повторитель",
+   "AnswerID": 1016,
+   "QuestionID": 117,
+   "IsGood": 0
+ },
+ {
+   "Answer": "10Base-2",
+   "AnswerID": 1018,
+   "QuestionID": 118,
+   "IsGood": 1
+ },
+ {
+   "Answer": "100Base-TХ",
+   "AnswerID": 1019,
+   "QuestionID": 118,
+   "IsGood": 0
+ },
+ {
+   "Answer": "100Base-F",
+   "AnswerID": 1020,
+   "QuestionID": 118,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Для сращивания двух отрезков тонкого коаксиального кабеля.",
+   "AnswerID": 1022,
+   "QuestionID": 119,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Для подключения тонкого коаксиального кабеля к коммутатору либо концентратору сети.",
+   "AnswerID": 1023,
+   "QuestionID": 119,
+   "IsGood": 0
+ },
+ {
+   "Answer": "до 2.5 Мбит/сек",
+   "AnswerID": 1024,
+   "QuestionID": 120,
+   "IsGood": 1
+ },
+ {
+   "Answer": "до 0.5 Мбит/сек",
+   "AnswerID": 1025,
+   "QuestionID": 120,
+   "IsGood": 0
+ },
+ {
+   "Answer": "до 1.5 Мбит/сек",
+   "AnswerID": 1026,
+   "QuestionID": 120,
+   "IsGood": 0
+ },
+ {
+   "Answer": "до 10 Мбит/сек",
+   "AnswerID": 1027,
+   "QuestionID": 120,
+   "IsGood": 0
+ },
+ {
+   "Answer": "до 5 Мбит/сек",
+   "AnswerID": 1028,
+   "QuestionID": 120,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Ethernet 802.2.",
+   "AnswerID": 1029,
+   "QuestionID": 113,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Ethernet 802.3.",
+   "AnswerID": 1030,
+   "QuestionID": 113,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Ethernet II.",
+   "AnswerID": 1031,
+   "QuestionID": 113,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Ethernet SNAP",
+   "AnswerID": 1032,
+   "QuestionID": 113,
+   "IsGood": 0
+ },
+ {
+   "Answer": "10Base-FB",
+   "AnswerID": 1044,
+   "QuestionID": 124,
+   "IsGood": 1
+ },
+ {
+   "Answer": "FOIRL",
+   "AnswerID": 1045,
+   "QuestionID": 124,
+   "IsGood": 0
+ },
+ {
+   "Answer": "46 байт",
+   "AnswerID": 1047,
+   "QuestionID": 125,
+   "IsGood": 1
+ },
+ {
+   "Answer": "512 байт",
+   "AnswerID": 1048,
+   "QuestionID": 125,
+   "IsGood": 0
+ },
+ {
+   "Answer": "1500 байт",
+   "AnswerID": 1049,
+   "QuestionID": 125,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Нет.",
+   "AnswerID": 1051,
+   "QuestionID": 126,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Да, размер кадров в сетях технологии Fast Ethernet больше.",
+   "AnswerID": 1052,
+   "QuestionID": 126,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Да, размер кадров в сетях технологии Fast Ethernet меньше.",
+   "AnswerID": 1053,
+   "QuestionID": 126,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Это процедура инициализации кольца, необходимая, чтобы все станции кольца убедились в его работоспособности.",
+   "AnswerID": 1054,
+   "QuestionID": 127,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Это процедура адаптивного распределения пропускной способности кольца между станциями.",
+   "AnswerID": 1055,
+   "QuestionID": 127,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Это процедура генерации сдерживающего маркера (Restricted token) для монопольного обмена данными между двумя станциями.",
+   "AnswerID": 1056,
+   "QuestionID": 127,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Ограничить область распространения широковещательного трафика в сети.",
+   "AnswerID": 1057,
+   "QuestionID": 128,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Создание логической, но полноценной сети без использования оборудования стандартов семейства Ethernet.",
+   "AnswerID": 1059,
+   "QuestionID": 128,
+   "IsGood": 0
+ },
+ {
+   "Answer": "архитектура иерархической звезды и архитектура одноточечного управления",
+   "AnswerID": 1060,
+   "QuestionID": 129,
+   "IsGood": 1
+ },
+ {
+   "Answer": "архитектура иерархической звезды и архитектура протяженной шины",
+   "AnswerID": 1061,
+   "QuestionID": 129,
+   "IsGood": 0
+ },
+ {
+   "Answer": "архитектура протяженной шины и архитектура одноточечного управления",
+   "AnswerID": 1062,
+   "QuestionID": 129,
+   "IsGood": 0
+ },
+ {
+   "Answer": "архитектура протяженной шины, архитектура иерархической звезды, архитектура одноточечного управления",
+   "AnswerID": 1063,
+   "QuestionID": 129,
+   "IsGood": 0
+ },
+ {
+   "Answer": "10 Мбит/сек",
+   "AnswerID": 1064,
+   "QuestionID": 130,
+   "IsGood": 1
+ },
+ {
+   "Answer": "100 Мбит/сек",
+   "AnswerID": 1065,
+   "QuestionID": 130,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Сеть работать не будет",
+   "AnswerID": 1066,
+   "QuestionID": 130,
+   "IsGood": 0
+ },
+ {
+   "Answer": "100 Мбит/сек",
+   "AnswerID": 1067,
+   "QuestionID": 131,
+   "IsGood": 1
+ },
+ {
+   "Answer": "10 Мбит/сек",
+   "AnswerID": 1068,
+   "QuestionID": 131,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Сеть работать не будет",
+   "AnswerID": 1069,
+   "QuestionID": 131,
+   "IsGood": 0
+ },
+ {
+   "Answer": "MAC - адрес получателя пакета.",
+   "AnswerID": 1070,
+   "QuestionID": 132,
+   "IsGood": 1
+ },
+ {
+   "Answer": "IP - адрес получателя пакета.",
+   "AnswerID": 1071,
+   "QuestionID": 132,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Switch NetBIOS - адрес получателя пакета.",
+   "AnswerID": 1072,
+   "QuestionID": 132,
+   "IsGood": 0
+ },
+ {
+   "Answer": "на сетевом уровне",
+   "AnswerID": 1073,
+   "QuestionID": 133,
+   "IsGood": 1
+ },
+ {
+   "Answer": "на канальном уровне",
+   "AnswerID": 1074,
+   "QuestionID": 133,
+   "IsGood": 0
+ },
+ {
+   "Answer": "на физическом уровне",
+   "AnswerID": 1075,
+   "QuestionID": 133,
+   "IsGood": 0
+ },
+ {
+   "Answer": "на канальном уровне",
+   "AnswerID": 1077,
+   "QuestionID": 134,
+   "IsGood": 1
+ },
+ {
+   "Answer": "на сетевом уровне",
+   "AnswerID": 1078,
+   "QuestionID": 134,
+   "IsGood": 0
+ },
+ {
+   "Answer": "на транспортном уровне",
+   "AnswerID": 1079,
+   "QuestionID": 134,
+   "IsGood": 0
+ },
+ {
+   "Answer": "на физическом уровне",
+   "AnswerID": 1080,
+   "QuestionID": 134,
+   "IsGood": 0
+ },
+ {
+   "Answer": "100VG-AnyLAN",
+   "AnswerID": 1081,
+   "QuestionID": 135,
+   "IsGood": 0
+ },
+ {
+   "Answer": "10Base-2 и 10Base-5",
+   "AnswerID": 1082,
+   "QuestionID": 135,
+   "IsGood": 1
+ },
+ {
+   "Answer": "100Base-FX",
+   "AnswerID": 1084,
+   "QuestionID": 135,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Да.",
+   "AnswerID": 1085,
+   "QuestionID": 136,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Нет.",
+   "AnswerID": 1086,
+   "QuestionID": 136,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Нет.",
+   "AnswerID": 1087,
+   "QuestionID": 137,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Да.",
+   "AnswerID": 1088,
+   "QuestionID": 137,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Нет.",
+   "AnswerID": 1089,
+   "QuestionID": 138,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Да.",
+   "AnswerID": 1091,
+   "QuestionID": 139,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Нет.",
+   "AnswerID": 1092,
+   "QuestionID": 139,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Да, используя дополнительное оборудование.",
+   "AnswerID": 1093,
+   "QuestionID": 140,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Да.",
+   "AnswerID": 1095,
+   "QuestionID": 141,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Нет.",
+   "AnswerID": 1096,
+   "QuestionID": 141,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Да.",
+   "AnswerID": 1099,
+   "QuestionID": 143,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Нет.",
+   "AnswerID": 1100,
+   "QuestionID": 143,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Да.",
+   "AnswerID": 1101,
+   "QuestionID": 144,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Нет.",
+   "AnswerID": 1102,
+   "QuestionID": 144,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Да.",
+   "AnswerID": 1104,
+   "QuestionID": 145,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Нет.",
+   "AnswerID": 1105,
+   "QuestionID": 146,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Да.",
+   "AnswerID": 1106,
+   "QuestionID": 146,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Они обеспечивают передачу информации высших уровней (данные приложений).",
+   "AnswerID": 1108,
+   "QuestionID": 147,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Они обеспечивают контроль четности передаваемых данных .",
+   "AnswerID": 1109,
+   "QuestionID": 147,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Это система, созданная на базе низкоорбитальных спутников либо объектов.",
+   "AnswerID": 1110,
+   "QuestionID": 148,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Это система на базе центров коммутации, расположенных в водах мирового океана.",
+   "AnswerID": 1111,
+   "QuestionID": 148,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Это система, состоящая из серии антенн, укрепленных в самых высоких точках нашей планеты.",
+   "AnswerID": 1112,
+   "QuestionID": 148,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Такой системы не существует.",
+   "AnswerID": 1113,
+   "QuestionID": 148,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Международный стандарт передачи пакетов по общественным сетям.",
+   "AnswerID": 1122,
+   "QuestionID": 151,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Международный стандарт передачи пакетов в ЛВС.",
+   "AnswerID": 1123,
+   "QuestionID": 151,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Международный стандарт связи коммутаторов.",
+   "AnswerID": 1124,
+   "QuestionID": 151,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Международный стандарт связи концентраторов.",
+   "AnswerID": 1125,
+   "QuestionID": 151,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Систему передачи данных на базе оптоволоконного тракта.",
+   "AnswerID": 1127,
+   "QuestionID": 152,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Систему адресации и методы инкапсуляции (упаковки) пакетов в сетях рекомендации X.25.",
+   "AnswerID": 1128,
+   "QuestionID": 152,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Систему передачи данных на базе инфракрасных лучей (IrDA).",
+   "AnswerID": 1129,
+   "QuestionID": 152,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Потому что в сетях Frame Relay не передаются квитанции подтверждения между промежуточными коммутаторами на каждый пользовательский кадр.",
+   "AnswerID": 1130,
+   "QuestionID": 153,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Потому что в сетях Frame Relay используется алгоритм сжатия и инкапсуляции пакетов в соответствии со стандартом ISO 1826.",
+   "AnswerID": 1131,
+   "QuestionID": 153,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Потому что сети Frame Relay работают на основе интернет протокола TCP/IP.",
+   "AnswerID": 1132,
+   "QuestionID": 153,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Выделенные виртуальные цепи (RVC).",
+   "AnswerID": 1133,
+   "QuestionID": 154,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Постоянные виртуальные цепи (PVC).",
+   "AnswerID": 1134,
+   "QuestionID": 154,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Коммутируемые виртуальные цепи (SVC).",
+   "AnswerID": 1135,
+   "QuestionID": 154,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Секторные антенны.",
+   "AnswerID": 1136,
+   "QuestionID": 155,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Антенны с круговой диаграммой направленности.",
+   "AnswerID": 1137,
+   "QuestionID": 155,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Антенны с гиперболической диаграммой направленности.",
+   "AnswerID": 1138,
+   "QuestionID": 155,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Антенны компонентного типа.",
+   "AnswerID": 1139,
+   "QuestionID": 155,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Информация, заложенная в SIM карте абонента.",
+   "AnswerID": 1140,
+   "QuestionID": 156,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Блочное кодирование данных.",
+   "AnswerID": 1141,
+   "QuestionID": 156,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Технологии потокового кодирования FCCH, SCH, BCCH.",
+   "AnswerID": 1142,
+   "QuestionID": 156,
+   "IsGood": 0
+ },
+ {
+   "Answer": "обслуживает группу сот.",
+   "AnswerID": 1144,
+   "QuestionID": 157,
+   "IsGood": 1
+ },
+ {
+   "Answer": "расположен в каждой соте.",
+   "AnswerID": 1145,
+   "QuestionID": 157,
+   "IsGood": 0
+ },
+ {
+   "Answer": "непосредственно связан с передатчиками базовых станций (BTS).",
+   "AnswerID": 1146,
+   "QuestionID": 157,
+   "IsGood": 0
+ },
+ {
+   "Answer": "используется только для связи очень отдаленных сот (расположенных в разных городах).",
+   "AnswerID": 1147,
+   "QuestionID": 157,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Разбиение зоны покрытия на ячейки и повторное использование частот.",
+   "AnswerID": 1148,
+   "QuestionID": 158,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Наличие одной фазовой антенны с круговой диаграммой направленности, связывающей всех абонентов.",
+   "AnswerID": 1149,
+   "QuestionID": 158,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Стандарты и положения о сотовой связи, утвержденные международным концерном ГЛОБАЛСТАР.",
+   "AnswerID": 1150,
+   "QuestionID": 158,
+   "IsGood": 0
+ },
+ {
+   "Answer": "GSM.",
+   "AnswerID": 1151,
+   "QuestionID": 159,
+   "IsGood": 1
+ },
+ {
+   "Answer": "JDC.",
+   "AnswerID": 1153,
+   "QuestionID": 159,
+   "IsGood": 0
+ },
+ {
+   "Answer": "D-AMPS.",
+   "AnswerID": 1154,
+   "QuestionID": 159,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Использование коротких пакетов фиксированной длины, называемых ячейками (Cell).",
+   "AnswerID": 1155,
+   "QuestionID": 160,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Использование стека протоколов стандарта LAPB для коммутации пакетов.",
+   "AnswerID": 1157,
+   "QuestionID": 160,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Соединение ISDN станций с абонентом.",
+   "AnswerID": 1158,
+   "QuestionID": 161,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Связь между ISDN станциями.",
+   "AnswerID": 1159,
+   "QuestionID": 161,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Структуру терминального оборудования TE1 и TE2.",
+   "AnswerID": 1160,
+   "QuestionID": 161,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Структуру адаптера пакетной передачи данных (PSN).",
+   "AnswerID": 1161,
+   "QuestionID": 161,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Связь между ISDN станциями.",
+   "AnswerID": 1162,
+   "QuestionID": 162,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Соединение ISDN станций с абонентом.",
+   "AnswerID": 1163,
+   "QuestionID": 162,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Структуру терминального оборудования TE1 и TE2.",
+   "AnswerID": 1164,
+   "QuestionID": 162,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Структуру адаптера пакетной передачи данных (PSN).",
+   "AnswerID": 1165,
+   "QuestionID": 162,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Нерегламентированные непостоянные по величине задержки при передаче данных.",
+   "AnswerID": 1166,
+   "QuestionID": 163,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Наличие нестандартизованного протокола автоматического составления таблиц маршрутизации.",
+   "AnswerID": 1167,
+   "QuestionID": 163,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Наличие протокола Q.1152 в стеке протоколов Frame Relay.",
+   "AnswerID": 1168,
+   "QuestionID": 163,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Отказ от коррекции обнаруженных в кадрах искажений, что является особенностью технологии Frame Relay.",
+   "AnswerID": 1169,
+   "QuestionID": 163,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Все абоненты системы TDMA работают в одном и том же диапазоне частот.",
+   "AnswerID": 1170,
+   "QuestionID": 164,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Каждому абоненту TDMA отводится свой диапазон частот.",
+   "AnswerID": 1171,
+   "QuestionID": 164,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Технология TDMA не предусматривает использование кадров при передаче данных.",
+   "AnswerID": 1172,
+   "QuestionID": 164,
+   "IsGood": 0
+ },
+ {
+   "Answer": "В технологии TDMA не предусмотрена криптографическая защита передаваемой информации.",
+   "AnswerID": 1173,
+   "QuestionID": 164,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Биты FECN (Forward Explicit Congestion Bit) и BECN (Backward Explicit Congestion Bit) кадра сообщают о перегрузке.",
+   "AnswerID": 1174,
+   "QuestionID": 165,
+   "IsGood": 1
+ },
+ {
+   "Answer": "В протоколе LAP-F предусмотрена генерация супервизорных кадров RNR, сообщающих о перегрузке.",
+   "AnswerID": 1175,
+   "QuestionID": 165,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Коммутаторы Frame Relay прекращают передавать кадры в тех направлениях сети, которые перегружены.",
+   "AnswerID": 1176,
+   "QuestionID": 165,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Программное обеспечение пользователей автоматически определяет факт перегрузки сети по задержкам передачи.",
+   "AnswerID": 1177,
+   "QuestionID": 165,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Формат блока данных супервизорного кадра (Supervisory (S) frames) в сетях технологии Frame Relay.",
+   "AnswerID": 1178,
+   "QuestionID": 166,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Международный стандарт передачи пакетов по общественным сетям.",
+   "AnswerID": 1179,
+   "QuestionID": 166,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Стандарт реализации протокола LAPB.",
+   "AnswerID": 1180,
+   "QuestionID": 166,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Он состоит из одного информационного канала типа В (64 Кбит/сек) и одного канала типа D (16 Кбит/сек).",
+   "AnswerID": 1190,
+   "QuestionID": 167,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Он состоит из одного информационного канала типа В (64 Кбит/сек) и двух каналов типа D (16 Кбит/сек).",
+   "AnswerID": 1191,
+   "QuestionID": 167,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Он состоит из двух информационных каналов типа В (64 Кбит/сек) и одного канала типа D (16 Кбит/сек).",
+   "AnswerID": 1192,
+   "QuestionID": 167,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Он состоит из двух информационных каналов типа В (64 Кбит/сек) и двух каналов типа D (16 Кбит/сек).",
+   "AnswerID": 1193,
+   "QuestionID": 167,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Класс А и Класс С.",
+   "AnswerID": 1194,
+   "QuestionID": 168,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Класс А и Класс В.",
+   "AnswerID": 1195,
+   "QuestionID": 168,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Класс С и Класс D.",
+   "AnswerID": 1196,
+   "QuestionID": 168,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Класс В и Класс С.",
+   "AnswerID": 1197,
+   "QuestionID": 168,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Интерфейс базового уровня (BRI) и интерфейс первичного уровня (PRI).",
+   "AnswerID": 1198,
+   "QuestionID": 169,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Интерфейс подключения к терминалу (DCE) и интерфейс связи между ISDN станциями (DTE).",
+   "AnswerID": 1199,
+   "QuestionID": 169,
+   "IsGood": 0
+ },
+ {
+   "Answer": "BRI и DCE.",
+   "AnswerID": 1200,
+   "QuestionID": 169,
+   "IsGood": 0
+ },
+ {
+   "Answer": "BRI и DTE.",
+   "AnswerID": 1201,
+   "QuestionID": 169,
+   "IsGood": 0
+ },
+ {
+   "Answer": "BRI, DCE, DTE.",
+   "AnswerID": 1202,
+   "QuestionID": 169,
+   "IsGood": 0
+ },
+ {
+   "Answer": "до 0.5 Мбит/сек",
+   "AnswerID": 1203,
+   "QuestionID": 170,
+   "IsGood": 0
+ },
+ {
+   "Answer": "до 1 Мбит/сек",
+   "AnswerID": 1204,
+   "QuestionID": 170,
+   "IsGood": 0
+ },
+ {
+   "Answer": "до 2 Мбит/сек",
+   "AnswerID": 1205,
+   "QuestionID": 170,
+   "IsGood": 1
+ },
+ {
+   "Answer": "до 10 Мбит/сек",
+   "AnswerID": 1206,
+   "QuestionID": 170,
+   "IsGood": 0
+ },
+ {
+   "Answer": "до 100 Мбит/сек",
+   "AnswerID": 1207,
+   "QuestionID": 170,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Frame Relay.",
+   "AnswerID": 1209,
+   "QuestionID": 171,
+   "IsGood": 0
+ },
+ {
+   "Answer": "ATM (Asynchronous Transfer Mode).",
+   "AnswerID": 1210,
+   "QuestionID": 171,
+   "IsGood": 1
+ },
+ {
+   "Answer": "X.21.",
+   "AnswerID": 1211,
+   "QuestionID": 171,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Спецификация LANE определяет протокол взаимодействия ATM коммутатора с узлом на территории потребителя (CPN - Customer Premises Node).",
+   "AnswerID": 1213,
+   "QuestionID": 172,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Для корректного функционирования механизма управления потоком (GFC - Generic Flow Control) при перегрузке сети.",
+   "AnswerID": 1214,
+   "QuestionID": 172,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Для качественной передаче голоса и видеоданных в сетях технологии ATM.",
+   "AnswerID": 1215,
+   "QuestionID": 172,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Использовать разбиение сот на сектора.",
+   "AnswerID": 1220,
+   "QuestionID": 174,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Использовать фактор чередования сот.",
+   "AnswerID": 1221,
+   "QuestionID": 174,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Обеспечить более узкую полосу пропускания.",
+   "AnswerID": 1222,
+   "QuestionID": 174,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Использовать метод формирования логических каналов.",
+   "AnswerID": 1223,
+   "QuestionID": 174,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Одномодовые.",
+   "AnswerID": 1224,
+   "QuestionID": 175,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Двухмодовые.",
+   "AnswerID": 1225,
+   "QuestionID": 175,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Трехмодовые.",
+   "AnswerID": 1226,
+   "QuestionID": 175,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Пятимодовые.",
+   "AnswerID": 1227,
+   "QuestionID": 175,
+   "IsGood": 0
+ },
+ {
+   "Answer": "PAD используют для доступа в сеть абонентов в асинхронном режиме обмена информацией.",
+   "AnswerID": 1228,
+   "QuestionID": 176,
+   "IsGood": 1
+ },
+ {
+   "Answer": "PAD используют для связи сетей X.25 и Frame Relay.",
+   "AnswerID": 1229,
+   "QuestionID": 176,
+   "IsGood": 0
+ },
+ {
+   "Answer": "PAD используют для связи сетей X.25 и X.21.",
+   "AnswerID": 1230,
+   "QuestionID": 176,
+   "IsGood": 0
+ },
+ {
+   "Answer": "PAD используют для связи сетей X.25 и ATM.",
+   "AnswerID": 1231,
+   "QuestionID": 176,
+   "IsGood": 0
+ },
+ {
+   "Answer": "В случае специальной настройки протокола LAP-F (значение поля FECN кадра).",
+   "AnswerID": 1237,
+   "QuestionID": 178,
+   "IsGood": 0
+ },
+ {
+   "Answer": "В любом случае это невозможно.",
+   "AnswerID": 1238,
+   "QuestionID": 178,
+   "IsGood": 0
+ },
+ {
+   "Answer": "В случае, если передаваемые кадры имеют наивысший приоритет в сети.",
+   "AnswerID": 1239,
+   "QuestionID": 178,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Frame Relay.",
+   "AnswerID": 1244,
+   "QuestionID": 180,
+   "IsGood": 1
+ },
+ {
+   "Answer": "X.25.",
+   "AnswerID": 1245,
+   "QuestionID": 180,
+   "IsGood": 0
+ },
+ {
+   "Answer": "ISDN.",
+   "AnswerID": 1246,
+   "QuestionID": 180,
+   "IsGood": 0
+ },
+ {
+   "Answer": "ATM.",
+   "AnswerID": 1247,
+   "QuestionID": 180,
+   "IsGood": 0
+ },
+ {
+   "Answer": "комбинация согласованных протоколов.",
+   "AnswerID": 1248,
+   "QuestionID": 184,
+   "IsGood": 1
+ },
+ {
+   "Answer": "список имен протоколов, хранящихся в стековом регистре.",
+   "AnswerID": 1249,
+   "QuestionID": 184,
+   "IsGood": 0
+ },
+ {
+   "Answer": "перечень протоколов транспортного уровня.",
+   "AnswerID": 1250,
+   "QuestionID": 184,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Novell Net Ware",
+   "AnswerID": 1251,
+   "QuestionID": 185,
+   "IsGood": 1
+ },
+ {
+   "Answer": "TCP",
+   "AnswerID": 1253,
+   "QuestionID": 185,
+   "IsGood": 0
+ },
+ {
+   "Answer": "X.500",
+   "AnswerID": 1254,
+   "QuestionID": 185,
+   "IsGood": 0
+ },
+ {
+   "Answer": "HDLC",
+   "AnswerID": 1255,
+   "QuestionID": 185,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Транспортный",
+   "AnswerID": 1257,
+   "QuestionID": 186,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Сетевой",
+   "AnswerID": 1258,
+   "QuestionID": 186,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Уровню межсетевого взаимодействия",
+   "AnswerID": 1259,
+   "QuestionID": 187,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Прикладному уровню",
+   "AnswerID": 1261,
+   "QuestionID": 187,
+   "IsGood": 0
+ },
+ {
+   "Answer": "32",
+   "AnswerID": 1262,
+   "QuestionID": 188,
+   "IsGood": 1
+ },
+ {
+   "Answer": "48",
+   "AnswerID": 1263,
+   "QuestionID": 188,
+   "IsGood": 0
+ },
+ {
+   "Answer": "64",
+   "AnswerID": 1264,
+   "QuestionID": 188,
+   "IsGood": 0
+ },
+ {
+   "Answer": "128",
+   "AnswerID": 1265,
+   "QuestionID": 188,
+   "IsGood": 0
+ },
+ {
+   "Answer": "10101011",
+   "AnswerID": 1267,
+   "QuestionID": 189,
+   "IsGood": 0
+ },
+ {
+   "Answer": "11100111",
+   "AnswerID": 1268,
+   "QuestionID": 189,
+   "IsGood": 0
+ },
+ {
+   "Answer": "HDLC",
+   "AnswerID": 1269,
+   "QuestionID": 190,
+   "IsGood": 1
+ },
+ {
+   "Answer": "LAPM",
+   "AnswerID": 1270,
+   "QuestionID": 190,
+   "IsGood": 0
+ },
+ {
+   "Answer": "xDSL",
+   "AnswerID": 1272,
+   "QuestionID": 190,
+   "IsGood": 0
+ },
+ {
+   "Answer": "передачи IP-пакетов через асинхронные линии связи.",
+   "AnswerID": 1273,
+   "QuestionID": 191,
+   "IsGood": 1
+ },
+ {
+   "Answer": "передачи кадров в режиме простоя.",
+   "AnswerID": 1274,
+   "QuestionID": 191,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Маршрутизатор",
+   "AnswerID": 1276,
+   "QuestionID": 192,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Коммутатор",
+   "AnswerID": 1277,
+   "QuestionID": 192,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Мост",
+   "AnswerID": 1278,
+   "QuestionID": 192,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Время жизни",
+   "AnswerID": 1279,
+   "QuestionID": 193,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Длина",
+   "AnswerID": 1280,
+   "QuestionID": 193,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Смещение фрагмента",
+   "AnswerID": 1281,
+   "QuestionID": 193,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Тип сервиса",
+   "AnswerID": 1282,
+   "QuestionID": 193,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Класса A",
+   "AnswerID": 1283,
+   "QuestionID": 194,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Класса В",
+   "AnswerID": 1284,
+   "QuestionID": 194,
+   "IsGood": 0
+ },
+ {
+   "Answer": "255.255.255.192",
+   "AnswerID": 1289,
+   "QuestionID": 196,
+   "IsGood": 1
+ },
+ {
+   "Answer": "255.255.32.0",
+   "AnswerID": 1290,
+   "QuestionID": 196,
+   "IsGood": 0
+ },
+ {
+   "Answer": "255.255.64.0",
+   "AnswerID": 1291,
+   "QuestionID": 196,
+   "IsGood": 0
+ },
+ {
+   "Answer": "255.255.0.128",
+   "AnswerID": 1292,
+   "QuestionID": 196,
+   "IsGood": 0
+ },
+ {
+   "Answer": "состояния выборочного неприема",
+   "AnswerID": 1304,
+   "QuestionID": 200,
+   "IsGood": 0
+ },
+ {
+   "Answer": "состояния неприема",
+   "AnswerID": 1305,
+   "QuestionID": 200,
+   "IsGood": 0
+ },
+ {
+   "Answer": "IP-заголовок размером 20 байт",
+   "AnswerID": 1306,
+   "QuestionID": 201,
+   "IsGood": 1
+ },
+ {
+   "Answer": "полный IP - пакет",
+   "AnswerID": 1307,
+   "QuestionID": 201,
+   "IsGood": 0
+ },
+ {
+   "Answer": "только IP- адреса взаимодействующих компьютеров",
+   "AnswerID": 1308,
+   "QuestionID": 201,
+   "IsGood": 0
+ },
+ {
+   "Answer": "требование к безусловному исполнению для алгоритмов маршрутизации",
+   "AnswerID": 1316,
+   "QuestionID": 204,
+   "IsGood": 0
+ },
+ {
+   "Answer": "указание прикладным сервисам",
+   "AnswerID": 1317,
+   "QuestionID": 204,
+   "IsGood": 0
+ },
+ {
+   "Answer": "фрагментацией",
+   "AnswerID": 1318,
+   "QuestionID": 205,
+   "IsGood": 1
+ },
+ {
+   "Answer": "декомпозицией",
+   "AnswerID": 1319,
+   "QuestionID": 205,
+   "IsGood": 0
+ },
+ {
+   "Answer": "сегментацией",
+   "AnswerID": 1320,
+   "QuestionID": 205,
+   "IsGood": 0
+ },
+ {
+   "Answer": "только соединение компьютера с сетью",
+   "AnswerID": 1325,
+   "QuestionID": 207,
+   "IsGood": 1
+ },
+ {
+   "Answer": "конкретный хост-компьютер",
+   "AnswerID": 1326,
+   "QuestionID": 207,
+   "IsGood": 0
+ },
+ {
+   "Answer": "конкретный маршрутизатор",
+   "AnswerID": 1327,
+   "QuestionID": 207,
+   "IsGood": 0
+ },
+ {
+   "Answer": "192.35.34.255",
+   "AnswerID": 1338,
+   "QuestionID": 210,
+   "IsGood": 0
+ },
+ {
+   "Answer": "0.0.0.0",
+   "AnswerID": 1339,
+   "QuestionID": 210,
+   "IsGood": 0
+ },
+ {
+   "Answer": "255.255.255.65",
+   "AnswerID": 1340,
+   "QuestionID": 210,
+   "IsGood": 0
+ },
+ {
+   "Answer": "255.255.0.0",
+   "AnswerID": 1341,
+   "QuestionID": 210,
+   "IsGood": 0
+ },
+ {
+   "Answer": "обеспечивает маршрутизаторам, обнаруживающим ошибки, способ сообщения об ошибке первоначальному источнику",
+   "AnswerID": 1342,
+   "QuestionID": 211,
+   "IsGood": 1
+ },
+ {
+   "Answer": "полностью специфицирует действия, которые необходимо предпринять источнику в ответ на все возможные ошибки",
+   "AnswerID": 1343,
+   "QuestionID": 211,
+   "IsGood": 0
+ },
+ {
+   "Answer": "обеспечивает передачу пользовательских дейтаграмм в IP-сетях",
+   "AnswerID": 1344,
+   "QuestionID": 211,
+   "IsGood": 0
+ },
+ {
+   "Answer": "обеспечивает маршрутизацию в межсетевом взаимодействии",
+   "AnswerID": 1345,
+   "QuestionID": 211,
+   "IsGood": 0
+ },
+ {
+   "Answer": "собирает для маршрутизаторов статистическую информацию о состоянии сети",
+   "AnswerID": 1346,
+   "QuestionID": 211,
+   "IsGood": 0
+ },
+ {
+   "Answer": "IP",
+   "AnswerID": 1347,
+   "QuestionID": 212,
+   "IsGood": 1
+ },
+ {
+   "Answer": "TCP",
+   "AnswerID": 1348,
+   "QuestionID": 212,
+   "IsGood": 0
+ },
+ {
+   "Answer": "HDLC",
+   "AnswerID": 1349,
+   "QuestionID": 212,
+   "IsGood": 0
+ },
+ {
+   "Answer": "UDP",
+   "AnswerID": 1350,
+   "QuestionID": 212,
+   "IsGood": 0
+ },
+ {
+   "Answer": "HTTP",
+   "AnswerID": 1351,
+   "QuestionID": 212,
+   "IsGood": 0
+ },
+ {
+   "Answer": "RIP-2",
+   "AnswerID": 1352,
+   "QuestionID": 213,
+   "IsGood": 1
+ },
+ {
+   "Answer": "RIP-1",
+   "AnswerID": 1353,
+   "QuestionID": 213,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Обе версии",
+   "AnswerID": 1354,
+   "QuestionID": 213,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Ни одна из версий",
+   "AnswerID": 1355,
+   "QuestionID": 213,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Когда две и более сетей организуют совместную транспортную службу.",
+   "AnswerID": 1356,
+   "QuestionID": 214,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Когда две сети организуют совместную интерфейсную службу.",
+   "AnswerID": 1357,
+   "QuestionID": 214,
+   "IsGood": 0
+ },
+ {
+   "Answer": "5",
+   "AnswerID": 1371,
+   "QuestionID": 219,
+   "IsGood": 1
+ },
+ {
+   "Answer": "4",
+   "AnswerID": 1372,
+   "QuestionID": 219,
+   "IsGood": 0
+ },
+ {
+   "Answer": "3",
+   "AnswerID": 1373,
+   "QuestionID": 219,
+   "IsGood": 0
+ },
+ {
+   "Answer": "7",
+   "AnswerID": 1374,
+   "QuestionID": 219,
+   "IsGood": 0
+ },
+ {
+   "Answer": "6",
+   "AnswerID": 1375,
+   "QuestionID": 219,
+   "IsGood": 0
+ },
+ {
+   "Answer": "не получит автоматически, т.к. получатель должен быть согласен обработать полученный список IP-адресов",
+   "AnswerID": 1387,
+   "QuestionID": 223,
+   "IsGood": 1
+ },
+ {
+   "Answer": "получит автоматически и никакого согласования не требуется",
+   "AnswerID": 1388,
+   "QuestionID": 223,
+   "IsGood": 0
+ },
+ {
+   "Answer": "требованием сокращения накладных расходов на маршрутизацию",
+   "AnswerID": 1389,
+   "QuestionID": 224,
+   "IsGood": 1
+ },
+ {
+   "Answer": "фиксированным размером заголовка пакета",
+   "AnswerID": 1390,
+   "QuestionID": 224,
+   "IsGood": 0
+ },
+ {
+   "Answer": "наличием опциональных заголовков",
+   "AnswerID": 1391,
+   "QuestionID": 224,
+   "IsGood": 0
+ },
+ {
+   "Answer": "только после первого поврежденного фрагмента",
+   "AnswerID": 1392,
+   "QuestionID": 225,
+   "IsGood": 1
+ },
+ {
+   "Answer": "только после последнего принятого фрагмента",
+   "AnswerID": 1393,
+   "QuestionID": 225,
+   "IsGood": 0
+ },
+ {
+   "Answer": "только после сборки всей дейтаграммы",
+   "AnswerID": 1395,
+   "QuestionID": 225,
+   "IsGood": 0
+ },
+ {
+   "Answer": "периодически и широковещательно рассылает по сети вектор расстояний от себя до всех известных ему сетей",
+   "AnswerID": 1396,
+   "QuestionID": 226,
+   "IsGood": 1
+ },
+ {
+   "Answer": "при изменении конфигурации сети рассылает адресно вектор расстояний от себя до ближайших к нему сетей",
+   "AnswerID": 1397,
+   "QuestionID": 226,
+   "IsGood": 0
+ },
+ {
+   "Answer": "периодически рассылает соседним маршрутизаторам вектор расстояний от себя до этих маршрутизаторов",
+   "AnswerID": 1398,
+   "QuestionID": 226,
+   "IsGood": 0
+ },
+ {
+   "Answer": "для каждой пары смежных вершин графа (маршрутизаторов) указано ребро (связь), их соединяющее, и метрика этого ребра",
+   "AnswerID": 1399,
+   "QuestionID": 227,
+   "IsGood": 1
+ },
+ {
+   "Answer": "для каждой связи указана ее пропускная способность",
+   "AnswerID": 1401,
+   "QuestionID": 227,
+   "IsGood": 0
+ },
+ {
+   "Answer": "TCP",
+   "AnswerID": 1402,
+   "QuestionID": 228,
+   "IsGood": 1
+ },
+ {
+   "Answer": "UDP",
+   "AnswerID": 1403,
+   "QuestionID": 228,
+   "IsGood": 0
+ },
+ {
+   "Answer": "IP",
+   "AnswerID": 1404,
+   "QuestionID": 228,
+   "IsGood": 0
+ },
+ {
+   "Answer": "IPX",
+   "AnswerID": 1405,
+   "QuestionID": 228,
+   "IsGood": 0
+ },
+ {
+   "Answer": "SPX",
+   "AnswerID": 1406,
+   "QuestionID": 228,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Набор рекомендаций по построению системы передачи электронных сообщений.",
+   "AnswerID": 1407,
+   "QuestionID": 229,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Набор рекомендаций по построению сетей с коммутацией сообщений.",
+   "AnswerID": 1408,
+   "QuestionID": 229,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Набор правил согласования протоколов сетевого уровня в IP-сетях.",
+   "AnswerID": 1409,
+   "QuestionID": 229,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Почтовое сообщение и его составляющие.",
+   "AnswerID": 1410,
+   "QuestionID": 230,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Формат пакета.",
+   "AnswerID": 1411,
+   "QuestionID": 230,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Структура кадра.",
+   "AnswerID": 1412,
+   "QuestionID": 230,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Автор/получатель.",
+   "AnswerID": 1413,
+   "QuestionID": 231,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Страна/регион.",
+   "AnswerID": 1414,
+   "QuestionID": 231,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Домен/адресат.",
+   "AnswerID": 1415,
+   "QuestionID": 231,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Невозможна.",
+   "AnswerID": 1416,
+   "QuestionID": 232,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Да",
+   "AnswerID": 1418,
+   "QuestionID": 233,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Нет",
+   "AnswerID": 1419,
+   "QuestionID": 233,
+   "IsGood": 0
+ },
+ {
+   "Answer": "общения между собой почтовых серверов в среде UNIX.",
+   "AnswerID": 1420,
+   "QuestionID": 234,
+   "IsGood": 1
+ },
+ {
+   "Answer": "общения между клиентом и сервером.",
+   "AnswerID": 1421,
+   "QuestionID": 234,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Иерархическая",
+   "AnswerID": 1423,
+   "QuestionID": 235,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Прямая",
+   "AnswerID": 1424,
+   "QuestionID": 235,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Автор/Получатель",
+   "AnswerID": 1425,
+   "QuestionID": 235,
+   "IsGood": 0
+ },
+ {
+   "Answer": "SMTP",
+   "AnswerID": 1426,
+   "QuestionID": 236,
+   "IsGood": 1
+ },
+ {
+   "Answer": "X.400",
+   "AnswerID": 1427,
+   "QuestionID": 236,
+   "IsGood": 0
+ },
+ {
+   "Answer": "cc:Mail",
+   "AnswerID": 1428,
+   "QuestionID": 236,
+   "IsGood": 0
+ },
+ {
+   "Answer": "63",
+   "AnswerID": 1429,
+   "QuestionID": 237,
+   "IsGood": 1
+ },
+ {
+   "Answer": "255",
+   "AnswerID": 1430,
+   "QuestionID": 237,
+   "IsGood": 0
+ },
+ {
+   "Answer": "127",
+   "AnswerID": 1431,
+   "QuestionID": 237,
+   "IsGood": 0
+ },
+ {
+   "Answer": "32",
+   "AnswerID": 1432,
+   "QuestionID": 237,
+   "IsGood": 0
+ },
+ {
+   "Answer": "63",
+   "AnswerID": 1434,
+   "QuestionID": 238,
+   "IsGood": 0
+ },
+ {
+   "Answer": "127",
+   "AnswerID": 1435,
+   "QuestionID": 238,
+   "IsGood": 0
+ },
+ {
+   "Answer": "31",
+   "AnswerID": 1436,
+   "QuestionID": 238,
+   "IsGood": 0
+ },
+ {
+   "Answer": "X.400",
+   "AnswerID": 1438,
+   "QuestionID": 239,
+   "IsGood": 0
+ },
+ {
+   "Answer": "SMTP",
+   "AnswerID": 1439,
+   "QuestionID": 239,
+   "IsGood": 0
+ },
+ {
+   "Answer": "MS Mail",
+   "AnswerID": 1440,
+   "QuestionID": 239,
+   "IsGood": 0
+ },
+ {
+   "Answer": "MS Mail",
+   "AnswerID": 1441,
+   "QuestionID": 240,
+   "IsGood": 1
+ },
+ {
+   "Answer": "X.400",
+   "AnswerID": 1443,
+   "QuestionID": 240,
+   "IsGood": 0
+ },
+ {
+   "Answer": "SMTP",
+   "AnswerID": 1444,
+   "QuestionID": 240,
+   "IsGood": 0
+ },
+ {
+   "Answer": "минимального набора исходных данных.",
+   "AnswerID": 1445,
+   "QuestionID": 241,
+   "IsGood": 1
+ },
+ {
+   "Answer": "полного задания поискового предписания.",
+   "AnswerID": 1446,
+   "QuestionID": 241,
+   "IsGood": 0
+ },
+ {
+   "Answer": "электронных досок объявлений пользователей системы UNIX.",
+   "AnswerID": 1451,
+   "QuestionID": 243,
+   "IsGood": 1
+ },
+ {
+   "Answer": "BBS в системе Lotus cc:Mail.",
+   "AnswerID": 1452,
+   "QuestionID": 243,
+   "IsGood": 0
+ },
+ {
+   "Answer": "электронных конференций пользователей в Internet.",
+   "AnswerID": 1453,
+   "QuestionID": 243,
+   "IsGood": 0
+ },
+ {
+   "Answer": "OSI/ISO",
+   "AnswerID": 1454,
+   "QuestionID": 244,
+   "IsGood": 1
+ },
+ {
+   "Answer": "TCP/IP",
+   "AnswerID": 1455,
+   "QuestionID": 244,
+   "IsGood": 0
+ },
+ {
+   "Answer": "NetWare",
+   "AnswerID": 1456,
+   "QuestionID": 244,
+   "IsGood": 0
+ },
+ {
+   "Answer": "объединение систем управления сообщениями (MHS - Messaging Handling Systems)",
+   "AnswerID": 1457,
+   "QuestionID": 245,
+   "IsGood": 1
+ },
+ {
+   "Answer": "объединение почтовых служб и систем передачи сообщениями",
+   "AnswerID": 1459,
+   "QuestionID": 245,
+   "IsGood": 0
+ },
+ {
+   "Answer": "пользовательский агент (UA - User Agent)",
+   "AnswerID": 1460,
+   "QuestionID": 246,
+   "IsGood": 1
+ },
+ {
+   "Answer": "хранилище сообщений (MS - Message Store)",
+   "AnswerID": 1461,
+   "QuestionID": 246,
+   "IsGood": 0
+ },
+ {
+   "Answer": "точка доступа к сервису (SAP - Service Access Point)",
+   "AnswerID": 1462,
+   "QuestionID": 246,
+   "IsGood": 0
+ },
+ {
+   "Answer": "хранилище сообщений (MS - Message Store)",
+   "AnswerID": 1463,
+   "QuestionID": 247,
+   "IsGood": 1
+ },
+ {
+   "Answer": "система передачи сообщений (MTS - Message Transfer System)",
+   "AnswerID": 1464,
+   "QuestionID": 247,
+   "IsGood": 0
+ },
+ {
+   "Answer": "точка доступа к сервису (SAP - Service Access Point)",
+   "AnswerID": 1465,
+   "QuestionID": 247,
+   "IsGood": 0
+ },
+ {
+   "Answer": "P1",
+   "AnswerID": 1469,
+   "QuestionID": 249,
+   "IsGood": 1
+ },
+ {
+   "Answer": "P2",
+   "AnswerID": 1470,
+   "QuestionID": 249,
+   "IsGood": 0
+ },
+ {
+   "Answer": "P22",
+   "AnswerID": 1471,
+   "QuestionID": 249,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Р1 и Р2",
+   "AnswerID": 1473,
+   "QuestionID": 250,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Только Р2",
+   "AnswerID": 1474,
+   "QuestionID": 250,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Только Р22",
+   "AnswerID": 1475,
+   "QuestionID": 250,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Только Р1",
+   "AnswerID": 1476,
+   "QuestionID": 250,
+   "IsGood": 0
+ },
+ {
+   "Answer": "набор чисел.",
+   "AnswerID": 1478,
+   "QuestionID": 251,
+   "IsGood": 0
+ },
+ {
+   "Answer": "набор символов.",
+   "AnswerID": 1479,
+   "QuestionID": 251,
+   "IsGood": 0
+ },
+ {
+   "Answer": "SMTP - системах",
+   "AnswerID": 1480,
+   "QuestionID": 252,
+   "IsGood": 1
+ },
+ {
+   "Answer": "системах на базе Х.400",
+   "AnswerID": 1481,
+   "QuestionID": 252,
+   "IsGood": 0
+ },
+ {
+   "Answer": "системах на базе Lotus cc:Mail",
+   "AnswerID": 1482,
+   "QuestionID": 252,
+   "IsGood": 0
+ },
+ {
+   "Answer": "ISO",
+   "AnswerID": 1484,
+   "QuestionID": 253,
+   "IsGood": 0
+ },
+ {
+   "Answer": "IEEE",
+   "AnswerID": 1485,
+   "QuestionID": 253,
+   "IsGood": 0
+ },
+ {
+   "Answer": "ITU-T",
+   "AnswerID": 1486,
+   "QuestionID": 253,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Smart host",
+   "AnswerID": 1488,
+   "QuestionID": 254,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Post office",
+   "AnswerID": 1489,
+   "QuestionID": 254,
+   "IsGood": 0
+ },
+ {
+   "Answer": "как псевдоним, так и реальное имя",
+   "AnswerID": 1490,
+   "QuestionID": 255,
+   "IsGood": 1
+ },
+ {
+   "Answer": "только реальное имя до 256 символов",
+   "AnswerID": 1491,
+   "QuestionID": 255,
+   "IsGood": 0
+ },
+ {
+   "Answer": "только регистрационное имя компьютера",
+   "AnswerID": 1492,
+   "QuestionID": 255,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Динамическую",
+   "AnswerID": 1494,
+   "QuestionID": 256,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Адаптивную",
+   "AnswerID": 1495,
+   "QuestionID": 256,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Статистическую",
+   "AnswerID": 1496,
+   "QuestionID": 256,
+   "IsGood": 0
+ },
+ {
+   "Answer": "NNTP",
+   "AnswerID": 1497,
+   "QuestionID": 257,
+   "IsGood": 1
+ },
+ {
+   "Answer": "SMTP",
+   "AnswerID": 1499,
+   "QuestionID": 257,
+   "IsGood": 0
+ },
+ {
+   "Answer": "SNMP",
+   "AnswerID": 1500,
+   "QuestionID": 257,
+   "IsGood": 0
+ },
+ {
+   "Answer": "HTTP",
+   "AnswerID": 1501,
+   "QuestionID": 257,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Личная папка",
+   "AnswerID": 1503,
+   "QuestionID": 258,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Адресная книга",
+   "AnswerID": 1504,
+   "QuestionID": 258,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Агент передачи сообщений (MTA - Message Transfer Agent)",
+   "AnswerID": 1505,
+   "QuestionID": 259,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Система передачи сообщений (MTS - Message Transfer System)",
+   "AnswerID": 1506,
+   "QuestionID": 259,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Система передачи сообщений (MTS- Message Transfer System)",
+   "AnswerID": 1508,
+   "QuestionID": 260,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Пользовательский агент (UA - User Agent)",
+   "AnswerID": 1509,
+   "QuestionID": 260,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Хранилище сообщений (MS - Message Store)",
+   "AnswerID": 1510,
+   "QuestionID": 260,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Интерперсональную нотификацию.",
+   "AnswerID": 1511,
+   "QuestionID": 261,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Положительную квитанцию.",
+   "AnswerID": 1512,
+   "QuestionID": 261,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Интерперсональное сообщение.",
+   "AnswerID": 1513,
+   "QuestionID": 261,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Пользовательский агент доступа к каталогу (DUA - Directory User Agent)",
+   "AnswerID": 1514,
+   "QuestionID": 262,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Пользовательский агент (UA - User Agent)",
+   "AnswerID": 1515,
+   "QuestionID": 262,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Устройство доступа (AU - Access Unit)",
+   "AnswerID": 1516,
+   "QuestionID": 262,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Системный агент доступа к каталогу (DSA - Directory System Agent)",
+   "AnswerID": 1517,
+   "QuestionID": 263,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Устройство доступа (AU - Access Unit)",
+   "AnswerID": 1518,
+   "QuestionID": 263,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Агент передачи сообщений (MTA - Message Transfer Agent)",
+   "AnswerID": 1519,
+   "QuestionID": 263,
+   "IsGood": 0
+ },
+ {
+   "Answer": "либо прямой слэш, либо двоеточие",
+   "AnswerID": 1520,
+   "QuestionID": 264,
+   "IsGood": 1
+ },
+ {
+   "Answer": "либо обратный слэш, либо двоеточие",
+   "AnswerID": 1521,
+   "QuestionID": 264,
+   "IsGood": 0
+ },
+ {
+   "Answer": "только двоеточие",
+   "AnswerID": 1522,
+   "QuestionID": 264,
+   "IsGood": 0
+ },
+ {
+   "Answer": "только прямой слэш",
+   "AnswerID": 1523,
+   "QuestionID": 264,
+   "IsGood": 0
+ },
+ {
+   "Answer": "только обратный слэш",
+   "AnswerID": 1524,
+   "QuestionID": 264,
+   "IsGood": 0
+ },
+ {
+   "Answer": "<СТРАНА><РЕГИОН>#<ПОЛУЧАТЕЛЬ>",
+   "AnswerID": 1526,
+   "QuestionID": 265,
+   "IsGood": 0
+ },
+ {
+   "Answer": "ИДЕНТИФИКАТОР/ЗНАЧЕНИЕ",
+   "AnswerID": 1527,
+   "QuestionID": 265,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Файлового",
+   "AnswerID": 1528,
+   "QuestionID": 266,
+   "IsGood": 1
+ },
+ {
+   "Answer": "На уровне записи",
+   "AnswerID": 1529,
+   "QuestionID": 266,
+   "IsGood": 0
+ },
+ {
+   "Answer": "На уровне каталога",
+   "AnswerID": 1530,
+   "QuestionID": 266,
+   "IsGood": 0
+ },
+ {
+   "Answer": "клиент-сервер",
+   "AnswerID": 1531,
+   "QuestionID": 267,
+   "IsGood": 1
+ },
+ {
+   "Answer": "PO-server",
+   "AnswerID": 1533,
+   "QuestionID": 267,
+   "IsGood": 0
+ },
+ {
+   "Answer": "IMAP4",
+   "AnswerID": 1534,
+   "QuestionID": 268,
+   "IsGood": 1
+ },
+ {
+   "Answer": "MIME",
+   "AnswerID": 1535,
+   "QuestionID": 268,
+   "IsGood": 0
+ },
+ {
+   "Answer": "POP3",
+   "AnswerID": 1536,
+   "QuestionID": 268,
+   "IsGood": 0
+ },
+ {
+   "Answer": "клиентская программа (mail reader)",
+   "AnswerID": 1538,
+   "QuestionID": 269,
+   "IsGood": 1
+ },
+ {
+   "Answer": "серверная программа (mail exchange)",
+   "AnswerID": 1539,
+   "QuestionID": 269,
+   "IsGood": 0
+ },
+ {
+   "Answer": "операционная система (OS)",
+   "AnswerID": 1540,
+   "QuestionID": 269,
+   "IsGood": 0
+ },
+ {
+   "Answer": "от одного до пяти",
+   "AnswerID": 1542,
+   "QuestionID": 270,
+   "IsGood": 0
+ },
+ {
+   "Answer": "от пяти до десяти",
+   "AnswerID": 1543,
+   "QuestionID": 270,
+   "IsGood": 0
+ },
+ {
+   "Answer": "smart host - компьютер",
+   "AnswerID": 1544,
+   "QuestionID": 271,
+   "IsGood": 1
+ },
+ {
+   "Answer": "mail exchanger - компьютер",
+   "AnswerID": 1545,
+   "QuestionID": 271,
+   "IsGood": 0
+ },
+ {
+   "Answer": "relay - компьютер",
+   "AnswerID": 1546,
+   "QuestionID": 271,
+   "IsGood": 0
+ },
+ {
+   "Answer": "X.400",
+   "AnswerID": 1548,
+   "QuestionID": 272,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Bat",
+   "AnswerID": 1549,
+   "QuestionID": 272,
+   "IsGood": 0
+ },
+ {
+   "Answer": "IE",
+   "AnswerID": 1550,
+   "QuestionID": 272,
+   "IsGood": 0
+ },
+ {
+   "Answer": "На основании IP- адресов",
+   "AnswerID": 1551,
+   "QuestionID": 273,
+   "IsGood": 1
+ },
+ {
+   "Answer": "На основании таблиц маршрутизации",
+   "AnswerID": 1553,
+   "QuestionID": 273,
+   "IsGood": 0
+ },
+ {
+   "Answer": "алгоритм <скользящего окна>",
+   "AnswerID": 1554,
+   "QuestionID": 199,
+   "IsGood": 1
+ },
+ {
+   "Answer": "алгоритм Хаффмена",
+   "AnswerID": 1555,
+   "QuestionID": 199,
+   "IsGood": 0
+ },
+ {
+   "Answer": "рекомендация V.42",
+   "AnswerID": 1556,
+   "QuestionID": 199,
+   "IsGood": 0
+ },
+ {
+   "Answer": "метод передачи дейтаграмм через последовательные каналы связи с непосредственным соединением",
+   "AnswerID": 1557,
+   "QuestionID": 202,
+   "IsGood": 1
+ },
+ {
+   "Answer": "метод передачи кадров Ethernet между рабочими станциями в режиме <точка-точка>",
+   "AnswerID": 1558,
+   "QuestionID": 202,
+   "IsGood": 0
+ },
+ {
+   "Answer": "процедуру установления соединения по коммутируемым телефонным линиям",
+   "AnswerID": 1559,
+   "QuestionID": 202,
+   "IsGood": 0
+ },
+ {
+   "Answer": "сколько секунд дейтаграмма находится в межсетевой системе",
+   "AnswerID": 1560,
+   "QuestionID": 206,
+   "IsGood": 0
+ },
+ {
+   "Answer": "сколько промежуточных маршрутизаторов осталось пройти дейтаграмме",
+   "AnswerID": 1562,
+   "QuestionID": 206,
+   "IsGood": 0
+ },
+ {
+   "Answer": "количество пройденных маршрутизаторов",
+   "AnswerID": 1563,
+   "QuestionID": 206,
+   "IsGood": 0
+ },
+ {
+   "Answer": "192.35.156.255",
+   "AnswerID": 1564,
+   "QuestionID": 209,
+   "IsGood": 1
+ },
+ {
+   "Answer": "255.255.255.255",
+   "AnswerID": 1565,
+   "QuestionID": 209,
+   "IsGood": 0
+ },
+ {
+   "Answer": "0.0.0.0",
+   "AnswerID": 1566,
+   "QuestionID": 209,
+   "IsGood": 0
+ },
+ {
+   "Answer": "215.255.255.128",
+   "AnswerID": 1567,
+   "QuestionID": 209,
+   "IsGood": 0
+ },
+ {
+   "Answer": "154.45.128.255",
+   "AnswerID": 1568,
+   "QuestionID": 209,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Все узлы в данной (локальной) IP-сети",
+   "AnswerID": 1569,
+   "QuestionID": 208,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Все узлы",
+   "AnswerID": 1570,
+   "QuestionID": 208,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Данный узел",
+   "AnswerID": 1571,
+   "QuestionID": 208,
+   "IsGood": 0
+ },
+ {
+   "Answer": "<Петля>",
+   "AnswerID": 1572,
+   "QuestionID": 208,
+   "IsGood": 0
+ },
+ {
+   "Answer": "<точка-точка>",
+   "AnswerID": 1573,
+   "QuestionID": 217,
+   "IsGood": 1
+ },
+ {
+   "Answer": "<точка-многоточка>",
+   "AnswerID": 1574,
+   "QuestionID": 217,
+   "IsGood": 0
+ },
+ {
+   "Answer": "для обеспечения работы <легких> пользовательских агентов с каталогами, использующими архитектуру Х.500",
+   "AnswerID": 1584,
+   "QuestionID": 242,
+   "IsGood": 1
+ },
+ {
+   "Answer": "для удаленного доступа к серверам в LAN",
+   "AnswerID": 1585,
+   "QuestionID": 242,
+   "IsGood": 0
+ },
+ {
+   "Answer": "для обеспечения работы клиентов в системах <клиент-сервер>.",
+   "AnswerID": 1586,
+   "QuestionID": 242,
+   "IsGood": 0
+ },
+ {
+   "Answer": "RIP",
+   "AnswerID": 1587,
+   "QuestionID": 197,
+   "IsGood": 1
+ },
+ {
+   "Answer": "OSPF",
+   "AnswerID": 1588,
+   "QuestionID": 197,
+   "IsGood": 0
+ },
+ {
+   "Answer": "TFTP",
+   "AnswerID": 1590,
+   "QuestionID": 197,
+   "IsGood": 0
+ },
+ {
+   "Answer": "модем",
+   "AnswerID": 1591,
+   "QuestionID": 274,
+   "IsGood": 1
+ },
+ {
+   "Answer": "сетевой адаптер",
+   "AnswerID": 1592,
+   "QuestionID": 274,
+   "IsGood": 0
+ },
+ {
+   "Answer": "маршрутизатор",
+   "AnswerID": 1594,
+   "QuestionID": 274,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Через S- интерфейс",
+   "AnswerID": 1599,
+   "QuestionID": 276,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Через терминальный адаптер - ТА",
+   "AnswerID": 1600,
+   "QuestionID": 276,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Через U- интерфейс",
+   "AnswerID": 1601,
+   "QuestionID": 276,
+   "IsGood": 0
+ },
+ {
+   "Answer": "через терминальный адаптер - ТА",
+   "AnswerID": 1603,
+   "QuestionID": 275,
+   "IsGood": 1
+ },
+ {
+   "Answer": "через цифровую линию",
+   "AnswerID": 1604,
+   "QuestionID": 275,
+   "IsGood": 0
+ },
+ {
+   "Answer": "через устройство завершения работы сети - NT2",
+   "AnswerID": 1605,
+   "QuestionID": 275,
+   "IsGood": 0
+ },
+ {
+   "Answer": "через U- интерфейс",
+   "AnswerID": 1606,
+   "QuestionID": 275,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Отбрасывает",
+   "AnswerID": 1607,
+   "QuestionID": 277,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Уведомляет об искажении вышестоящий уровень",
+   "AnswerID": 1608,
+   "QuestionID": 277,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Передает повторно",
+   "AnswerID": 1609,
+   "QuestionID": 277,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Согласованная информационная скорость",
+   "AnswerID": 1610,
+   "QuestionID": 278,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Согласованный объем пульсации трафика",
+   "AnswerID": 1611,
+   "QuestionID": 278,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Контрольный интервал времени работы абонента",
+   "AnswerID": 1612,
+   "QuestionID": 278,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Согласованная информационная скорость и дополнительный объем пульсации трафика",
+   "AnswerID": 1614,
+   "QuestionID": 279,
+   "IsGood": 0
+ },
+ {
+   "Answer": "пропускную способность канала доступа к сети Frame Relay",
+   "AnswerID": 1616,
+   "QuestionID": 280,
+   "IsGood": 0
+ },
+ {
+   "Answer": "заказанные параметры",
+   "AnswerID": 1617,
+   "QuestionID": 280,
+   "IsGood": 1
+ },
+ {
+   "Answer": "заказанные параметры и пропускную способность канала доступа к сети Frame Relay",
+   "AnswerID": 1618,
+   "QuestionID": 280,
+   "IsGood": 0
+ },
+ {
+   "Answer": "пользовательским ПО",
+   "AnswerID": 1623,
+   "QuestionID": 282,
+   "IsGood": 1
+ },
+ {
+   "Answer": "ОС локальной сети",
+   "AnswerID": 1624,
+   "QuestionID": 282,
+   "IsGood": 0
+ },
+ {
+   "Answer": "протоколами сетевого уровня глобальных сетей",
+   "AnswerID": 1625,
+   "QuestionID": 282,
+   "IsGood": 0
+ },
+ {
+   "Answer": "произвольную топологию связей",
+   "AnswerID": 1626,
+   "QuestionID": 283,
+   "IsGood": 1
+ },
+ {
+   "Answer": "только древовидную структуру",
+   "AnswerID": 1627,
+   "QuestionID": 283,
+   "IsGood": 0
+ },
+ {
+   "Answer": "топологию <общая шина>",
+   "AnswerID": 1628,
+   "QuestionID": 283,
+   "IsGood": 0
+ },
+ {
+   "Answer": "топологию сети Ethernet",
+   "AnswerID": 1629,
+   "QuestionID": 283,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Только АТМ-адрес",
+   "AnswerID": 1630,
+   "QuestionID": 284,
+   "IsGood": 1
+ },
+ {
+   "Answer": "АТМ и МАС - адреса",
+   "AnswerID": 1631,
+   "QuestionID": 284,
+   "IsGood": 0
+ },
+ {
+   "Answer": "АТМ и IP - адреса",
+   "AnswerID": 1632,
+   "QuestionID": 284,
+   "IsGood": 0
+ },
+ {
+   "Answer": "о МАС-адресах всех узлов каждой из присоединяемых локальных сетей",
+   "AnswerID": 1633,
+   "QuestionID": 285,
+   "IsGood": 1
+ },
+ {
+   "Answer": "о МАС-адресах портов, к которым подключены LAN",
+   "AnswerID": 1634,
+   "QuestionID": 285,
+   "IsGood": 0
+ },
+ {
+   "Answer": "о IP-адресах портов маршрутизаторов, подключенных к конвертору",
+   "AnswerID": 1635,
+   "QuestionID": 285,
+   "IsGood": 0
+ },
+ {
+   "Answer": "содержимое АRP-таблиц",
+   "AnswerID": 1636,
+   "QuestionID": 285,
+   "IsGood": 0
+ },
+ {
+   "Answer": "коммутатор, маршрутизатор, рабочая станция АТМ",
+   "AnswerID": 1637,
+   "QuestionID": 286,
+   "IsGood": 1
+ },
+ {
+   "Answer": "только коммутатор ATM-LAN",
+   "AnswerID": 1639,
+   "QuestionID": 286,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Для ограничения непроизводительной загрузки сети",
+   "AnswerID": 1640,
+   "QuestionID": 287,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Из-за ограниченного размера ячейки",
+   "AnswerID": 1641,
+   "QuestionID": 287,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Для ограничения пропускной способности сети",
+   "AnswerID": 1642,
+   "QuestionID": 287,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Сервер эмуляции BUS (Broadcast and Unknown Server)",
+   "AnswerID": 1643,
+   "QuestionID": 288,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Сервер маршрутизации RUS (Routing and Unknown Server)",
+   "AnswerID": 1644,
+   "QuestionID": 288,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Сервер эмуляции локальной сети LES (LAN Emulation Server)",
+   "AnswerID": 1645,
+   "QuestionID": 288,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Пользователь системы управления сообщениями, либо другой список рассылки",
+   "AnswerID": 1646,
+   "QuestionID": 248,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Только пользователь системы управления сообщениями",
+   "AnswerID": 1647,
+   "QuestionID": 248,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Только хранилище сообщений",
+   "AnswerID": 1648,
+   "QuestionID": 248,
+   "IsGood": 0
+ },
+ {
+   "Answer": "требует, чтобы прежде, чем начать передачу, вторичная станция получила явное разрешение от первичной.",
+   "AnswerID": 1658,
+   "QuestionID": 289,
+   "IsGood": 1
+ },
+ {
+   "Answer": "устанавливает равноправное взаимодействие первичной и вторичной станций.",
+   "AnswerID": 1660,
+   "QuestionID": 289,
+   "IsGood": 0
+ },
+ {
+   "Answer": "I - кадров",
+   "AnswerID": 1667,
+   "QuestionID": 292,
+   "IsGood": 1
+ },
+ {
+   "Answer": "S - кадров",
+   "AnswerID": 1668,
+   "QuestionID": 292,
+   "IsGood": 0
+ },
+ {
+   "Answer": "U - кадров",
+   "AnswerID": 1669,
+   "QuestionID": 292,
+   "IsGood": 0
+ },
+ {
+   "Answer": "I - кадры",
+   "AnswerID": 1670,
+   "QuestionID": 293,
+   "IsGood": 1
+ },
+ {
+   "Answer": "S - кадры",
+   "AnswerID": 1671,
+   "QuestionID": 293,
+   "IsGood": 0
+ },
+ {
+   "Answer": "U - кадры",
+   "AnswerID": 1672,
+   "QuestionID": 293,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Нет",
+   "AnswerID": 1673,
+   "QuestionID": 294,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Да",
+   "AnswerID": 1674,
+   "QuestionID": 294,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Да, но только со стороны провайдера.",
+   "AnswerID": 1675,
+   "QuestionID": 294,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Тип используемого протокола сетевого уровня определяется на фазе согласования параметров при помощи одного из протоколов семейства NCP (Network Control Protocols).",
+   "AnswerID": 1676,
+   "QuestionID": 295,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Только пакеты протокола IP.",
+   "AnswerID": 1677,
+   "QuestionID": 295,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Только пакеты IPX/SPX.",
+   "AnswerID": 1678,
+   "QuestionID": 295,
+   "IsGood": 0
+ },
+ {
+   "Answer": "<Общая длина> и <Смещение фрагмента>",
+   "AnswerID": 1679,
+   "QuestionID": 296,
+   "IsGood": 1
+ },
+ {
+   "Answer": "<Общая длина> и <Длина>",
+   "AnswerID": 1680,
+   "QuestionID": 296,
+   "IsGood": 0
+ },
+ {
+   "Answer": "<Смещение фрагмента> и <Идентификация>",
+   "AnswerID": 1681,
+   "QuestionID": 296,
+   "IsGood": 0
+ },
+ {
+   "Answer": "до принимающей машины, где они собираются.",
+   "AnswerID": 1682,
+   "QuestionID": 297,
+   "IsGood": 1
+ },
+ {
+   "Answer": "до маршрутизатора сети получателя, где они собираются",
+   "AnswerID": 1684,
+   "QuestionID": 297,
+   "IsGood": 0
+ },
+ {
+   "Answer": "ICMP",
+   "AnswerID": 1685,
+   "QuestionID": 298,
+   "IsGood": 1
+ },
+ {
+   "Answer": "IP",
+   "AnswerID": 1686,
+   "QuestionID": 298,
+   "IsGood": 0
+ },
+ {
+   "Answer": "SNMP",
+   "AnswerID": 1687,
+   "QuestionID": 298,
+   "IsGood": 0
+ },
+ {
+   "Answer": "SMTP",
+   "AnswerID": 1688,
+   "QuestionID": 298,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Подавление источника",
+   "AnswerID": 1689,
+   "QuestionID": 299,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Необходима фрагментация",
+   "AnswerID": 1690,
+   "QuestionID": 299,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Компьютер недостижим",
+   "AnswerID": 1691,
+   "QuestionID": 299,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Перенаправление маршрута",
+   "AnswerID": 1692,
+   "QuestionID": 299,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Количество <хопов>.",
+   "AnswerID": 1693,
+   "QuestionID": 300,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Оценку качества связи.",
+   "AnswerID": 1694,
+   "QuestionID": 300,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Оценку времени передачи дейтаграммы.",
+   "AnswerID": 1695,
+   "QuestionID": 300,
+   "IsGood": 0
+ },
+ {
+   "Answer": "100 Мбит/с",
+   "AnswerID": 1696,
+   "QuestionID": 301,
+   "IsGood": 1
+ },
+ {
+   "Answer": "10 Мбит/с",
+   "AnswerID": 1697,
+   "QuestionID": 301,
+   "IsGood": 0
+ },
+ {
+   "Answer": "100 Кбит/с",
+   "AnswerID": 1698,
+   "QuestionID": 301,
+   "IsGood": 0
+ },
+ {
+   "Answer": "1024 Кбит/с",
+   "AnswerID": 1699,
+   "QuestionID": 301,
+   "IsGood": 0
+ },
+ {
+   "Answer": "10",
+   "AnswerID": 1701,
+   "QuestionID": 302,
+   "IsGood": 0
+ },
+ {
+   "Answer": "100",
+   "AnswerID": 1702,
+   "QuestionID": 302,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Номер порта прикладного сервиса.",
+   "AnswerID": 1704,
+   "QuestionID": 303,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Номер сокета",
+   "AnswerID": 1705,
+   "QuestionID": 303,
+   "IsGood": 0
+ },
+ {
+   "Answer": "IP- адрес компьютера-получателя",
+   "AnswerID": 1706,
+   "QuestionID": 303,
+   "IsGood": 0
+ },
+ {
+   "Answer": "UDP",
+   "AnswerID": 1708,
+   "QuestionID": 198,
+   "IsGood": 0
+ },
+ {
+   "Answer": "TCP или UDP",
+   "AnswerID": 1709,
+   "QuestionID": 198,
+   "IsGood": 0
+ },
+ {
+   "Answer": "позволяет вторичной станции начинать передачу без получения на то явного разрешения со стороны первичной.",
+   "AnswerID": 1710,
+   "QuestionID": 290,
+   "IsGood": 1
+ },
+ {
+   "Answer": "требует, чтобы первичная станция асинхронно посылала разрешение на передачу в адрес вторичных станций.",
+   "AnswerID": 1712,
+   "QuestionID": 290,
+   "IsGood": 0
+ },
+ {
+   "Answer": "интерфейс",
+   "AnswerID": 1716,
+   "QuestionID": 195,
+   "IsGood": 1
+ },
+ {
+   "Answer": "компьютер",
+   "AnswerID": 1717,
+   "QuestionID": 195,
+   "IsGood": 0
+ },
+ {
+   "Answer": "рабочую станцию",
+   "AnswerID": 1718,
+   "QuestionID": 195,
+   "IsGood": 0
+ },
+ {
+   "Answer": "наличие схем, которые могут работать только в асинхронном последовательном побитовом режиме",
+   "AnswerID": 1719,
+   "QuestionID": 203,
+   "IsGood": 0
+ },
+ {
+   "Answer": "наличие схем, которые могут работать только в синхронном последовательном побитовом режиме",
+   "AnswerID": 1720,
+   "QuestionID": 203,
+   "IsGood": 0
+ },
+ {
+   "Answer": "наличие дублированных схем, которые могут работать как в синхронном, так и в асинхронном последовательном побитовом режиме",
+   "AnswerID": 1721,
+   "QuestionID": 203,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Между комбинированными станциями.",
+   "AnswerID": 1722,
+   "QuestionID": 215,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Между одной первичнной и одной вторичной станциями.",
+   "AnswerID": 1723,
+   "QuestionID": 215,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Между одной первичной и большого числа вторичных станций в полнодуплекной конфигурации.",
+   "AnswerID": 1724,
+   "QuestionID": 215,
+   "IsGood": 0
+ },
+ {
+   "Answer": "вторичной станции разрешается вести передачу без опроса со стороны первичной",
+   "AnswerID": 1726,
+   "QuestionID": 216,
+   "IsGood": 0
+ },
+ {
+   "Answer": "вторичные станции равноправны с первичными",
+   "AnswerID": 1727,
+   "QuestionID": 216,
+   "IsGood": 0
+ },
+ {
+   "Answer": "не предусмотрены",
+   "AnswerID": 1728,
+   "QuestionID": 218,
+   "IsGood": 1
+ },
+ {
+   "Answer": "реализуются при помощи циклического кодирования",
+   "AnswerID": 1729,
+   "QuestionID": 218,
+   "IsGood": 0
+ },
+ {
+   "Answer": "реализуются только процедуры обнаружения ошибок",
+   "AnswerID": 1730,
+   "QuestionID": 218,
+   "IsGood": 0
+ },
+ {
+   "Answer": "12",
+   "AnswerID": 1732,
+   "QuestionID": 220,
+   "IsGood": 0
+ },
+ {
+   "Answer": "10",
+   "AnswerID": 1733,
+   "QuestionID": 220,
+   "IsGood": 0
+ },
+ {
+   "Answer": "8",
+   "AnswerID": 1734,
+   "QuestionID": 220,
+   "IsGood": 0
+ },
+ {
+   "Answer": "увеличивается",
+   "AnswerID": 1736,
+   "QuestionID": 221,
+   "IsGood": 1
+ },
+ {
+   "Answer": "уменьшается",
+   "AnswerID": 1737,
+   "QuestionID": 221,
+   "IsGood": 0
+ },
+ {
+   "Answer": "сохраняется на том же уровне",
+   "AnswerID": 1738,
+   "QuestionID": 221,
+   "IsGood": 0
+ },
+ {
+   "Answer": "IP-адрес получателя заменяется на IP-адрес следующего маршрутизатора",
+   "AnswerID": 1740,
+   "QuestionID": 222,
+   "IsGood": 0
+ },
+ {
+   "Answer": "изменяются на IP-адреса промежуточных маршрутизаторов по маршруту следования дейтаграммы, а исходные IP-адреса сохраняются в таблицах маршрутизации",
+   "AnswerID": 1741,
+   "QuestionID": 222,
+   "IsGood": 0
+ },
+ {
+   "Answer": "обеспечивает двусторонний обмен потоками данных между комбинированными станциями.",
+   "AnswerID": 1742,
+   "QuestionID": 291,
+   "IsGood": 1
+ },
+ {
+   "Answer": "обеспечивает двусторонний обмен потоками данных между вторичными станциями.",
+   "AnswerID": 1743,
+   "QuestionID": 291,
+   "IsGood": 0
+ },
+ {
+   "Answer": "устанавливает сбалансированный режим между первичной станцией и вторичной станцией, работающей в асинхронном режиме.",
+   "AnswerID": 1744,
+   "QuestionID": 291,
+   "IsGood": 0
+ },
+ {
+   "Answer": "упаковывает необработанные биты от физического уровня в кадры данных",
+   "AnswerID": 1749,
+   "QuestionID": 9,
+   "IsGood": 0
+ },
+ {
+   "Answer": "отвечает за преобразование формата данных",
+   "AnswerID": 1750,
+   "QuestionID": 9,
+   "IsGood": 0
+ },
+ {
+   "Answer": "На прикладном",
+   "AnswerID": 1751,
+   "QuestionID": 22,
+   "IsGood": 1
+ },
+ {
+   "Answer": "На представительном",
+   "AnswerID": 1752,
+   "QuestionID": 22,
+   "IsGood": 0
+ },
+ {
+   "Answer": "На канальном",
+   "AnswerID": 1753,
+   "QuestionID": 22,
+   "IsGood": 0
+ },
+ {
+   "Answer": "объекту этого же уровня",
+   "AnswerID": 1754,
+   "QuestionID": 25,
+   "IsGood": 0
+ },
+ {
+   "Answer": "смежному нижележащему уровню",
+   "AnswerID": 1755,
+   "QuestionID": 25,
+   "IsGood": 0
+ },
+ {
+   "Answer": "смежному вышележащему уровню",
+   "AnswerID": 1756,
+   "QuestionID": 25,
+   "IsGood": 1
+ },
+ {
+   "Answer": "пакетом",
+   "AnswerID": 1757,
+   "QuestionID": 32,
+   "IsGood": 0
+ },
+ {
+   "Answer": "сообщением",
+   "AnswerID": 1758,
+   "QuestionID": 32,
+   "IsGood": 1
+ },
+ {
+   "Answer": "кадром",
+   "AnswerID": 1759,
+   "QuestionID": 32,
+   "IsGood": 0
+ },
+ {
+   "Answer": "механизм тайм-аута",
+   "AnswerID": 1772,
+   "QuestionID": 41,
+   "IsGood": 0
+ },
+ {
+   "Answer": "циклическая нумерация",
+   "AnswerID": 1773,
+   "QuestionID": 41,
+   "IsGood": 1
+ },
+ {
+   "Answer": "контроль доставки сообщений по контрольной сумме",
+   "AnswerID": 1774,
+   "QuestionID": 41,
+   "IsGood": 0
+ },
+ {
+   "Answer": "между любыми двумя узлами сети той технологии, для которой он был разработан",
+   "AnswerID": 1775,
+   "QuestionID": 306,
+   "IsGood": 1
+ },
+ {
+   "Answer": "между любыми узлами",
+   "AnswerID": 1776,
+   "QuestionID": 306,
+   "IsGood": 0
+ },
+ {
+   "Answer": "только между любой рабочей станцией и сервером локальной сети",
+   "AnswerID": 1777,
+   "QuestionID": 306,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Сетевой",
+   "AnswerID": 1778,
+   "QuestionID": 307,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Транспортный",
+   "AnswerID": 1779,
+   "QuestionID": 307,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Представительный",
+   "AnswerID": 1780,
+   "QuestionID": 307,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Канальный",
+   "AnswerID": 1781,
+   "QuestionID": 307,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Физический",
+   "AnswerID": 1782,
+   "QuestionID": 307,
+   "IsGood": 0
+ },
+ {
+   "Answer": "нижних четырех уровней",
+   "AnswerID": 1783,
+   "QuestionID": 308,
+   "IsGood": 1
+ },
+ {
+   "Answer": "сетевого и транспортного уровней",
+   "AnswerID": 1784,
+   "QuestionID": 308,
+   "IsGood": 0
+ },
+ {
+   "Answer": "сетевого и канального уровней",
+   "AnswerID": 1786,
+   "QuestionID": 308,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Сеансовый",
+   "AnswerID": 1787,
+   "QuestionID": 309,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Представительный",
+   "AnswerID": 1788,
+   "QuestionID": 309,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Транспортный",
+   "AnswerID": 1789,
+   "QuestionID": 309,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Пользовательский",
+   "AnswerID": 1790,
+   "QuestionID": 309,
+   "IsGood": 0
+ },
+ {
+   "Answer": "сеансовый",
+   "AnswerID": 1791,
+   "QuestionID": 17,
+   "IsGood": 0
+ },
+ {
+   "Answer": "прикладной",
+   "AnswerID": 1793,
+   "QuestionID": 17,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Некоторых верхних уровней, начиная с 5-го",
+   "AnswerID": 1794,
+   "QuestionID": 310,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Никаких, приложение должно запросить услуги пользовательского уровня",
+   "AnswerID": 1795,
+   "QuestionID": 310,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Логические уровни",
+   "AnswerID": 1797,
+   "QuestionID": 311,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Физические средства соединения",
+   "AnswerID": 1798,
+   "QuestionID": 311,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Прикладные процессы",
+   "AnswerID": 1799,
+   "QuestionID": 311,
+   "IsGood": 0
+ },
+ {
+   "Answer": "физический уровень",
+   "AnswerID": 1800,
+   "QuestionID": 23,
+   "IsGood": 0
+ },
+ {
+   "Answer": "канальный уровень",
+   "AnswerID": 1801,
+   "QuestionID": 23,
+   "IsGood": 0
+ },
+ {
+   "Answer": "сетевой уровень",
+   "AnswerID": 1802,
+   "QuestionID": 23,
+   "IsGood": 1
+ },
+ {
+   "Answer": "дискретным по данному параметру",
+   "AnswerID": 1824,
+   "QuestionID": 64,
+   "IsGood": 1
+ },
+ {
+   "Answer": "непрерывным по данному параметру",
+   "AnswerID": 1825,
+   "QuestionID": 64,
+   "IsGood": 0
+ },
+ {
+   "Answer": "да",
+   "AnswerID": 1829,
+   "QuestionID": 66,
+   "IsGood": 1
+ },
+ {
+   "Answer": "бодах",
+   "AnswerID": 1831,
+   "QuestionID": 67,
+   "IsGood": 1
+ },
+ {
+   "Answer": "байтах",
+   "AnswerID": 1832,
+   "QuestionID": 67,
+   "IsGood": 0
+ },
+ {
+   "Answer": "модах",
+   "AnswerID": 1833,
+   "QuestionID": 67,
+   "IsGood": 0
+ },
+ {
+   "Answer": "отображение на передающей стороне множества возможных значений входного сигнала на множество возможных значений информативного параметра сигнала-переносчика",
+   "AnswerID": 1835,
+   "QuestionID": 68,
+   "IsGood": 1
+ },
+ {
+   "Answer": "отображение на принимающей стороне множества возможных значений входного сигнала на множество возможных значений информативного параметра сигнала-переносчика",
+   "AnswerID": 1836,
+   "QuestionID": 68,
+   "IsGood": 0
+ },
+ {
+   "Answer": "отображение на принимающей стороне множества возможных значений входного сигнала на множество возможных значений произвольного сигнала",
+   "AnswerID": 1837,
+   "QuestionID": 68,
+   "IsGood": 0
+ },
+ {
+   "Answer": "служат для выделения полезного сигнала среди других сигналов, не предназначенных для данного адресата",
+   "AnswerID": 1839,
+   "QuestionID": 73,
+   "IsGood": 0
+ },
+ {
+   "Answer": "служат для кодирования передаваемой информации",
+   "AnswerID": 1840,
+   "QuestionID": 73,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Широкополосные оптические сети.",
+   "AnswerID": 1844,
+   "QuestionID": 76,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Сети на рассеянном инфракрасном излучении.",
+   "AnswerID": 1845,
+   "QuestionID": 76,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Сети на отраженном инфракрасном излучении.",
+   "AnswerID": 1846,
+   "QuestionID": 76,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Аналоговый сигнал передаётся дважды на разных частотах, на принимающей стороне сравнивается, и после сравнения ликвидируются искажения.",
+   "AnswerID": 1847,
+   "QuestionID": 77,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Исходный дискретный сигнал передается модифицированным манчестерским кодом.",
+   "AnswerID": 1848,
+   "QuestionID": 77,
+   "IsGood": 0
+ },
+ {
+   "Answer": "По линии передаются не сами значения амплитуды сигнала, а номера уровней.",
+   "AnswerID": 1849,
+   "QuestionID": 77,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Квадратурной амплитудной модуляцией.",
+   "AnswerID": 1854,
+   "QuestionID": 85,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Триплекс-кодированием.",
+   "AnswerID": 1855,
+   "QuestionID": 85,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Прямоугольные импульсы.",
+   "AnswerID": 1856,
+   "QuestionID": 86,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Синусоидальный сигнал одной частоты.",
+   "AnswerID": 1857,
+   "QuestionID": 86,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Амплитудно-модулированный сигнал",
+   "AnswerID": 1858,
+   "QuestionID": 86,
+   "IsGood": 0
+ },
+ {
+   "Answer": "A = 10*lg (Pвх/Pвых)",
+   "AnswerID": 1859,
+   "QuestionID": 87,
+   "IsGood": 0
+ },
+ {
+   "Answer": "A = lg (Pвых/Pвх)",
+   "AnswerID": 1861,
+   "QuestionID": 87,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Потенциальный код.",
+   "AnswerID": 1862,
+   "QuestionID": 88,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Манчестерский код.",
+   "AnswerID": 1863,
+   "QuestionID": 88,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Биполярный импульсный код.",
+   "AnswerID": 1864,
+   "QuestionID": 88,
+   "IsGood": 0
+ },
+ {
+   "Answer": "одну точку на АЧХ",
+   "AnswerID": 1871,
+   "QuestionID": 312,
+   "IsGood": 1
+ },
+ {
+   "Answer": "уменьшение амплитуды сигнала на единицу длины канала связи",
+   "AnswerID": 1873,
+   "QuestionID": 312,
+   "IsGood": 0
+ },
+ {
+   "Answer": "нескольких витых пар",
+   "AnswerID": 1877,
+   "QuestionID": 314,
+   "IsGood": 1
+ },
+ {
+   "Answer": "одной витой пары",
+   "AnswerID": 1878,
+   "QuestionID": 314,
+   "IsGood": 0
+ },
+ {
+   "Answer": "нескольких пар оптического волокна",
+   "AnswerID": 1879,
+   "QuestionID": 314,
+   "IsGood": 0
+ },
+ {
+   "Answer": "дискретизацией",
+   "AnswerID": 1880,
+   "QuestionID": 75,
+   "IsGood": 0
+ },
+ {
+   "Answer": "моделированием",
+   "AnswerID": 1882,
+   "QuestionID": 75,
+   "IsGood": 0
+ },
+ {
+   "Answer": "От способа линейного кодирования",
+   "AnswerID": 1883,
+   "QuestionID": 315,
+   "IsGood": 1
+ },
+ {
+   "Answer": "От полосы пропускания линии",
+   "AnswerID": 1884,
+   "QuestionID": 315,
+   "IsGood": 0
+ },
+ {
+   "Answer": "От уровня шума",
+   "AnswerID": 1885,
+   "QuestionID": 315,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Шеннона-Хартли",
+   "AnswerID": 1886,
+   "QuestionID": 316,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Котельникова-Найквиста",
+   "AnswerID": 1887,
+   "QuestionID": 316,
+   "IsGood": 0
+ },
+ {
+   "Answer": "была в два или более раз выше, чем частота самой высокой гармоники спектра исходной функции",
+   "AnswerID": 1889,
+   "QuestionID": 317,
+   "IsGood": 1
+ },
+ {
+   "Answer": "была в два или более раз выше, чем частота основной гармоники спектра исходной функции",
+   "AnswerID": 1890,
+   "QuestionID": 317,
+   "IsGood": 0
+ },
+ {
+   "Answer": "была выше, чем частота самой высокой гармоники спектра исходной функции",
+   "AnswerID": 1891,
+   "QuestionID": 317,
+   "IsGood": 0
+ },
+ {
+   "Answer": "была равна частоте самой высокой гармоники спектра исходной функции",
+   "AnswerID": 1892,
+   "QuestionID": 317,
+   "IsGood": 0
+ },
+ {
+   "Answer": "8000 Гц",
+   "AnswerID": 1893,
+   "QuestionID": 318,
+   "IsGood": 1
+ },
+ {
+   "Answer": "44 кГц",
+   "AnswerID": 1895,
+   "QuestionID": 318,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Синхронность передачи данных между узлами сети",
+   "AnswerID": 1896,
+   "QuestionID": 319,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Потеря одного замера",
+   "AnswerID": 1897,
+   "QuestionID": 319,
+   "IsGood": 0
+ },
+ {
+   "Answer": "длина кодовых комбинаций равномерного кода",
+   "AnswerID": 1899,
+   "QuestionID": 320,
+   "IsGood": 1
+ },
+ {
+   "Answer": "количество знаков внутреннего алфавита кода",
+   "AnswerID": 1900,
+   "QuestionID": 320,
+   "IsGood": 0
+ },
+ {
+   "Answer": "уровень кода относительно нулевого",
+   "AnswerID": 1901,
+   "QuestionID": 320,
+   "IsGood": 0
+ },
+ {
+   "Answer": "1",
+   "AnswerID": 1902,
+   "QuestionID": 321,
+   "IsGood": 1
+ },
+ {
+   "Answer": "2",
+   "AnswerID": 1903,
+   "QuestionID": 321,
+   "IsGood": 0
+ },
+ {
+   "Answer": "3",
+   "AnswerID": 1904,
+   "QuestionID": 321,
+   "IsGood": 0
+ },
+ {
+   "Answer": "произошла ошибка",
+   "AnswerID": 1906,
+   "QuestionID": 322,
+   "IsGood": 1
+ },
+ {
+   "Answer": "превышен порог переданных разрешенных комбинаций",
+   "AnswerID": 1907,
+   "QuestionID": 322,
+   "IsGood": 0
+ },
+ {
+   "Answer": "предыдущая кодовая комбинация будет передана еще раз",
+   "AnswerID": 1908,
+   "QuestionID": 322,
+   "IsGood": 0
+ },
+ {
+   "Answer": "n-k",
+   "AnswerID": 1909,
+   "QuestionID": 323,
+   "IsGood": 1
+ },
+ {
+   "Answer": "k-n",
+   "AnswerID": 1910,
+   "QuestionID": 323,
+   "IsGood": 0
+ },
+ {
+   "Answer": "15 м",
+   "AnswerID": 1912,
+   "QuestionID": 324,
+   "IsGood": 1
+ },
+ {
+   "Answer": "23,2 м",
+   "AnswerID": 1913,
+   "QuestionID": 324,
+   "IsGood": 0
+ },
+ {
+   "Answer": "2 м",
+   "AnswerID": 1914,
+   "QuestionID": 324,
+   "IsGood": 0
+ },
+ {
+   "Answer": "АТ",
+   "AnswerID": 1916,
+   "QuestionID": 325,
+   "IsGood": 1
+ },
+ {
+   "Answer": "АТТ",
+   "AnswerID": 1917,
+   "QuestionID": 325,
+   "IsGood": 0
+ },
+ {
+   "Answer": "CONNECT",
+   "AnswerID": 1919,
+   "QuestionID": 325,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Байт-ориентированного",
+   "AnswerID": 1920,
+   "QuestionID": 326,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Бит-ориентированного",
+   "AnswerID": 1921,
+   "QuestionID": 326,
+   "IsGood": 0
+ },
+ {
+   "Answer": "для неравномерных",
+   "AnswerID": 1923,
+   "QuestionID": 327,
+   "IsGood": 1
+ },
+ {
+   "Answer": "для равномерных",
+   "AnswerID": 1924,
+   "QuestionID": 327,
+   "IsGood": 0
+ },
+ {
+   "Answer": "количество условий обратимости одинаково для всех кодов",
+   "AnswerID": 1925,
+   "QuestionID": 327,
+   "IsGood": 0
+ },
+ {
+   "Answer": "числу ненулевых разрядов вектора",
+   "AnswerID": 1926,
+   "QuestionID": 328,
+   "IsGood": 1
+ },
+ {
+   "Answer": "значности кода",
+   "AnswerID": 1927,
+   "QuestionID": 328,
+   "IsGood": 0
+ },
+ {
+   "Answer": "длине кодовой комбинации",
+   "AnswerID": 1928,
+   "QuestionID": 328,
+   "IsGood": 0
+ },
+ {
+   "Answer": "вес разности этих векторов",
+   "AnswerID": 1929,
+   "QuestionID": 329,
+   "IsGood": 1
+ },
+ {
+   "Answer": "сумма числа разрядов этих векторов",
+   "AnswerID": 1930,
+   "QuestionID": 329,
+   "IsGood": 0
+ },
+ {
+   "Answer": "минимальное из расстояний Хэмминга между каждой парой векторов кода",
+   "AnswerID": 1932,
+   "QuestionID": 330,
+   "IsGood": 1
+ },
+ {
+   "Answer": "максимальное из расстояний Хэмминга между каждой парой векторов кода",
+   "AnswerID": 1933,
+   "QuestionID": 330,
+   "IsGood": 0
+ },
+ {
+   "Answer": "метрика Хэмминга",
+   "AnswerID": 1934,
+   "QuestionID": 330,
+   "IsGood": 0
+ },
+ {
+   "Answer": "больше q",
+   "AnswerID": 1935,
+   "QuestionID": 331,
+   "IsGood": 1
+ },
+ {
+   "Answer": "не менее q",
+   "AnswerID": 1936,
+   "QuestionID": 331,
+   "IsGood": 0
+ },
+ {
+   "Answer": "равно q",
+   "AnswerID": 1937,
+   "QuestionID": 331,
+   "IsGood": 0
+ },
+ {
+   "Answer": "равно 2",
+   "AnswerID": 1938,
+   "QuestionID": 331,
+   "IsGood": 0
+ },
+ {
+   "Answer": "не менее 2q",
+   "AnswerID": 1940,
+   "QuestionID": 332,
+   "IsGood": 0
+ },
+ {
+   "Answer": "равно q+1",
+   "AnswerID": 1941,
+   "QuestionID": 332,
+   "IsGood": 0
+ },
+ {
+   "Answer": "равно 2q",
+   "AnswerID": 1942,
+   "QuestionID": 332,
+   "IsGood": 0
+ },
+ {
+   "Answer": "кодовые комбинации образуют блоки данных",
+   "AnswerID": 1944,
+   "QuestionID": 333,
+   "IsGood": 0
+ },
+ {
+   "Answer": "кодовое расстояние кратно размеру блока (кодовой комбинации)",
+   "AnswerID": 1945,
+   "QuestionID": 333,
+   "IsGood": 0
+ },
+ {
+   "Answer": "К избыточным равномерным кодам",
+   "AnswerID": 1956,
+   "QuestionID": 337,
+   "IsGood": 1
+ },
+ {
+   "Answer": "К первичным кодам",
+   "AnswerID": 1957,
+   "QuestionID": 337,
+   "IsGood": 0
+ },
+ {
+   "Answer": "К циклическим кодам",
+   "AnswerID": 1958,
+   "QuestionID": 337,
+   "IsGood": 0
+ },
+ {
+   "Answer": "К избыточным неравномерным кодам",
+   "AnswerID": 1959,
+   "QuestionID": 337,
+   "IsGood": 0
+ },
+ {
+   "Answer": "бит исходного кода и полученных в предыдущих тактах бит результирующего кода",
+   "AnswerID": 1960,
+   "QuestionID": 338,
+   "IsGood": 1
+ },
+ {
+   "Answer": "бит исходного кода, поступающих на вход скрэмблера в четные такты",
+   "AnswerID": 1961,
+   "QuestionID": 338,
+   "IsGood": 0
+ },
+ {
+   "Answer": "бит исходного кода и полученных в предыдущих нечетных тактах бит результирующего кода",
+   "AnswerID": 1962,
+   "QuestionID": 338,
+   "IsGood": 0
+ },
+ {
+   "Answer": "любого пакета ошибок длиной (n-k) или меньшей",
+   "AnswerID": 1963,
+   "QuestionID": 339,
+   "IsGood": 1
+ },
+ {
+   "Answer": "ошибок любой кратности до n",
+   "AnswerID": 1964,
+   "QuestionID": 339,
+   "IsGood": 0
+ },
+ {
+   "Answer": "любого пакета ошибок длиной (n-k+1)",
+   "AnswerID": 1965,
+   "QuestionID": 339,
+   "IsGood": 0
+ },
+ {
+   "Answer": "флаговая последовательность 01111110",
+   "AnswerID": 1966,
+   "QuestionID": 340,
+   "IsGood": 1
+ },
+ {
+   "Answer": "последовательность единиц",
+   "AnswerID": 1967,
+   "QuestionID": 340,
+   "IsGood": 0
+ },
+ {
+   "Answer": "чередующаяся последовательность нулей и единиц",
+   "AnswerID": 1969,
+   "QuestionID": 340,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Нет",
+   "AnswerID": 1970,
+   "QuestionID": 341,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Да, так как определяется форматом машинного слова",
+   "AnswerID": 1971,
+   "QuestionID": 341,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Один - информационный",
+   "AnswerID": 1972,
+   "QuestionID": 83,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Два - информационный и супервизорный",
+   "AnswerID": 1973,
+   "QuestionID": 83,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Три - информационный, супервизорный и ненумерованный",
+   "AnswerID": 1974,
+   "QuestionID": 83,
+   "IsGood": 0
+ },
+ {
+   "Answer": "d=3",
+   "AnswerID": 1975,
+   "QuestionID": 342,
+   "IsGood": 1
+ },
+ {
+   "Answer": "d=4",
+   "AnswerID": 1977,
+   "QuestionID": 342,
+   "IsGood": 0
+ },
+ {
+   "Answer": "d=5",
+   "AnswerID": 1978,
+   "QuestionID": 342,
+   "IsGood": 0
+ },
+ {
+   "Answer": "d=6",
+   "AnswerID": 1979,
+   "QuestionID": 342,
+   "IsGood": 0
+ },
+ {
+   "Answer": "ATХ3S01234567",
+   "AnswerID": 1984,
+   "QuestionID": 81,
+   "IsGood": 0
+ },
+ {
+   "Answer": "ATХ1DT1234567",
+   "AnswerID": 1985,
+   "QuestionID": 81,
+   "IsGood": 0
+ },
+ {
+   "Answer": "АТDP1234567",
+   "AnswerID": 1986,
+   "QuestionID": 81,
+   "IsGood": 0
+ },
+ {
+   "Answer": "ATХ1DP1234567",
+   "AnswerID": 1987,
+   "QuestionID": 81,
+   "IsGood": 1
+ },
+ {
+   "Answer": "101",
+   "AnswerID": 2033,
+   "QuestionID": 347,
+   "IsGood": 0
+ },
+ {
+   "Answer": "110",
+   "AnswerID": 2034,
+   "QuestionID": 347,
+   "IsGood": 0
+ },
+ {
+   "Answer": "001",
+   "AnswerID": 2035,
+   "QuestionID": 347,
+   "IsGood": 0
+ },
+ {
+   "Answer": "1010001",
+   "AnswerID": 2038,
+   "QuestionID": 345,
+   "IsGood": 0
+ },
+ {
+   "Answer": "1010110",
+   "AnswerID": 2039,
+   "QuestionID": 345,
+   "IsGood": 0
+ },
+ {
+   "Answer": "1010101",
+   "AnswerID": 2040,
+   "QuestionID": 345,
+   "IsGood": 0
+ },
+ {
+   "Answer": "011",
+   "AnswerID": 2047,
+   "QuestionID": 348,
+   "IsGood": 1
+ },
+ {
+   "Answer": "100",
+   "AnswerID": 2048,
+   "QuestionID": 348,
+   "IsGood": 0
+ },
+ {
+   "Answer": "111",
+   "AnswerID": 2049,
+   "QuestionID": 348,
+   "IsGood": 0
+ },
+ {
+   "Answer": "110",
+   "AnswerID": 2050,
+   "QuestionID": 348,
+   "IsGood": 0
+ },
+ {
+   "Answer": "101",
+   "AnswerID": 2052,
+   "QuestionID": 349,
+   "IsGood": 1
+ },
+ {
+   "Answer": "100",
+   "AnswerID": 2053,
+   "QuestionID": 349,
+   "IsGood": 0
+ },
+ {
+   "Answer": "111",
+   "AnswerID": 2055,
+   "QuestionID": 349,
+   "IsGood": 0
+ },
+ {
+   "Answer": "001",
+   "AnswerID": 2056,
+   "QuestionID": 349,
+   "IsGood": 0
+ },
+ {
+   "Answer": "1111111",
+   "AnswerID": 2057,
+   "QuestionID": 346,
+   "IsGood": 1
+ },
+ {
+   "Answer": "1111101",
+   "AnswerID": 2059,
+   "QuestionID": 346,
+   "IsGood": 0
+ },
+ {
+   "Answer": "1111110",
+   "AnswerID": 2060,
+   "QuestionID": 346,
+   "IsGood": 0
+ },
+ {
+   "Answer": "1111010",
+   "AnswerID": 2061,
+   "QuestionID": 346,
+   "IsGood": 0
+ },
+ {
+   "Answer": "1001011",
+   "AnswerID": 2063,
+   "QuestionID": 354,
+   "IsGood": 0
+ },
+ {
+   "Answer": "1001001",
+   "AnswerID": 2064,
+   "QuestionID": 354,
+   "IsGood": 0
+ },
+ {
+   "Answer": "1001101",
+   "AnswerID": 2065,
+   "QuestionID": 354,
+   "IsGood": 0
+ },
+ {
+   "Answer": "1001010",
+   "AnswerID": 2066,
+   "QuestionID": 354,
+   "IsGood": 0
+ },
+ {
+   "Answer": "24",
+   "AnswerID": 2068,
+   "QuestionID": 355,
+   "IsGood": 0
+ },
+ {
+   "Answer": "32",
+   "AnswerID": 2069,
+   "QuestionID": 355,
+   "IsGood": 0
+ },
+ {
+   "Answer": "4",
+   "AnswerID": 2071,
+   "QuestionID": 355,
+   "IsGood": 0
+ },
+ {
+   "Answer": "побитовую",
+   "AnswerID": 2072,
+   "QuestionID": 356,
+   "IsGood": 1
+ },
+ {
+   "Answer": "посимвольную",
+   "AnswerID": 2073,
+   "QuestionID": 356,
+   "IsGood": 0
+ },
+ {
+   "Answer": "покадровую",
+   "AnswerID": 2075,
+   "QuestionID": 356,
+   "IsGood": 0
+ },
+ {
+   "Answer": "увеличение помехозащищенности передачи информации",
+   "AnswerID": 2076,
+   "QuestionID": 90,
+   "IsGood": 1
+ },
+ {
+   "Answer": "повышения пропускной способности при передаче информации",
+   "AnswerID": 2077,
+   "QuestionID": 90,
+   "IsGood": 0
+ },
+ {
+   "Answer": "увеличение числа изменений информативного параметра несущего периодического сигнала в секунду",
+   "AnswerID": 2078,
+   "QuestionID": 90,
+   "IsGood": 0
+ },
+ {
+   "Answer": "выше",
+   "AnswerID": 2080,
+   "QuestionID": 313,
+   "IsGood": 0
+ },
+ {
+   "Answer": "не зависит от отношения сигнал-шум",
+   "AnswerID": 2081,
+   "QuestionID": 313,
+   "IsGood": 0
+ },
+ {
+   "Answer": "высокой",
+   "AnswerID": 2082,
+   "QuestionID": 1,
+   "IsGood": 1
+ },
+ {
+   "Answer": "средней",
+   "AnswerID": 2084,
+   "QuestionID": 1,
+   "IsGood": 0
+ },
+ {
+   "Answer": "да",
+   "AnswerID": 2085,
+   "QuestionID": 6,
+   "IsGood": 0
+ },
+ {
+   "Answer": "нет",
+   "AnswerID": 2086,
+   "QuestionID": 6,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Канальный",
+   "AnswerID": 2094,
+   "QuestionID": 357,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Прикладной",
+   "AnswerID": 2095,
+   "QuestionID": 357,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Сетевой",
+   "AnswerID": 2096,
+   "QuestionID": 357,
+   "IsGood": 0
+ },
+ {
+   "Answer": "сеансовом уровнем",
+   "AnswerID": 2100,
+   "QuestionID": 358,
+   "IsGood": 1
+ },
+ {
+   "Answer": "представительным уровнем",
+   "AnswerID": 2102,
+   "QuestionID": 358,
+   "IsGood": 0
+ },
+ {
+   "Answer": "сетевым уровнем",
+   "AnswerID": 2103,
+   "QuestionID": 358,
+   "IsGood": 0
+ },
+ {
+   "Answer": "представительный, прикладной, сетевой, транспортный, сеансовый, канальный и физический",
+   "AnswerID": 2104,
+   "QuestionID": 12,
+   "IsGood": 0
+ },
+ {
+   "Answer": "представительный, прикладной, транспортный, сеансовый, сетевой, канальный и физический",
+   "AnswerID": 2105,
+   "QuestionID": 12,
+   "IsGood": 0
+ },
+ {
+   "Answer": "прикладной, представительный, сеансовый, транспортный, сетевой, канальный и физический",
+   "AnswerID": 2106,
+   "QuestionID": 12,
+   "IsGood": 1
+ },
+ {
+   "Answer": "нет",
+   "AnswerID": 2108,
+   "QuestionID": 13,
+   "IsGood": 0
+ },
+ {
+   "Answer": "сетевой протокол",
+   "AnswerID": 2109,
+   "QuestionID": 14,
+   "IsGood": 0
+ },
+ {
+   "Answer": "транспортный протокол",
+   "AnswerID": 2111,
+   "QuestionID": 14,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Витая пара",
+   "AnswerID": 2112,
+   "QuestionID": 47,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Коаксиальный кабель",
+   "AnswerID": 2113,
+   "QuestionID": 47,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Волоконно-оптический кабель",
+   "AnswerID": 2114,
+   "QuestionID": 47,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Амплитудная модуляция",
+   "AnswerID": 2115,
+   "QuestionID": 52,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Частотная модуляция",
+   "AnswerID": 2116,
+   "QuestionID": 52,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Фазовая модуляция",
+   "AnswerID": 2117,
+   "QuestionID": 52,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Абсолютный уровень мощности",
+   "AnswerID": 2133,
+   "QuestionID": 65,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Затухание",
+   "AnswerID": 2134,
+   "QuestionID": 65,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Затухание и Абсолютный уровень мощности",
+   "AnswerID": 2135,
+   "QuestionID": 65,
+   "IsGood": 1
+ },
+ {
+   "Answer": "S/N = 30 дБ",
+   "AnswerID": 2136,
+   "QuestionID": 359,
+   "IsGood": 1
+ },
+ {
+   "Answer": "S/N = 20 дБ",
+   "AnswerID": 2137,
+   "QuestionID": 359,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Формула Шеннона",
+   "AnswerID": 2139,
+   "QuestionID": 360,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Формула Хартли",
+   "AnswerID": 2140,
+   "QuestionID": 360,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Формула Найквиста",
+   "AnswerID": 2141,
+   "QuestionID": 360,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Да",
+   "AnswerID": 2142,
+   "QuestionID": 361,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Да, при нарушении строгого чередования полярности сигнала.",
+   "AnswerID": 2144,
+   "QuestionID": 362,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Нет",
+   "AnswerID": 2145,
+   "QuestionID": 362,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Да, при чередовании нулей и единиц.",
+   "AnswerID": 2146,
+   "QuestionID": 362,
+   "IsGood": 0
+ },
+ {
+   "Answer": "8000 Гц",
+   "AnswerID": 2151,
+   "QuestionID": 364,
+   "IsGood": 0
+ },
+ {
+   "Answer": "3400 Гц",
+   "AnswerID": 2152,
+   "QuestionID": 364,
+   "IsGood": 0
+ },
+ {
+   "Answer": "44 КГц",
+   "AnswerID": 2153,
+   "QuestionID": 364,
+   "IsGood": 0
+ },
+ {
+   "Answer": "20-20000 Гц",
+   "AnswerID": 2161,
+   "QuestionID": 365,
+   "IsGood": 0
+ },
+ {
+   "Answer": "450-3400 Гц",
+   "AnswerID": 2162,
+   "QuestionID": 365,
+   "IsGood": 0
+ },
+ {
+   "Answer": "200-8000 Гц",
+   "AnswerID": 2163,
+   "QuestionID": 365,
+   "IsGood": 0
+ },
+ {
+   "Answer": "биту",
+   "AnswerID": 2167,
+   "QuestionID": 366,
+   "IsGood": 1
+ },
+ {
+   "Answer": "байту",
+   "AnswerID": 2169,
+   "QuestionID": 366,
+   "IsGood": 0
+ },
+ {
+   "Answer": "кодирования информации",
+   "AnswerID": 2178,
+   "QuestionID": 367,
+   "IsGood": 1
+ },
+ {
+   "Answer": "выделения полезного сигнала среди других",
+   "AnswerID": 2179,
+   "QuestionID": 367,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Скрученная пара проводов.",
+   "AnswerID": 2197,
+   "QuestionID": 368,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Имеет несимметричную конструкцию и состоит из внутренней медной жилы и оплетки, отделенной от жилы слоем изоляции.",
+   "AnswerID": 2198,
+   "QuestionID": 368,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Состоит из тонких волокон.",
+   "AnswerID": 2199,
+   "QuestionID": 368,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Мера снятия неопределенности в процессе получения сигнала адресатом.",
+   "AnswerID": 2211,
+   "QuestionID": 369,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Энергия сигнала",
+   "AnswerID": 2212,
+   "QuestionID": 369,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Энтропия сигнала",
+   "AnswerID": 2213,
+   "QuestionID": 369,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Да, если известна кратность ошибки",
+   "AnswerID": 2214,
+   "QuestionID": 335,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Нет",
+   "AnswerID": 2215,
+   "QuestionID": 335,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Да, если ошибка в одном разряде",
+   "AnswerID": 2216,
+   "QuestionID": 335,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Да, но требуется дополнительная операция сравнения с таблицей синдромов",
+   "AnswerID": 2217,
+   "QuestionID": 335,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Уменьшения количества цифро-аналоговых и аналогово-цифровых преобразований в цепочке передачи сигнала",
+   "AnswerID": 2219,
+   "QuestionID": 54,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Повышенная частота несущей при передаче сигнала",
+   "AnswerID": 2220,
+   "QuestionID": 54,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Одно, для достижения максимальной скорости передачи",
+   "AnswerID": 2221,
+   "QuestionID": 370,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Ни одного, для обеспечения гарантированной технологией скорости.",
+   "AnswerID": 2222,
+   "QuestionID": 370,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Сколько угодно для скорости 56 Кбит/с",
+   "AnswerID": 2223,
+   "QuestionID": 370,
+   "IsGood": 0
+ },
+ {
+   "Answer": "только при аналого-цифровом преобразовании",
+   "AnswerID": 2224,
+   "QuestionID": 371,
+   "IsGood": 1
+ },
+ {
+   "Answer": "только при цифро-аналоговом преобразовании",
+   "AnswerID": 2225,
+   "QuestionID": 371,
+   "IsGood": 0
+ },
+ {
+   "Answer": "и в том и в другом случае",
+   "AnswerID": 2226,
+   "QuestionID": 371,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Размер окна и величина таум-аута",
+   "AnswerID": 2227,
+   "QuestionID": 372,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Величина тайм-аута и размер блока данных",
+   "AnswerID": 2228,
+   "QuestionID": 372,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Скорость передачи и максимальный размер окна",
+   "AnswerID": 2229,
+   "QuestionID": 372,
+   "IsGood": 0
+ },
+ {
+   "Answer": "программной структурой",
+   "AnswerID": 2230,
+   "QuestionID": 34,
+   "IsGood": 0
+ },
+ {
+   "Answer": "физической структурой",
+   "AnswerID": 2231,
+   "QuestionID": 34,
+   "IsGood": 0
+ },
+ {
+   "Answer": "логической структурой",
+   "AnswerID": 2232,
+   "QuestionID": 34,
+   "IsGood": 1
+ },
+ {
+   "Answer": "пропускная способность и достоверность передачи данных",
+   "AnswerID": 2233,
+   "QuestionID": 89,
+   "IsGood": 1
+ },
+ {
+   "Answer": "полоса пропускания и пропускная способность",
+   "AnswerID": 2234,
+   "QuestionID": 89,
+   "IsGood": 0
+ },
+ {
+   "Answer": "шумом квантования",
+   "AnswerID": 2236,
+   "QuestionID": 363,
+   "IsGood": 1
+ },
+ {
+   "Answer": "погрешностью квантования",
+   "AnswerID": 2237,
+   "QuestionID": 363,
+   "IsGood": 0
+ },
+ {
+   "Answer": "ошибкой квантования",
+   "AnswerID": 2238,
+   "QuestionID": 363,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Инкапсуляция и полиморфизм",
+   "AnswerID": 2239,
+   "QuestionID": 36,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Наследование и абстрактные типы данных",
+   "AnswerID": 2240,
+   "QuestionID": 36,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Полиморфизм и динамическое связывание",
+   "AnswerID": 2241,
+   "QuestionID": 36,
+   "IsGood": 0
+ },
+ {
+   "Answer": "полиморфизм и динамическое связывание",
+   "AnswerID": 2242,
+   "QuestionID": 304,
+   "IsGood": 1
+ },
+ {
+   "Answer": "наследование и абстрактные типы данных",
+   "AnswerID": 2244,
+   "QuestionID": 304,
+   "IsGood": 0
+ },
+ {
+   "Answer": "инкапсуляция",
+   "AnswerID": 2245,
+   "QuestionID": 305,
+   "IsGood": 1
+ },
+ {
+   "Answer": "наследование",
+   "AnswerID": 2246,
+   "QuestionID": 305,
+   "IsGood": 0
+ },
+ {
+   "Answer": "динамическое связывание",
+   "AnswerID": 2247,
+   "QuestionID": 305,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Подуровень LLC - управление логическим звеном",
+   "AnswerID": 2248,
+   "QuestionID": 121,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Подуровень MAC - управление доступом к передающей среде",
+   "AnswerID": 2249,
+   "QuestionID": 121,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Подуровень PMA - подключение к физической среде",
+   "AnswerID": 2251,
+   "QuestionID": 121,
+   "IsGood": 0
+ },
+ {
+   "Answer": "метод опроса",
+   "AnswerID": 2252,
+   "QuestionID": 122,
+   "IsGood": 1
+ },
+ {
+   "Answer": "метод уплотнения",
+   "AnswerID": 2253,
+   "QuestionID": 122,
+   "IsGood": 0
+ },
+ {
+   "Answer": "метод случайного доступа",
+   "AnswerID": 2254,
+   "QuestionID": 122,
+   "IsGood": 0
+ },
+ {
+   "Answer": "метод погружения",
+   "AnswerID": 2255,
+   "QuestionID": 122,
+   "IsGood": 0
+ },
+ {
+   "Answer": "МДКН / ОС",
+   "AnswerID": 2256,
+   "QuestionID": 123,
+   "IsGood": 1
+ },
+ {
+   "Answer": "МДКН",
+   "AnswerID": 2257,
+   "QuestionID": 123,
+   "IsGood": 0
+ },
+ {
+   "Answer": "МД",
+   "AnswerID": 2258,
+   "QuestionID": 123,
+   "IsGood": 0
+ },
+ {
+   "Answer": "в одноранговых сетях",
+   "AnswerID": 2259,
+   "QuestionID": 91,
+   "IsGood": 1
+ },
+ {
+   "Answer": "в сетях на основе сервера",
+   "AnswerID": 2260,
+   "QuestionID": 91,
+   "IsGood": 0
+ },
+ {
+   "Answer": "множественное уплотнение",
+   "AnswerID": 2262,
+   "QuestionID": 92,
+   "IsGood": 1
+ },
+ {
+   "Answer": "временное уплотнение",
+   "AnswerID": 2263,
+   "QuestionID": 92,
+   "IsGood": 0
+ },
+ {
+   "Answer": "частотное уплотнение",
+   "AnswerID": 2264,
+   "QuestionID": 92,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Нет",
+   "AnswerID": 2265,
+   "QuestionID": 373,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Да",
+   "AnswerID": 2266,
+   "QuestionID": 373,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Только серверная часть",
+   "AnswerID": 2267,
+   "QuestionID": 373,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Сетевой адаптер",
+   "AnswerID": 2269,
+   "QuestionID": 374,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Драйвер контроллера удаленной загрузки",
+   "AnswerID": 2270,
+   "QuestionID": 374,
+   "IsGood": 0
+ },
+ {
+   "Answer": "УДС - подуровень управления доступом к среде",
+   "AnswerID": 2271,
+   "QuestionID": 375,
+   "IsGood": 1
+ },
+ {
+   "Answer": "УЛЗ - подуровень управления логическим звеном",
+   "AnswerID": 2272,
+   "QuestionID": 375,
+   "IsGood": 0
+ },
+ {
+   "Answer": "ПФС - подуровень подключения к физической среде",
+   "AnswerID": 2273,
+   "QuestionID": 375,
+   "IsGood": 0
+ },
+ {
+   "Answer": "ФС - подуровень передачи физических сигналов",
+   "AnswerID": 2274,
+   "QuestionID": 375,
+   "IsGood": 0
+ },
+ {
+   "Answer": "ФС - подуровень физической сигнализации",
+   "AnswerID": 2275,
+   "QuestionID": 376,
+   "IsGood": 1
+ },
+ {
+   "Answer": "УДС - подуровень управления доступом к среде передачи",
+   "AnswerID": 2276,
+   "QuestionID": 376,
+   "IsGood": 0
+ },
+ {
+   "Answer": "коммуникационные серверы",
+   "AnswerID": 2278,
+   "QuestionID": 106,
+   "IsGood": 1
+ },
+ {
+   "Answer": "почтовые серверы",
+   "AnswerID": 2279,
+   "QuestionID": 106,
+   "IsGood": 0
+ },
+ {
+   "Answer": "факс серверы",
+   "AnswerID": 2280,
+   "QuestionID": 106,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Это специальная кодовая последовательность, которая передается по кольцу либо общей шине сети.",
+   "AnswerID": 2281,
+   "QuestionID": 107,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Это сдвиговый передающий регистр, который последовательно включается в кольцо сети.",
+   "AnswerID": 2282,
+   "QuestionID": 107,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Это устройство-получатель, которое читает и метит пакет по мере его прохождения через узел кольца сети.",
+   "AnswerID": 2283,
+   "QuestionID": 107,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Кольцо",
+   "AnswerID": 2284,
+   "QuestionID": 377,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Общая шина",
+   "AnswerID": 2285,
+   "QuestionID": 377,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Звезда",
+   "AnswerID": 2286,
+   "QuestionID": 377,
+   "IsGood": 0
+ },
+ {
+   "Answer": "МДКН - множественный доступ с контролем носителя",
+   "AnswerID": 2288,
+   "QuestionID": 378,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Маркерный метод доступа",
+   "AnswerID": 2289,
+   "QuestionID": 378,
+   "IsGood": 0
+ },
+ {
+   "Answer": "одновременно и сразу после освобождения среды передачи",
+   "AnswerID": 2290,
+   "QuestionID": 379,
+   "IsGood": 1
+ },
+ {
+   "Answer": "в течение времени двойного пробега сигнала после освобождения среды передачи",
+   "AnswerID": 2291,
+   "QuestionID": 379,
+   "IsGood": 0
+ },
+ {
+   "Answer": "с определенной вероятностью после освобождения носителя",
+   "AnswerID": 2292,
+   "QuestionID": 379,
+   "IsGood": 0
+ },
+ {
+   "Answer": "I-типа",
+   "AnswerID": 2293,
+   "QuestionID": 380,
+   "IsGood": 1
+ },
+ {
+   "Answer": "p-типа",
+   "AnswerID": 2295,
+   "QuestionID": 380,
+   "IsGood": 0
+ },
+ {
+   "Answer": "через случайный интервал времени",
+   "AnswerID": 2296,
+   "QuestionID": 381,
+   "IsGood": 1
+ },
+ {
+   "Answer": "через 0,1 секунды",
+   "AnswerID": 2297,
+   "QuestionID": 381,
+   "IsGood": 0
+ },
+ {
+   "Answer": "через 1 секунду",
+   "AnswerID": 2298,
+   "QuestionID": 381,
+   "IsGood": 0
+ },
+ {
+   "Answer": "разделимым кодам",
+   "AnswerID": 2300,
+   "QuestionID": 334,
+   "IsGood": 0
+ },
+ {
+   "Answer": "кодам с контролем на нечетность",
+   "AnswerID": 2301,
+   "QuestionID": 334,
+   "IsGood": 0
+ },
+ {
+   "Answer": "корректирующим кодам",
+   "AnswerID": 2302,
+   "QuestionID": 334,
+   "IsGood": 0
+ },
+ {
+   "Answer": "повышения коэффициента использования линии связи",
+   "AnswerID": 2303,
+   "QuestionID": 343,
+   "IsGood": 1
+ },
+ {
+   "Answer": "повышения надежности передачи кадров",
+   "AnswerID": 2304,
+   "QuestionID": 343,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Есть",
+   "AnswerID": 2306,
+   "QuestionID": 336,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Нет, исходная кодовая комбинация - 1111",
+   "AnswerID": 2307,
+   "QuestionID": 336,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Нет, исходная кодовая комбинация - 1101",
+   "AnswerID": 2316,
+   "QuestionID": 353,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Есть, ошибка в третьем справа разряде",
+   "AnswerID": 2317,
+   "QuestionID": 353,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Нет, исходная кодовая комбинация - 1011",
+   "AnswerID": 2318,
+   "QuestionID": 353,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Есть, ошибка во втором справа разряде",
+   "AnswerID": 2319,
+   "QuestionID": 353,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Есть, ошибка в шестом справа разряде",
+   "AnswerID": 2320,
+   "QuestionID": 352,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Нет, исходная кодовая комбинация - 1011",
+   "AnswerID": 2321,
+   "QuestionID": 352,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Есть, ошибка в четвертом справа разряде",
+   "AnswerID": 2322,
+   "QuestionID": 352,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Есть, ошибка в младшем разряде",
+   "AnswerID": 2323,
+   "QuestionID": 351,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Нет, исходная кодовая комбинация 1011",
+   "AnswerID": 2324,
+   "QuestionID": 351,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Есть, ошибка в четвертом справа разряде",
+   "AnswerID": 2325,
+   "QuestionID": 351,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Нет, исходная кодовая комибинация - 1111",
+   "AnswerID": 2326,
+   "QuestionID": 350,
+   "IsGood": 1
+ },
+ {
+   "Answer": "уменьшается",
+   "AnswerID": 2337,
+   "QuestionID": 384,
+   "IsGood": 1
+ },
+ {
+   "Answer": "восстанавливается",
+   "AnswerID": 2338,
+   "QuestionID": 384,
+   "IsGood": 0
+ },
+ {
+   "Answer": "не изменяется",
+   "AnswerID": 2340,
+   "QuestionID": 384,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Up-link",
+   "AnswerID": 2367,
+   "QuestionID": 393,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Down-link",
+   "AnswerID": 2368,
+   "QuestionID": 393,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Портом, сконфигурированным для работы в режиме монитора",
+   "AnswerID": 2369,
+   "QuestionID": 393,
+   "IsGood": 0
+ },
+ {
+   "Answer": "200 Мбит/с",
+   "AnswerID": 2377,
+   "QuestionID": 396,
+   "IsGood": 1
+ },
+ {
+   "Answer": "400 Мбит/с",
+   "AnswerID": 2379,
+   "QuestionID": 396,
+   "IsGood": 0
+ },
+ {
+   "Answer": "скорость продвижения",
+   "AnswerID": 2387,
+   "QuestionID": 399,
+   "IsGood": 1
+ },
+ {
+   "Answer": "скорость фильтрации",
+   "AnswerID": 2388,
+   "QuestionID": 399,
+   "IsGood": 0
+ },
+ {
+   "Answer": "пропускная способность",
+   "AnswerID": 2389,
+   "QuestionID": 399,
+   "IsGood": 0
+ },
+ {
+   "Answer": "кадр/с",
+   "AnswerID": 2391,
+   "QuestionID": 400,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Мбит/с",
+   "AnswerID": 2392,
+   "QuestionID": 400,
+   "IsGood": 0
+ },
+ {
+   "Answer": "кбит/с",
+   "AnswerID": 2393,
+   "QuestionID": 400,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Мбайт/с",
+   "AnswerID": 2394,
+   "QuestionID": 400,
+   "IsGood": 0
+ },
+ {
+   "Answer": "кбайт/с",
+   "AnswerID": 2395,
+   "QuestionID": 400,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Минимального",
+   "AnswerID": 2396,
+   "QuestionID": 401,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Максимального",
+   "AnswerID": 2398,
+   "QuestionID": 401,
+   "IsGood": 0
+ },
+ {
+   "Answer": "максимальной длины",
+   "AnswerID": 2399,
+   "QuestionID": 402,
+   "IsGood": 1
+ },
+ {
+   "Answer": "минимальной длины",
+   "AnswerID": 2400,
+   "QuestionID": 402,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Да, может, если адресная таблица процессора порта полностью заполнена.",
+   "AnswerID": 2402,
+   "QuestionID": 403,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Да, может служить причиной замедления работы коммутатора",
+   "AnswerID": 2403,
+   "QuestionID": 403,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Да, может служить причиной засорения сети избыточным трафиком",
+   "AnswerID": 2404,
+   "QuestionID": 403,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Нет, не может",
+   "AnswerID": 2405,
+   "QuestionID": 403,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Магистральные",
+   "AnswerID": 2406,
+   "QuestionID": 404,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Настольные",
+   "AnswerID": 2408,
+   "QuestionID": 404,
+   "IsGood": 0
+ },
+ {
+   "Answer": "TCU-Trunk Coupling Unit",
+   "AnswerID": 2409,
+   "QuestionID": 405,
+   "IsGood": 1
+ },
+ {
+   "Answer": "MAU-Media Attachment Unit",
+   "AnswerID": 2410,
+   "QuestionID": 405,
+   "IsGood": 0
+ },
+ {
+   "Answer": "MSAU- Multi-Station Access Unit",
+   "AnswerID": 2411,
+   "QuestionID": 405,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Вся пропускная способность.",
+   "AnswerID": 2413,
+   "QuestionID": 406,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Только часть, выделяемая на синхронный трафик станций.",
+   "AnswerID": 2414,
+   "QuestionID": 406,
+   "IsGood": 0
+ },
+ {
+   "Answer": "В течение счета таймера THT (Token Holding Timer) до порогового значения.",
+   "AnswerID": 2415,
+   "QuestionID": 407,
+   "IsGood": 1
+ },
+ {
+   "Answer": "В течение счета таймера TRT(Token Rotation Timer) до момента прихода маркера.",
+   "AnswerID": 2416,
+   "QuestionID": 407,
+   "IsGood": 0
+ },
+ {
+   "Answer": "В течение времени оборота маркера, если счетчик опозданий равен нулю.",
+   "AnswerID": 2417,
+   "QuestionID": 407,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Таймер времени оборота маркера истек при нулевом значении счетчика опозданий",
+   "AnswerID": 2419,
+   "QuestionID": 408,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Таймер времени оборота маркера истек, а маркер не пришел",
+   "AnswerID": 2420,
+   "QuestionID": 408,
+   "IsGood": 0
+ },
+ {
+   "Answer": "N кадров",
+   "AnswerID": 2421,
+   "QuestionID": 409,
+   "IsGood": 1
+ },
+ {
+   "Answer": "N/k кадров, где k- уровень концентратора",
+   "AnswerID": 2422,
+   "QuestionID": 409,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Только кадры высокоприоритетных запросов",
+   "AnswerID": 2423,
+   "QuestionID": 409,
+   "IsGood": 0
+ },
+ {
+   "Answer": "512 байт",
+   "AnswerID": 2424,
+   "QuestionID": 410,
+   "IsGood": 1
+ },
+ {
+   "Answer": "512 бит",
+   "AnswerID": 2425,
+   "QuestionID": 410,
+   "IsGood": 0
+ },
+ {
+   "Answer": "64 байт",
+   "AnswerID": 2426,
+   "QuestionID": 410,
+   "IsGood": 0
+ },
+ {
+   "Answer": "64 бит",
+   "AnswerID": 2427,
+   "QuestionID": 410,
+   "IsGood": 0
+ },
+ {
+   "Answer": "448 байт",
+   "AnswerID": 2428,
+   "QuestionID": 410,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Физический",
+   "AnswerID": 2429,
+   "QuestionID": 411,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Канальный",
+   "AnswerID": 2430,
+   "QuestionID": 411,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Сетевой",
+   "AnswerID": 2431,
+   "QuestionID": 411,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Нет, т.к. они интегрируют фунциональные возможности концентратора",
+   "AnswerID": 2432,
+   "QuestionID": 412,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Да, т.к. они подключаются как обычные рабочие станции",
+   "AnswerID": 2433,
+   "QuestionID": 412,
+   "IsGood": 0
+ },
+ {
+   "Answer": "приводит к <падению> всей сети",
+   "AnswerID": 2435,
+   "QuestionID": 413,
+   "IsGood": 1
+ },
+ {
+   "Answer": "приводит к нарушению работы одного сегмента",
+   "AnswerID": 2436,
+   "QuestionID": 413,
+   "IsGood": 0
+ },
+ {
+   "Answer": "не влияет на работу сети",
+   "AnswerID": 2437,
+   "QuestionID": 413,
+   "IsGood": 0
+ },
+ {
+   "Answer": "2 и 3",
+   "AnswerID": 2438,
+   "QuestionID": 414,
+   "IsGood": 1
+ },
+ {
+   "Answer": "1 и 3",
+   "AnswerID": 2439,
+   "QuestionID": 414,
+   "IsGood": 0
+ },
+ {
+   "Answer": "1,2,3,4",
+   "AnswerID": 2440,
+   "QuestionID": 414,
+   "IsGood": 0
+ },
+ {
+   "Answer": "1 и 2",
+   "AnswerID": 2441,
+   "QuestionID": 414,
+   "IsGood": 0
+ },
+ {
+   "Answer": "3 и 4",
+   "AnswerID": 2442,
+   "QuestionID": 414,
+   "IsGood": 0
+ },
+ {
+   "Answer": "BNC-баррел-коннектор",
+   "AnswerID": 2443,
+   "QuestionID": 415,
+   "IsGood": 1
+ },
+ {
+   "Answer": "BNC-коннектор",
+   "AnswerID": 2444,
+   "QuestionID": 415,
+   "IsGood": 0
+ },
+ {
+   "Answer": "BNC-Т-коннектор",
+   "AnswerID": 2445,
+   "QuestionID": 415,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Коннектор DB-15",
+   "AnswerID": 2446,
+   "QuestionID": 415,
+   "IsGood": 0
+ },
+ {
+   "Answer": "МАС-адресу получателя",
+   "AnswerID": 2447,
+   "QuestionID": 416,
+   "IsGood": 1
+ },
+ {
+   "Answer": "типу протокола",
+   "AnswerID": 2449,
+   "QuestionID": 416,
+   "IsGood": 0
+ },
+ {
+   "Answer": "уровню сервиса",
+   "AnswerID": 2450,
+   "QuestionID": 416,
+   "IsGood": 0
+ },
+ {
+   "Answer": "приоритету",
+   "AnswerID": 2451,
+   "QuestionID": 416,
+   "IsGood": 0
+ },
+ {
+   "Answer": "выравниванием",
+   "AnswerID": 2452,
+   "QuestionID": 417,
+   "IsGood": 1
+ },
+ {
+   "Answer": "дополнением",
+   "AnswerID": 2453,
+   "QuestionID": 417,
+   "IsGood": 0
+ },
+ {
+   "Answer": "На магистральный",
+   "AnswerID": 2455,
+   "QuestionID": 418,
+   "IsGood": 1
+ },
+ {
+   "Answer": "На все порты, кроме магистрального",
+   "AnswerID": 2456,
+   "QuestionID": 418,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Кадр отбрасывается",
+   "AnswerID": 2457,
+   "QuestionID": 418,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Ethernet 802.3",
+   "AnswerID": 2458,
+   "QuestionID": 388,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Ethernet 802.2",
+   "AnswerID": 2459,
+   "QuestionID": 388,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Ethernet SNAP",
+   "AnswerID": 2460,
+   "QuestionID": 388,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Флаг (01111110)",
+   "AnswerID": 2462,
+   "QuestionID": 390,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Полное отсутствие сигнала",
+   "AnswerID": 2463,
+   "QuestionID": 390,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Да, позволяя контролировать физическое состояние линии",
+   "AnswerID": 2464,
+   "QuestionID": 391,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Нет.",
+   "AnswerID": 2465,
+   "QuestionID": 391,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Gigabit Ethernet",
+   "AnswerID": 2467,
+   "QuestionID": 392,
+   "IsGood": 1
+ },
+ {
+   "Answer": "1000 Base-T",
+   "AnswerID": 2468,
+   "QuestionID": 392,
+   "IsGood": 0
+ },
+ {
+   "Answer": "100 Base-TX",
+   "AnswerID": 2469,
+   "QuestionID": 392,
+   "IsGood": 0
+ },
+ {
+   "Answer": "1000 Base-X",
+   "AnswerID": 2470,
+   "QuestionID": 392,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Приоритетный доступ по требованию",
+   "AnswerID": 2471,
+   "QuestionID": 395,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Случайный доступ с подтверждением",
+   "AnswerID": 2472,
+   "QuestionID": 395,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Маркерный",
+   "AnswerID": 2473,
+   "QuestionID": 395,
+   "IsGood": 0
+ },
+ {
+   "Answer": "МДКН/ОС",
+   "AnswerID": 2474,
+   "QuestionID": 395,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Только для соединения повторителей",
+   "AnswerID": 2475,
+   "QuestionID": 397,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Для подключения рабочих станций к портам концентратора",
+   "AnswerID": 2476,
+   "QuestionID": 397,
+   "IsGood": 0
+ },
+ {
+   "Answer": "3 витые пары",
+   "AnswerID": 2478,
+   "QuestionID": 387,
+   "IsGood": 1
+ },
+ {
+   "Answer": "4 витые пары",
+   "AnswerID": 2479,
+   "QuestionID": 387,
+   "IsGood": 0
+ },
+ {
+   "Answer": "2 витые паты",
+   "AnswerID": 2480,
+   "QuestionID": 387,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Полудуплексный",
+   "AnswerID": 2481,
+   "QuestionID": 389,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Дуплексный",
+   "AnswerID": 2482,
+   "QuestionID": 389,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Любой",
+   "AnswerID": 2483,
+   "QuestionID": 389,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Использование маркерного метода доступа к среде передачи данных.",
+   "AnswerID": 2484,
+   "QuestionID": 111,
+   "IsGood": 1
+ },
+ {
+   "Answer": "При доступе к среде передачи данных используется метод МДКН / ОС.",
+   "AnswerID": 2485,
+   "QuestionID": 111,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Использование метода гнездового опроса при доступе к среде передачи данных.",
+   "AnswerID": 2486,
+   "QuestionID": 111,
+   "IsGood": 0
+ },
+ {
+   "Answer": "За счет сокращения IPG",
+   "AnswerID": 2487,
+   "QuestionID": 385,
+   "IsGood": 1
+ },
+ {
+   "Answer": "За счет сокращения бит-тайма",
+   "AnswerID": 2489,
+   "QuestionID": 385,
+   "IsGood": 0
+ },
+ {
+   "Answer": "DIX - коннектор либо DB-15 коннектор",
+   "AnswerID": 2490,
+   "QuestionID": 102,
+   "IsGood": 1
+ },
+ {
+   "Answer": "RJ-45 коннектор",
+   "AnswerID": 2491,
+   "QuestionID": 102,
+   "IsGood": 0
+ },
+ {
+   "Answer": "BNC - коннектор",
+   "AnswerID": 2492,
+   "QuestionID": 102,
+   "IsGood": 0
+ },
+ {
+   "Answer": "TP - коннектор",
+   "AnswerID": 2493,
+   "QuestionID": 102,
+   "IsGood": 0
+ },
+ {
+   "Answer": "RJ-11 коннектор",
+   "AnswerID": 2494,
+   "QuestionID": 102,
+   "IsGood": 0
+ },
+ {
+   "Answer": "802.3 Ethernet или 802.5 Token Ring",
+   "AnswerID": 2495,
+   "QuestionID": 394,
+   "IsGood": 1
+ },
+ {
+   "Answer": "только кадров собственного формата IEEE 802.12",
+   "AnswerID": 2497,
+   "QuestionID": 394,
+   "IsGood": 0
+ },
+ {
+   "Answer": "скорость фильтрации",
+   "AnswerID": 2502,
+   "QuestionID": 398,
+   "IsGood": 1
+ },
+ {
+   "Answer": "скорость продвижения",
+   "AnswerID": 2503,
+   "QuestionID": 398,
+   "IsGood": 0
+ },
+ {
+   "Answer": "пропускная способность",
+   "AnswerID": 2504,
+   "QuestionID": 398,
+   "IsGood": 0
+ },
+ {
+   "Answer": "задержка передачи кадра",
+   "AnswerID": 2505,
+   "QuestionID": 398,
+   "IsGood": 0
+ },
+ {
+   "Answer": "мост",
+   "AnswerID": 2506,
+   "QuestionID": 116,
+   "IsGood": 1
+ },
+ {
+   "Answer": "концентратор",
+   "AnswerID": 2507,
+   "QuestionID": 116,
+   "IsGood": 0
+ },
+ {
+   "Answer": "повторитель",
+   "AnswerID": 2509,
+   "QuestionID": 116,
+   "IsGood": 0
+ },
+ {
+   "Answer": "500 метров",
+   "AnswerID": 2510,
+   "QuestionID": 382,
+   "IsGood": 1
+ },
+ {
+   "Answer": "100 метров",
+   "AnswerID": 2511,
+   "QuestionID": 382,
+   "IsGood": 0
+ },
+ {
+   "Answer": "2500 метров",
+   "AnswerID": 2512,
+   "QuestionID": 382,
+   "IsGood": 0
+ },
+ {
+   "Answer": "30",
+   "AnswerID": 2514,
+   "QuestionID": 383,
+   "IsGood": 1
+ },
+ {
+   "Answer": "1024",
+   "AnswerID": 2515,
+   "QuestionID": 383,
+   "IsGood": 0
+ },
+ {
+   "Answer": "128",
+   "AnswerID": 2516,
+   "QuestionID": 383,
+   "IsGood": 0
+ },
+ {
+   "Answer": "32",
+   "AnswerID": 2518,
+   "QuestionID": 383,
+   "IsGood": 0
+ },
+ {
+   "Answer": "10Base-5",
+   "AnswerID": 2519,
+   "QuestionID": 93,
+   "IsGood": 1
+ },
+ {
+   "Answer": "10Base-2",
+   "AnswerID": 2520,
+   "QuestionID": 93,
+   "IsGood": 0
+ },
+ {
+   "Answer": "100Base-F",
+   "AnswerID": 2522,
+   "QuestionID": 93,
+   "IsGood": 0
+ },
+ {
+   "Answer": "10Base-2",
+   "AnswerID": 2523,
+   "QuestionID": 94,
+   "IsGood": 1
+ },
+ {
+   "Answer": "10Base-5",
+   "AnswerID": 2524,
+   "QuestionID": 94,
+   "IsGood": 0
+ },
+ {
+   "Answer": "10Base-T",
+   "AnswerID": 2525,
+   "QuestionID": 94,
+   "IsGood": 0
+ },
+ {
+   "Answer": "10Base-5",
+   "AnswerID": 2527,
+   "QuestionID": 95,
+   "IsGood": 0
+ },
+ {
+   "Answer": "10Base-2",
+   "AnswerID": 2528,
+   "QuestionID": 95,
+   "IsGood": 0
+ },
+ {
+   "Answer": "10Base-T",
+   "AnswerID": 2529,
+   "QuestionID": 95,
+   "IsGood": 1
+ },
+ {
+   "Answer": "10Base-5",
+   "AnswerID": 2531,
+   "QuestionID": 96,
+   "IsGood": 0
+ },
+ {
+   "Answer": "10Base-2",
+   "AnswerID": 2532,
+   "QuestionID": 96,
+   "IsGood": 0
+ },
+ {
+   "Answer": "10Base-T",
+   "AnswerID": 2533,
+   "QuestionID": 96,
+   "IsGood": 0
+ },
+ {
+   "Answer": "100Base-T4",
+   "AnswerID": 2534,
+   "QuestionID": 96,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Gigabit Ethernet",
+   "AnswerID": 2536,
+   "QuestionID": 97,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Fast Ethernet",
+   "AnswerID": 2537,
+   "QuestionID": 97,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Ethernet",
+   "AnswerID": 2538,
+   "QuestionID": 97,
+   "IsGood": 0
+ },
+ {
+   "Answer": "<шина>",
+   "AnswerID": 2540,
+   "QuestionID": 98,
+   "IsGood": 0
+ },
+ {
+   "Answer": "<звезда>",
+   "AnswerID": 2541,
+   "QuestionID": 98,
+   "IsGood": 0
+ },
+ {
+   "Answer": "<шина> либо <звезда>",
+   "AnswerID": 2542,
+   "QuestionID": 98,
+   "IsGood": 1
+ },
+ {
+   "Answer": "<тонкий> коаксиальный кабель",
+   "AnswerID": 2544,
+   "QuestionID": 99,
+   "IsGood": 0
+ },
+ {
+   "Answer": "многомодовый волоконно-оптический кабель",
+   "AnswerID": 2545,
+   "QuestionID": 99,
+   "IsGood": 0
+ },
+ {
+   "Answer": "<толстый> коаксиальный кабель",
+   "AnswerID": 2546,
+   "QuestionID": 99,
+   "IsGood": 0
+ },
+ {
+   "Answer": "одномодовый волоконно-оптический кабель",
+   "AnswerID": 2548,
+   "QuestionID": 99,
+   "IsGood": 1
+ },
+ {
+   "Answer": "BNC - коннектор",
+   "AnswerID": 2549,
+   "QuestionID": 100,
+   "IsGood": 1
+ },
+ {
+   "Answer": "RJ-45 коннектор",
+   "AnswerID": 2550,
+   "QuestionID": 100,
+   "IsGood": 0
+ },
+ {
+   "Answer": "DIX - коннектор либо DB-15 коннектор",
+   "AnswerID": 2551,
+   "QuestionID": 100,
+   "IsGood": 0
+ },
+ {
+   "Answer": "TP - коннектор",
+   "AnswerID": 2552,
+   "QuestionID": 100,
+   "IsGood": 0
+ },
+ {
+   "Answer": "RJ-11 коннектор",
+   "AnswerID": 2553,
+   "QuestionID": 100,
+   "IsGood": 0
+ },
+ {
+   "Answer": "RJ-45 коннектор",
+   "AnswerID": 2554,
+   "QuestionID": 101,
+   "IsGood": 1
+ },
+ {
+   "Answer": "BNC - коннектор",
+   "AnswerID": 2555,
+   "QuestionID": 101,
+   "IsGood": 0
+ },
+ {
+   "Answer": "TP - коннектор",
+   "AnswerID": 2557,
+   "QuestionID": 101,
+   "IsGood": 0
+ },
+ {
+   "Answer": "RJ-11 коннектор",
+   "AnswerID": 2558,
+   "QuestionID": 101,
+   "IsGood": 0
+ },
+ {
+   "Answer": "повторитель",
+   "AnswerID": 2559,
+   "QuestionID": 103,
+   "IsGood": 1
+ },
+ {
+   "Answer": "мост",
+   "AnswerID": 2560,
+   "QuestionID": 103,
+   "IsGood": 0
+ },
+ {
+   "Answer": "трансивер",
+   "AnswerID": 2561,
+   "QuestionID": 103,
+   "IsGood": 0
+ },
+ {
+   "Answer": "коммутатор",
+   "AnswerID": 2562,
+   "QuestionID": 103,
+   "IsGood": 0
+ },
+ {
+   "Answer": "усилительный мост",
+   "AnswerID": 2563,
+   "QuestionID": 103,
+   "IsGood": 0
+ },
+ {
+   "Answer": "коммутатор",
+   "AnswerID": 2564,
+   "QuestionID": 104,
+   "IsGood": 1
+ },
+ {
+   "Answer": "трансивер",
+   "AnswerID": 2566,
+   "QuestionID": 104,
+   "IsGood": 0
+ },
+ {
+   "Answer": "повторитель",
+   "AnswerID": 2567,
+   "QuestionID": 104,
+   "IsGood": 0
+ },
+ {
+   "Answer": "мост",
+   "AnswerID": 2568,
+   "QuestionID": 104,
+   "IsGood": 0
+ },
+ {
+   "Answer": "10Base-2",
+   "AnswerID": 2569,
+   "QuestionID": 105,
+   "IsGood": 1
+ },
+ {
+   "Answer": "10Base-5",
+   "AnswerID": 2570,
+   "QuestionID": 105,
+   "IsGood": 0
+ },
+ {
+   "Answer": "100Base-F",
+   "AnswerID": 2572,
+   "QuestionID": 105,
+   "IsGood": 0
+ },
+ {
+   "Answer": "2",
+   "AnswerID": 2573,
+   "QuestionID": 419,
+   "IsGood": 1
+ },
+ {
+   "Answer": "4",
+   "AnswerID": 2574,
+   "QuestionID": 419,
+   "IsGood": 0
+ },
+ {
+   "Answer": "MAC-адрес станции получателя",
+   "AnswerID": 2576,
+   "QuestionID": 420,
+   "IsGood": 1
+ },
+ {
+   "Answer": "МАС-адрес станции источника",
+   "AnswerID": 2577,
+   "QuestionID": 420,
+   "IsGood": 0
+ },
+ {
+   "Answer": "IP-адрес узла назначения",
+   "AnswerID": 2578,
+   "QuestionID": 420,
+   "IsGood": 0
+ },
+ {
+   "Answer": "единиц (11111111)",
+   "AnswerID": 2580,
+   "QuestionID": 421,
+   "IsGood": 0
+ },
+ {
+   "Answer": "нулей и единиц (01010101)",
+   "AnswerID": 2581,
+   "QuestionID": 421,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Скорость передачи данных в Mбит/с",
+   "AnswerID": 2582,
+   "QuestionID": 422,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Скорость модуляции в Мбод",
+   "AnswerID": 2583,
+   "QuestionID": 422,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Максимальное число рабочих станций в сегменте",
+   "AnswerID": 2584,
+   "QuestionID": 422,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Метод передачи в основной полосе частот",
+   "AnswerID": 2585,
+   "QuestionID": 423,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Обязательное наличие базовой станции или сервера",
+   "AnswerID": 2587,
+   "QuestionID": 423,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Максимальная длина сегмента - 185 м",
+   "AnswerID": 2588,
+   "QuestionID": 424,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Максимальная длина сегмента - 200 м",
+   "AnswerID": 2589,
+   "QuestionID": 424,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Максимальное число повторителей",
+   "AnswerID": 2590,
+   "QuestionID": 424,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Минимальное число рабочих станций",
+   "AnswerID": 2591,
+   "QuestionID": 424,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Звездообразную",
+   "AnswerID": 2592,
+   "QuestionID": 425,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Шинную",
+   "AnswerID": 2593,
+   "QuestionID": 425,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Кольцевую",
+   "AnswerID": 2594,
+   "QuestionID": 425,
+   "IsGood": 0
+ },
+ {
+   "Answer": "1,5 м",
+   "AnswerID": 2596,
+   "QuestionID": 426,
+   "IsGood": 0
+ },
+ {
+   "Answer": "0,6 м",
+   "AnswerID": 2597,
+   "QuestionID": 426,
+   "IsGood": 0
+ },
+ {
+   "Answer": "15 м",
+   "AnswerID": 2598,
+   "QuestionID": 426,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Нет",
+   "AnswerID": 2600,
+   "QuestionID": 427,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Нет",
+   "AnswerID": 2601,
+   "QuestionID": 428,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Да",
+   "AnswerID": 2602,
+   "QuestionID": 428,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Нет",
+   "AnswerID": 2604,
+   "QuestionID": 429,
+   "IsGood": 0
+ },
+ {
+   "Answer": "2 UTP Cat.5",
+   "AnswerID": 2605,
+   "QuestionID": 430,
+   "IsGood": 1
+ },
+ {
+   "Answer": "4 STP Type 1",
+   "AnswerID": 2607,
+   "QuestionID": 430,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Да, по одному на каждый порт",
+   "AnswerID": 2608,
+   "QuestionID": 431,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Да, один, которым подключен в сети Ethernet",
+   "AnswerID": 2609,
+   "QuestionID": 431,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Нет",
+   "AnswerID": 2610,
+   "QuestionID": 431,
+   "IsGood": 0
+ },
+ {
+   "Answer": "4",
+   "AnswerID": 2612,
+   "QuestionID": 432,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Не разделяет",
+   "AnswerID": 2613,
+   "QuestionID": 432,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Эволюционным развитием классической технологии Ethernet.",
+   "AnswerID": 2614,
+   "QuestionID": 433,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Использовать систему MPOA, работающую по архитектуре клиент-сервер.",
+   "AnswerID": 2616,
+   "QuestionID": 173,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Использовать только прямые виртуальные соединения (VCC).",
+   "AnswerID": 2617,
+   "QuestionID": 173,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Использовать программный компонент виртуальной сети (LAN Emulation Toolkit).",
+   "AnswerID": 2618,
+   "QuestionID": 173,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Использовать интеллектуальные промежуточные коммутаторы, работающие по технологии FEC (Forward Explicit Congestion).",
+   "AnswerID": 2619,
+   "QuestionID": 173,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Механизм альтернативной маршрутизации.",
+   "AnswerID": 2620,
+   "QuestionID": 177,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Механизм посегментарного кодирования.",
+   "AnswerID": 2621,
+   "QuestionID": 177,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Протокол коррекции RFC 1356 фирмы Motorola.",
+   "AnswerID": 2623,
+   "QuestionID": 177,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Такой возможности нет, но существует механизм многоадресной рассылки.",
+   "AnswerID": 2624,
+   "QuestionID": 179,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Возможно при использовании дополнительного оборудования - сервера LBS (LAN Broadcast Server).",
+   "AnswerID": 2625,
+   "QuestionID": 179,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Возможно при использовании дополнительного оборудования - транзитных ATM LAN коммутаторов.",
+   "AnswerID": 2626,
+   "QuestionID": 179,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Эта возможность является стандартной для технологии АТМ (использования дополнительного оборудования не требуется).",
+   "AnswerID": 2627,
+   "QuestionID": 179,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Нет",
+   "AnswerID": 2628,
+   "QuestionID": 281,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Да",
+   "AnswerID": 2629,
+   "QuestionID": 281,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Только для оповещения передающей стороны.",
+   "AnswerID": 2630,
+   "QuestionID": 281,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Только для оповещения принимающей стороны.",
+   "AnswerID": 2631,
+   "QuestionID": 281,
+   "IsGood": 0
+ },
+ {
+   "Answer": "25 Мбод",
+   "AnswerID": 2632,
+   "QuestionID": 386,
+   "IsGood": 1
+ },
+ {
+   "Answer": "100 Мбод",
+   "AnswerID": 2633,
+   "QuestionID": 386,
+   "IsGood": 0
+ },
+ {
+   "Answer": "33,3 Мбит/с",
+   "AnswerID": 2635,
+   "QuestionID": 386,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Да.",
+   "AnswerID": 2636,
+   "QuestionID": 142,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Нет.",
+   "AnswerID": 2637,
+   "QuestionID": 142,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Сеть не будет гарантировать доставку данных такого пользователя.",
+   "AnswerID": 2638,
+   "QuestionID": 149,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Сеть будет перегружена, и ни один пользователь не сможет работать.",
+   "AnswerID": 2640,
+   "QuestionID": 149,
+   "IsGood": 0
+ },
+ {
+   "Answer": "На работе сети это не отразится, при этом данные быстрее поступят к адресату.",
+   "AnswerID": 2641,
+   "QuestionID": 149,
+   "IsGood": 0
+ },
+ {
+   "Answer": "До 1024.",
+   "AnswerID": 2642,
+   "QuestionID": 150,
+   "IsGood": 1
+ },
+ {
+   "Answer": "До 512.",
+   "AnswerID": 2643,
+   "QuestionID": 150,
+   "IsGood": 0
+ },
+ {
+   "Answer": "До 2048.",
+   "AnswerID": 2644,
+   "QuestionID": 150,
+   "IsGood": 0
+ },
+ {
+   "Answer": "До 4096.",
+   "AnswerID": 2645,
+   "QuestionID": 150,
+   "IsGood": 0
+ },
+ {
+   "Answer": "отбрасываются",
+   "AnswerID": 2647,
+   "QuestionID": 434,
+   "IsGood": 0
+ },
+ {
+   "Answer": "передаются дальше по сети, если суммарный объем трафика не превысил дополнительного объема пульсаций",
+   "AnswerID": 2648,
+   "QuestionID": 434,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Объем пользовательских данных за время Тпревысил согласованный, но не превысил сумму согласованного и дополнительного объемов пульсаций.",
+   "AnswerID": 2649,
+   "QuestionID": 435,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Суммарный трафик пользователя за время Тпревысил согласованный объем пульсаций",
+   "AnswerID": 2650,
+   "QuestionID": 435,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Передача данных пользователя ведется на скорости большей, чем CIR.",
+   "AnswerID": 2651,
+   "QuestionID": 435,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Суммарный объем пользовательских данных за время Т превысил порог Вс.",
+   "AnswerID": 2652,
+   "QuestionID": 436,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Суммарный объем пользовательских данных за время Т превысил сумму согласованного и дополнительного объемов пульсаций",
+   "AnswerID": 2653,
+   "QuestionID": 436,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Скорость передачи пользовательских данных превысила согласованную скорость CIR",
+   "AnswerID": 2654,
+   "QuestionID": 436,
+   "IsGood": 0
+ },
+ {
+   "Answer": "отбрасываются при превышении порога Вс за время Т, если в сети наблюдаются перегрузки",
+   "AnswerID": 2655,
+   "QuestionID": 437,
+   "IsGood": 1
+ },
+ {
+   "Answer": "передаются по сети в любой ситуации",
+   "AnswerID": 2656,
+   "QuestionID": 437,
+   "IsGood": 0
+ },
+ {
+   "Answer": "отбрасываются, если скорость передачи пользовательских данных превысила CIR",
+   "AnswerID": 2657,
+   "QuestionID": 437,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Дополнительный объем пульсаций - Ве",
+   "AnswerID": 2658,
+   "QuestionID": 438,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Согласованный объем пульсаций - Вс и дополнительный объем пульсаций - Ве",
+   "AnswerID": 2659,
+   "QuestionID": 438,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Контрольный интервал времени - Т",
+   "AnswerID": 2660,
+   "QuestionID": 438,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Нет",
+   "AnswerID": 2661,
+   "QuestionID": 439,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Да",
+   "AnswerID": 2662,
+   "QuestionID": 439,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Асинхронный подход к передаче кадров.",
+   "AnswerID": 2663,
+   "QuestionID": 440,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Ориентация на передачу голоса",
+   "AnswerID": 2664,
+   "QuestionID": 440,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Применение метода частотного разделения каналов",
+   "AnswerID": 2665,
+   "QuestionID": 440,
+   "IsGood": 0
+ },
+ {
+   "Answer": "63",
+   "AnswerID": 2666,
+   "QuestionID": 441,
+   "IsGood": 1
+ },
+ {
+   "Answer": "32",
+   "AnswerID": 2668,
+   "QuestionID": 441,
+   "IsGood": 0
+ },
+ {
+   "Answer": "1",
+   "AnswerID": 2669,
+   "QuestionID": 441,
+   "IsGood": 0
+ },
+ {
+   "Answer": "128",
+   "AnswerID": 2670,
+   "QuestionID": 441,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Коммутатор",
+   "AnswerID": 2672,
+   "QuestionID": 442,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Маршрутизатор",
+   "AnswerID": 2673,
+   "QuestionID": 442,
+   "IsGood": 0
+ },
+ {
+   "Answer": "трибутарными",
+   "AnswerID": 2674,
+   "QuestionID": 443,
+   "IsGood": 1
+ },
+ {
+   "Answer": "агрегатными",
+   "AnswerID": 2675,
+   "QuestionID": 443,
+   "IsGood": 0
+ },
+ {
+   "Answer": "периферийными",
+   "AnswerID": 2677,
+   "QuestionID": 443,
+   "IsGood": 0
+ },
+ {
+   "Answer": "линейными",
+   "AnswerID": 2678,
+   "QuestionID": 444,
+   "IsGood": 1
+ },
+ {
+   "Answer": "трибутарными",
+   "AnswerID": 2679,
+   "QuestionID": 444,
+   "IsGood": 0
+ },
+ {
+   "Answer": "портами ввода-вывода",
+   "AnswerID": 2680,
+   "QuestionID": 444,
+   "IsGood": 0
+ },
+ {
+   "Answer": "пользовательскими",
+   "AnswerID": 2681,
+   "QuestionID": 444,
+   "IsGood": 0
+ },
+ {
+   "Answer": "терминальный",
+   "AnswerID": 2682,
+   "QuestionID": 445,
+   "IsGood": 1
+ },
+ {
+   "Answer": "DXC - мультиплексор",
+   "AnswerID": 2684,
+   "QuestionID": 445,
+   "IsGood": 0
+ },
+ {
+   "Answer": "мультиплексор ввода-вывода",
+   "AnswerID": 2685,
+   "QuestionID": 446,
+   "IsGood": 1
+ },
+ {
+   "Answer": "терминальный мультиплексор",
+   "AnswerID": 2686,
+   "QuestionID": 446,
+   "IsGood": 0
+ },
+ {
+   "Answer": "коммутатор трибутарных потоков",
+   "AnswerID": 2687,
+   "QuestionID": 446,
+   "IsGood": 0
+ },
+ {
+   "Answer": "VPN-маршрутизатор",
+   "AnswerID": 2688,
+   "QuestionID": 446,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Рида-Соломона",
+   "AnswerID": 2696,
+   "QuestionID": 449,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Хаффмена",
+   "AnswerID": 2698,
+   "QuestionID": 449,
+   "IsGood": 0
+ },
+ {
+   "Answer": "VDSL",
+   "AnswerID": 2699,
+   "QuestionID": 450,
+   "IsGood": 1
+ },
+ {
+   "Answer": "SDSL",
+   "AnswerID": 2700,
+   "QuestionID": 450,
+   "IsGood": 0
+ },
+ {
+   "Answer": "ADSL",
+   "AnswerID": 2701,
+   "QuestionID": 450,
+   "IsGood": 0
+ },
+ {
+   "Answer": "ISDN-BA",
+   "AnswerID": 2703,
+   "QuestionID": 450,
+   "IsGood": 0
+ },
+ {
+   "Answer": "ни один голосовой канал не занимается под передачу данных целиком",
+   "AnswerID": 2707,
+   "QuestionID": 452,
+   "IsGood": 1
+ },
+ {
+   "Answer": "каждый голосовой канал выделяет фиксированное время на передачу данных",
+   "AnswerID": 2708,
+   "QuestionID": 452,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Нет",
+   "AnswerID": 2710,
+   "QuestionID": 453,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Да",
+   "AnswerID": 2711,
+   "QuestionID": 453,
+   "IsGood": 0
+ },
+ {
+   "Answer": "VoIP шлюз (Gateway) соединяющий Интернет с телефонной сетью.",
+   "AnswerID": 2712,
+   "QuestionID": 454,
+   "IsGood": 1
+ },
+ {
+   "Answer": "VoIP шлюз (Gateway) соединяющий локальную частную сеть с телефонной сетью.",
+   "AnswerID": 2713,
+   "QuestionID": 454,
+   "IsGood": 0
+ },
+ {
+   "Answer": "VoIP коммутатор (Switch) соединяющий Интернет с учрежденческой телефонной сетью.",
+   "AnswerID": 2714,
+   "QuestionID": 454,
+   "IsGood": 0
+ },
+ {
+   "Answer": "VoIP шлюз (Gateway)",
+   "AnswerID": 2715,
+   "QuestionID": 455,
+   "IsGood": 1
+ },
+ {
+   "Answer": "VoIP коммутатор (Switch)",
+   "AnswerID": 2716,
+   "QuestionID": 455,
+   "IsGood": 0
+ },
+ {
+   "Answer": "ADM (Add-Drop-Multiplexor)",
+   "AnswerID": 2717,
+   "QuestionID": 455,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Машина-привратник (Gatekeeper)",
+   "AnswerID": 2718,
+   "QuestionID": 456,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Машина-шлюз (VoIP-gateway)",
+   "AnswerID": 2719,
+   "QuestionID": 456,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Машина-контроллер зоны IP-телефонии",
+   "AnswerID": 2720,
+   "QuestionID": 456,
+   "IsGood": 0
+ },
+ {
+   "Answer": "RTP (Real Time Protocol )",
+   "AnswerID": 2721,
+   "QuestionID": 457,
+   "IsGood": 1
+ },
+ {
+   "Answer": "RTCP (Real Time Control Protocol)",
+   "AnswerID": 2722,
+   "QuestionID": 457,
+   "IsGood": 0
+ },
+ {
+   "Answer": "UDP (User Datagramm Protocol)",
+   "AnswerID": 2723,
+   "QuestionID": 457,
+   "IsGood": 0
+ },
+ {
+   "Answer": "командную и речевую",
+   "AnswerID": 2725,
+   "QuestionID": 458,
+   "IsGood": 1
+ },
+ {
+   "Answer": "речевую и видео",
+   "AnswerID": 2726,
+   "QuestionID": 458,
+   "IsGood": 0
+ },
+ {
+   "Answer": "маршрутную и речевую",
+   "AnswerID": 2727,
+   "QuestionID": 458,
+   "IsGood": 0
+ },
+ {
+   "Answer": "коммутации каналов",
+   "AnswerID": 2728,
+   "QuestionID": 459,
+   "IsGood": 1
+ },
+ {
+   "Answer": "коммутации пакетов",
+   "AnswerID": 2729,
+   "QuestionID": 459,
+   "IsGood": 0
+ },
+ {
+   "Answer": "коммутации сообщений",
+   "AnswerID": 2730,
+   "QuestionID": 459,
+   "IsGood": 0
+ },
+ {
+   "Answer": "спектр частот видимого диапазона",
+   "AnswerID": 2732,
+   "QuestionID": 460,
+   "IsGood": 0
+ },
+ {
+   "Answer": "поток заряженных частиц",
+   "AnswerID": 2733,
+   "QuestionID": 460,
+   "IsGood": 0
+ },
+ {
+   "Answer": "заполняя пустоты в промежутках между разговорами абонентов (не используемые в данный момент голосовые каналы)",
+   "AnswerID": 2738,
+   "QuestionID": 462,
+   "IsGood": 1
+ },
+ {
+   "Answer": "смешиваясь с голосовым трафиком",
+   "AnswerID": 2739,
+   "QuestionID": 462,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Голосовой",
+   "AnswerID": 2741,
+   "QuestionID": 463,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Трафик данных",
+   "AnswerID": 2742,
+   "QuestionID": 463,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Все трафики равноправны",
+   "AnswerID": 2743,
+   "QuestionID": 463,
+   "IsGood": 0
+ },
+ {
+   "Answer": "туннельного протокола GTP (GPRS Tunneling Protocol)",
+   "AnswerID": 2744,
+   "QuestionID": 464,
+   "IsGood": 1
+ },
+ {
+   "Answer": "протокола шифрования GCP (GPRS Coding Protocol)",
+   "AnswerID": 2745,
+   "QuestionID": 464,
+   "IsGood": 0
+ },
+ {
+   "Answer": "протокола VoIP (Voce over IP)",
+   "AnswerID": 2746,
+   "QuestionID": 464,
+   "IsGood": 0
+ },
+ {
+   "Answer": "протокола MPOA (MultiProtocol over ATM)",
+   "AnswerID": 2747,
+   "QuestionID": 464,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Развитие технологий цифровой обработки сигнала в сочетании с новейшими алгоритмами и технологиями кодирования.",
+   "AnswerID": 2748,
+   "QuestionID": 465,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Улучшение качества каналов связи в телефонной сети.",
+   "AnswerID": 2750,
+   "QuestionID": 465,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Определяется ее относительным временным положением внутри составного кадра",
+   "AnswerID": 2754,
+   "QuestionID": 467,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Явным адресом, как это происходит в сетях с коммутацией пакетов",
+   "AnswerID": 2755,
+   "QuestionID": 467,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Номером трибутарного потока.",
+   "AnswerID": 2756,
+   "QuestionID": 467,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Системой плавающих указателей и концепцией виртуальных контейнеров.",
+   "AnswerID": 2757,
+   "QuestionID": 468,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Системой административных и трибутарных блоков.",
+   "AnswerID": 2758,
+   "QuestionID": 468,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Самой технологией TDM (Time Division Multiplexing)",
+   "AnswerID": 2759,
+   "QuestionID": 468,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Схема 1+1 говорит о том, что резервный элемент выполняет те же функции, что и основной, а в схеме 1:1 резервный элемент простаивает до момента выхода из строя основного.",
+   "AnswerID": 2760,
+   "QuestionID": 469,
+   "IsGood": 1
+ },
+ {
+   "Answer": "В схеме 1+1 два потока мультиплексируются в один, в схеме 1:1 нет.",
+   "AnswerID": 2761,
+   "QuestionID": 469,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Схема 1+1 используется для защиты портов, а схема 1:1 - для защиты путей трафика.",
+   "AnswerID": 2762,
+   "QuestionID": 469,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Аналоговые",
+   "AnswerID": 2763,
+   "QuestionID": 470,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Цифровые",
+   "AnswerID": 2764,
+   "QuestionID": 470,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Контейнеры С-n",
+   "AnswerID": 2765,
+   "QuestionID": 471,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Трибутарные блоки TU-n",
+   "AnswerID": 2767,
+   "QuestionID": 471,
+   "IsGood": 0
+ },
+ {
+   "Answer": "трибы (трибутарные потоки) размещаются в виртуальных контейнерах на границе сети SDH",
+   "AnswerID": 2768,
+   "QuestionID": 472,
+   "IsGood": 1
+ },
+ {
+   "Answer": "фреймовая информация смещения включается в трибутарные (TU) или административные (AU) блоки, устанавливая указатель в кадре соответствующего уровня",
+   "AnswerID": 2769,
+   "QuestionID": 472,
+   "IsGood": 0
+ },
+ {
+   "Answer": "сигнальная информация каналов нижнего уровня упорядочивается в канале более высокого уровня или упорядоченный канал высокого уровня размещается внутри мультиплексной секции",
+   "AnswerID": 2770,
+   "QuestionID": 472,
+   "IsGood": 0
+ },
+ {
+   "Answer": "фреймовая информация смещения включается в трибутарные (TU) или административные (AU) блоки, устанавливая указатель в кадре соответствующего уровня",
+   "AnswerID": 2771,
+   "QuestionID": 473,
+   "IsGood": 1
+ },
+ {
+   "Answer": "трибы (трибутарные потоки) размещаются в виртуальных контейнерах на границе сети SDH",
+   "AnswerID": 2772,
+   "QuestionID": 473,
+   "IsGood": 0
+ },
+ {
+   "Answer": "сигнальная информация каналов нижнего уровня упорядочивается в канале более высокого уровня или упорядоченный канал высокого уровня размещается внутри мультиплексной секции",
+   "AnswerID": 2773,
+   "QuestionID": 473,
+   "IsGood": 0
+ },
+ {
+   "Answer": "процедура, при помощи которой трибы (трибутарные потоки) размещаются в виртуальных контейнерах на границе сети SDH",
+   "AnswerID": 2775,
+   "QuestionID": 474,
+   "IsGood": 0
+ },
+ {
+   "Answer": "фреймовая информация смещения включается в трибутарные (TU) или административные (AU) блоки, устанавливая указатель в кадре соответствующего уровня",
+   "AnswerID": 2776,
+   "QuestionID": 474,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Регенератор",
+   "AnswerID": 2777,
+   "QuestionID": 475,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Репитер",
+   "AnswerID": 2778,
+   "QuestionID": 475,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Повторитель",
+   "AnswerID": 2779,
+   "QuestionID": 475,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Усилитель",
+   "AnswerID": 2780,
+   "QuestionID": 475,
+   "IsGood": 0
+ },
+ {
+   "Answer": "По схеме 1+1",
+   "AnswerID": 2781,
+   "QuestionID": 476,
+   "IsGood": 1
+ },
+ {
+   "Answer": "По схеме 1:N",
+   "AnswerID": 2782,
+   "QuestionID": 476,
+   "IsGood": 0
+ },
+ {
+   "Answer": "По схеме 1:1",
+   "AnswerID": 2783,
+   "QuestionID": 476,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Трибутарный трафик, помещенный в виртуальный контейнер определенного типа",
+   "AnswerID": 2784,
+   "QuestionID": 477,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Мультиплексная секция, включая регенераторы",
+   "AnswerID": 2785,
+   "QuestionID": 477,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Трибутарные карты мультиплексоров",
+   "AnswerID": 2786,
+   "QuestionID": 477,
+   "IsGood": 0
+ },
+ {
+   "Answer": "В любых, где имеются альтернативные пути следования трафика",
+   "AnswerID": 2787,
+   "QuestionID": 478,
+   "IsGood": 1
+ },
+ {
+   "Answer": "В топологии кольцо",
+   "AnswerID": 2788,
+   "QuestionID": 478,
+   "IsGood": 0
+ },
+ {
+   "Answer": "В топологии цепь",
+   "AnswerID": 2789,
+   "QuestionID": 478,
+   "IsGood": 0
+ },
+ {
+   "Answer": "В ячеистой топологии",
+   "AnswerID": 2790,
+   "QuestionID": 478,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Stratum 2",
+   "AnswerID": 2799,
+   "QuestionID": 481,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Stratum 1",
+   "AnswerID": 2800,
+   "QuestionID": 481,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Stratum 3",
+   "AnswerID": 2801,
+   "QuestionID": 481,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Stratum 4",
+   "AnswerID": 2802,
+   "QuestionID": 481,
+   "IsGood": 0
+ },
+ {
+   "Answer": "позволяет использовать ту же самую пару проводов для традиционной телефонной связи.",
+   "AnswerID": 2803,
+   "QuestionID": 482,
+   "IsGood": 1
+ },
+ {
+   "Answer": "не позволяет использовать ту же самую пару проводов для традиционной телефонной связи.",
+   "AnswerID": 2804,
+   "QuestionID": 482,
+   "IsGood": 0
+ },
+ {
+   "Answer": "использует только один из В-каналов BRI интерфейса",
+   "AnswerID": 2805,
+   "QuestionID": 482,
+   "IsGood": 0
+ },
+ {
+   "Answer": "использует 2B+D каналы BRI интерфейса",
+   "AnswerID": 2806,
+   "QuestionID": 482,
+   "IsGood": 0
+ },
+ {
+   "Answer": "одинакового приоритета",
+   "AnswerID": 2807,
+   "QuestionID": 483,
+   "IsGood": 1
+ },
+ {
+   "Answer": "одинакового размера",
+   "AnswerID": 2808,
+   "QuestionID": 483,
+   "IsGood": 0
+ },
+ {
+   "Answer": "коллизии отсутствуют",
+   "AnswerID": 2809,
+   "QuestionID": 483,
+   "IsGood": 0
+ },
+ {
+   "Answer": "временное уплотнение линий связи (Time Division Multiplexing -TDM)",
+   "AnswerID": 2811,
+   "QuestionID": 448,
+   "IsGood": 0
+ },
+ {
+   "Answer": "множественный доступ с кодовым разделением (Code Division Multiple Access - CDMA)",
+   "AnswerID": 2812,
+   "QuestionID": 448,
+   "IsGood": 0
+ },
+ {
+   "Answer": "не только возможностями сетевого и абонентского оборудования, но и загрузкой сети",
+   "AnswerID": 2813,
+   "QuestionID": 451,
+   "IsGood": 1
+ },
+ {
+   "Answer": "только загрузкой сети голосовым трафиком",
+   "AnswerID": 2814,
+   "QuestionID": 451,
+   "IsGood": 0
+ },
+ {
+   "Answer": "только качеством каналов связи",
+   "AnswerID": 2815,
+   "QuestionID": 451,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Разделяемая защита кольца (Multiplex Section Shared Protection Ring, MS-SPRing)",
+   "AnswerID": 2816,
+   "QuestionID": 479,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Защита соединения (Sub-Network Connection Protection, SNC-P)",
+   "AnswerID": 2817,
+   "QuestionID": 479,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Защита мультиплексной секции (Multiplex Section Protection, MSP);",
+   "AnswerID": 2818,
+   "QuestionID": 479,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Защита блоков и элементов оборудования SDH (Equipment Protection Switching, EPS)",
+   "AnswerID": 2819,
+   "QuestionID": 479,
+   "IsGood": 0
+ },
+ {
+   "Answer": "При смешанном распределении трафика",
+   "AnswerID": 2820,
+   "QuestionID": 480,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Если весь трафик сходится в один мультиплексор",
+   "AnswerID": 2821,
+   "QuestionID": 480,
+   "IsGood": 0
+ },
+ {
+   "Answer": "В случае резервирования половины пропускной способности кольца",
+   "AnswerID": 2822,
+   "QuestionID": 480,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Bridge и CSU/DSU",
+   "AnswerID": 2823,
+   "QuestionID": 466,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Switch и DCU",
+   "AnswerID": 2824,
+   "QuestionID": 466,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Bridge и CSU",
+   "AnswerID": 2825,
+   "QuestionID": 466,
+   "IsGood": 0
+ },
+ {
+   "Answer": "64 кбит/с",
+   "AnswerID": 2827,
+   "QuestionID": 447,
+   "IsGood": 0
+ },
+ {
+   "Answer": "1024 кбит/с",
+   "AnswerID": 2828,
+   "QuestionID": 447,
+   "IsGood": 0
+ },
+ {
+   "Answer": "1544 кбит/с",
+   "AnswerID": 2829,
+   "QuestionID": 447,
+   "IsGood": 0
+ },
+ {
+   "Answer": "сама технология DWDM не занимается непосредственно кодированием передаваемой информации",
+   "AnswerID": 2830,
+   "QuestionID": 461,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Метод 4В5В",
+   "AnswerID": 2832,
+   "QuestionID": 461,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Метод NRZ",
+   "AnswerID": 2833,
+   "QuestionID": 461,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Матрица останется порождающей",
+   "AnswerID": 2834,
+   "QuestionID": 344,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Матрица преобразуется в проверочную",
+   "AnswerID": 2835,
+   "QuestionID": 344,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Матрица примет канонический вид",
+   "AnswerID": 2836,
+   "QuestionID": 344,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Ethernet",
+   "AnswerID": 2837,
+   "QuestionID": 484,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Token Ring",
+   "AnswerID": 2838,
+   "QuestionID": 484,
+   "IsGood": 0
+ },
+ {
+   "Answer": "100VG-AnyLAN",
+   "AnswerID": 2839,
+   "QuestionID": 484,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Frame Relay",
+   "AnswerID": 2840,
+   "QuestionID": 484,
+   "IsGood": 0
+ },
+ {
+   "Answer": "качество каналов связи, составляющих маршрут",
+   "AnswerID": 2842,
+   "QuestionID": 7,
+   "IsGood": 0
+ },
+ {
+   "Answer": "время передачи данных по этому маршруту",
+   "AnswerID": 2843,
+   "QuestionID": 7,
+   "IsGood": 1
+ },
+ {
+   "Answer": "длина очереди в узлах сети",
+   "AnswerID": 2844,
+   "QuestionID": 7,
+   "IsGood": 0
+ },
+ {
+   "Answer": "объединение данных и операций для описания новых типов, позволяющие использовать новые типы наравне с уже существующими",
+   "AnswerID": 2846,
+   "QuestionID": 19,
+   "IsGood": 0
+ },
+ {
+   "Answer": "позволяет при создании новых объектов использовать свойства уже существующих объектов, описывая заново только те свойства, которые отличаются",
+   "AnswerID": 2847,
+   "QuestionID": 19,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Применение специальных методов и алгоритмов доступа к среде передачи",
+   "AnswerID": 2848,
+   "QuestionID": 20,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Состав компонентов сетевого программного обеспечения (ПО) и связи между ними",
+   "AnswerID": 2849,
+   "QuestionID": 20,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Распределение компонентов логической структуры по различным ЗВМ",
+   "AnswerID": 2850,
+   "QuestionID": 20,
+   "IsGood": 0
+ },
+ {
+   "Answer": "C = 2B*log2(M) [байт/с]",
+   "AnswerID": 2851,
+   "QuestionID": 84,
+   "IsGood": 0
+ },
+ {
+   "Answer": "C = 2B*log2(M) [бит/с]",
+   "AnswerID": 2852,
+   "QuestionID": 84,
+   "IsGood": 1
+ },
+ {
+   "Answer": "C = В*log2(1+SNP) [бит/с]",
+   "AnswerID": 2853,
+   "QuestionID": 84,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Сеть FDDI строится на базе двух оптоволоконных колец.",
+   "AnswerID": 1001,
+   "QuestionID": 112,
+   "IsGood": 1
+ },
+ {
+   "Answer": "мост",
+   "AnswerID": 1017,
+   "QuestionID": 117,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Для предотвращения отражения электрических сигналов в кабеле.",
+   "AnswerID": 1021,
+   "QuestionID": 119,
+   "IsGood": 1
+ },
+ {
+   "Answer": "10Base-FL",
+   "AnswerID": 1046,
+   "QuestionID": 124,
+   "IsGood": 0
+ },
+ {
+   "Answer": "64 байт",
+   "AnswerID": 1050,
+   "QuestionID": 125,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Обеспечить доступ всех пользователей сети к широковещательным доменам на базе маршрутизаторов.",
+   "AnswerID": 1058,
+   "QuestionID": 128,
+   "IsGood": 0
+ },
+ {
+   "Answer": "на транспортном уровне",
+   "AnswerID": 1076,
+   "QuestionID": 133,
+   "IsGood": 0
+ },
+ {
+   "Answer": "10Base-T и 100Base-ТХ",
+   "AnswerID": 1083,
+   "QuestionID": 135,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Да.",
+   "AnswerID": 1090,
+   "QuestionID": 138,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Нет, в любом случае.",
+   "AnswerID": 1094,
+   "QuestionID": 140,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Нет",
+   "AnswerID": 1103,
+   "QuestionID": 145,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Они обеспечивают передачу управляющей информации.",
+   "AnswerID": 1107,
+   "QuestionID": 147,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Сеть из цифровых телефонных станций, соединенных друг с другом цифровыми каналами связи.",
+   "AnswerID": 1126,
+   "QuestionID": 152,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Наличие физических каналов связи.",
+   "AnswerID": 1143,
+   "QuestionID": 156,
+   "IsGood": 0
+ },
+ {
+   "Answer": "ADC.",
+   "AnswerID": 1152,
+   "QuestionID": 159,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Использование пакетов, длина которых адаптивно изменяется в зависимости от качества каналов связи (resized cells).",
+   "AnswerID": 1156,
+   "QuestionID": 160,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Форматы адресов источника и получателя в пакетах сетей рекомендации X.25.",
+   "AnswerID": 1181,
+   "QuestionID": 166,
+   "IsGood": 1
+ },
+ {
+   "Answer": "X.25.",
+   "AnswerID": 1208,
+   "QuestionID": 171,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Для обеспечения совместной работы сетей Ethernet и ATM на канальном уровне.",
+   "AnswerID": 1212,
+   "QuestionID": 172,
+   "IsGood": 1
+ },
+ {
+   "Answer": "В случае, если коммутаторы сети не испытывают перегрузки.",
+   "AnswerID": 1236,
+   "QuestionID": 178,
+   "IsGood": 1
+ },
+ {
+   "Answer": "SMTP",
+   "AnswerID": 1252,
+   "QuestionID": 185,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Прикладной",
+   "AnswerID": 1256,
+   "QuestionID": 186,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Основному уровню",
+   "AnswerID": 1260,
+   "QuestionID": 187,
+   "IsGood": 1
+ },
+ {
+   "Answer": "01111110",
+   "AnswerID": 1266,
+   "QuestionID": 189,
+   "IsGood": 1
+ },
+ {
+   "Answer": "SLIP",
+   "AnswerID": 1271,
+   "QuestionID": 190,
+   "IsGood": 0
+ },
+ {
+   "Answer": "перевода станций в IP-сети в режим ожидания.",
+   "AnswerID": 1275,
+   "QuestionID": 191,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Класса С",
+   "AnswerID": 1285,
+   "QuestionID": 194,
+   "IsGood": 0
+ },
+ {
+   "Answer": "состояния занятости",
+   "AnswerID": 1303,
+   "QuestionID": 200,
+   "IsGood": 1
+ },
+ {
+   "Answer": "указание алгоритмам маршрутизации",
+   "AnswerID": 1315,
+   "QuestionID": 204,
+   "IsGood": 1
+ },
+ {
+   "Answer": "255.255.255.255",
+   "AnswerID": 1337,
+   "QuestionID": 210,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Когда более двух сетей объеденены при помощи коммутатора.",
+   "AnswerID": 1358,
+   "QuestionID": 214,
+   "IsGood": 0
+ },
+ {
+   "Answer": "после каждого принятого фрагмента",
+   "AnswerID": 1394,
+   "QuestionID": 225,
+   "IsGood": 0
+ },
+ {
+   "Answer": "в каждой строке указана метрика (расстояние) до соответствующего маршрутизатора сети",
+   "AnswerID": 1400,
+   "QuestionID": 227,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Возможна.",
+   "AnswerID": 1417,
+   "QuestionID": 232,
+   "IsGood": 0
+ },
+ {
+   "Answer": "передачи почтовых сообщений в среде ОС Windows.",
+   "AnswerID": 1422,
+   "QuestionID": 234,
+   "IsGood": 0
+ },
+ {
+   "Answer": "255",
+   "AnswerID": 1433,
+   "QuestionID": 238,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Lotus cc:Mail",
+   "AnswerID": 1437,
+   "QuestionID": 239,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Lotus cc:Mail",
+   "AnswerID": 1442,
+   "QuestionID": 240,
+   "IsGood": 0
+ },
+ {
+   "Answer": "ограниченного набора исходных данных.",
+   "AnswerID": 1447,
+   "QuestionID": 241,
+   "IsGood": 0
+ },
+ {
+   "Answer": "объединение почтовых отделений (PO - Post Office)",
+   "AnswerID": 1458,
+   "QuestionID": 245,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Р2 и Р22",
+   "AnswerID": 1472,
+   "QuestionID": 250,
+   "IsGood": 1
+ },
+ {
+   "Answer": "набор атрибутов.",
+   "AnswerID": 1477,
+   "QuestionID": 251,
+   "IsGood": 1
+ },
+ {
+   "Answer": "InterNIC",
+   "AnswerID": 1483,
+   "QuestionID": 253,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Mail exchanger",
+   "AnswerID": 1487,
+   "QuestionID": 254,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Статическую",
+   "AnswerID": 1493,
+   "QuestionID": 256,
+   "IsGood": 1
+ },
+ {
+   "Answer": "TCP",
+   "AnswerID": 1498,
+   "QuestionID": 257,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Доска объявления",
+   "AnswerID": 1502,
+   "QuestionID": 258,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Точка доступа к сервису (SAP - Service Access Point)",
+   "AnswerID": 1507,
+   "QuestionID": 259,
+   "IsGood": 0
+ },
+ {
+   "Answer": "КЛЮЧЕВОЕ_СЛОВО=ЗНАЧЕНИЕ",
+   "AnswerID": 1525,
+   "QuestionID": 265,
+   "IsGood": 1
+ },
+ {
+   "Answer": "файл-сервер",
+   "AnswerID": 1532,
+   "QuestionID": 267,
+   "IsGood": 0
+ },
+ {
+   "Answer": "HTTP",
+   "AnswerID": 1537,
+   "QuestionID": 268,
+   "IsGood": 0
+ },
+ {
+   "Answer": "не более одного",
+   "AnswerID": 1541,
+   "QuestionID": 270,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Lotus cc:Mail",
+   "AnswerID": 1547,
+   "QuestionID": 272,
+   "IsGood": 1
+ },
+ {
+   "Answer": "На основании информации, указанной в заголовке почтового сообщения",
+   "AnswerID": 1552,
+   "QuestionID": 273,
+   "IsGood": 0
+ },
+ {
+   "Answer": "сколько секунд может оставаться дейтаграмма в межсетевой системе",
+   "AnswerID": 1561,
+   "QuestionID": 206,
+   "IsGood": 1
+ },
+ {
+   "Answer": "многоточечная",
+   "AnswerID": 1575,
+   "QuestionID": 217,
+   "IsGood": 0
+ },
+ {
+   "Answer": "SNMP",
+   "AnswerID": 1589,
+   "QuestionID": 197,
+   "IsGood": 0
+ },
+ {
+   "Answer": "ISDN-адаптер",
+   "AnswerID": 1593,
+   "QuestionID": 274,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Через устройство завершения работы сети - NT1",
+   "AnswerID": 1602,
+   "QuestionID": 276,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Согласованная информационная скорость и согласованный объм пульсации трафика",
+   "AnswerID": 1613,
+   "QuestionID": 279,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Согласованная информационная скорость, согласованный и дополнительный объм пульсации трафика",
+   "AnswerID": 1615,
+   "QuestionID": 279,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Концентратор сети Ethernet, рабочая станция Ethernet",
+   "AnswerID": 1638,
+   "QuestionID": 286,
+   "IsGood": 0
+ },
+ {
+   "Answer": "разрешает вторичной станции начинать передачу, как только подготовлены данные.",
+   "AnswerID": 1659,
+   "QuestionID": 289,
+   "IsGood": 0
+ },
+ {
+   "Answer": "до ближайшего маршрутизатора, где собираются до размера ближайшего большего MTU.",
+   "AnswerID": 1683,
+   "QuestionID": 297,
+   "IsGood": 0
+ },
+ {
+   "Answer": "1",
+   "AnswerID": 1700,
+   "QuestionID": 302,
+   "IsGood": 1
+ },
+ {
+   "Answer": "5",
+   "AnswerID": 1703,
+   "QuestionID": 302,
+   "IsGood": 0
+ },
+ {
+   "Answer": "TCP",
+   "AnswerID": 1707,
+   "QuestionID": 198,
+   "IsGood": 1
+ },
+ {
+   "Answer": "требует от вторичной станции, чтобы она получила явное разрешение на передачу от первичной станции.",
+   "AnswerID": 1711,
+   "QuestionID": 290,
+   "IsGood": 0
+ },
+ {
+   "Answer": "станции равноправны",
+   "AnswerID": 1725,
+   "QuestionID": 216,
+   "IsGood": 1
+ },
+ {
+   "Answer": "16",
+   "AnswerID": 1731,
+   "QuestionID": 220,
+   "IsGood": 1
+ },
+ {
+   "Answer": "24",
+   "AnswerID": 1735,
+   "QuestionID": 220,
+   "IsGood": 0
+ },
+ {
+   "Answer": "никогда не изменяются",
+   "AnswerID": 1739,
+   "QuestionID": 222,
+   "IsGood": 1
+ },
+ {
+   "Answer": "обеспечивает безошибочную передачу сообщений",
+   "AnswerID": 1748,
+   "QuestionID": 9,
+   "IsGood": 1
+ },
+ {
+   "Answer": "транспортного уровня",
+   "AnswerID": 1785,
+   "QuestionID": 308,
+   "IsGood": 0
+ },
+ {
+   "Answer": "сетевой",
+   "AnswerID": 1792,
+   "QuestionID": 17,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Только функции пользовательского уровня",
+   "AnswerID": 1796,
+   "QuestionID": 310,
+   "IsGood": 0
+ },
+ {
+   "Answer": "нет",
+   "AnswerID": 1830,
+   "QuestionID": 66,
+   "IsGood": 0
+ },
+ {
+   "Answer": "битах в секунду",
+   "AnswerID": 1834,
+   "QuestionID": 67,
+   "IsGood": 0
+ },
+ {
+   "Answer": "определяют число степеней свободы сигнала",
+   "AnswerID": 1838,
+   "QuestionID": 73,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Треллис-кодированием.",
+   "AnswerID": 1853,
+   "QuestionID": 85,
+   "IsGood": 0
+ },
+ {
+   "Answer": "A = 10*lg (Pвых/Pвх)",
+   "AnswerID": 1860,
+   "QuestionID": 87,
+   "IsGood": 1
+ },
+ {
+   "Answer": "отношение уровней сигнала на входе и выходе канала в определенном частотном диапазоне",
+   "AnswerID": 1872,
+   "QuestionID": 312,
+   "IsGood": 0
+ },
+ {
+   "Answer": "физическим кодированием",
+   "AnswerID": 1881,
+   "QuestionID": 75,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Хаффмена-Рунге",
+   "AnswerID": 1888,
+   "QuestionID": 316,
+   "IsGood": 0
+ },
+ {
+   "Answer": "6800 Гц",
+   "AnswerID": 1894,
+   "QuestionID": 318,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Полоса пропускания канала",
+   "AnswerID": 1898,
+   "QuestionID": 319,
+   "IsGood": 0
+ },
+ {
+   "Answer": "не определено",
+   "AnswerID": 1905,
+   "QuestionID": 321,
+   "IsGood": 0
+ },
+ {
+   "Answer": "n+k",
+   "AnswerID": 1911,
+   "QuestionID": 323,
+   "IsGood": 0
+ },
+ {
+   "Answer": "5 м",
+   "AnswerID": 1915,
+   "QuestionID": 324,
+   "IsGood": 0
+ },
+ {
+   "Answer": "ТА",
+   "AnswerID": 1918,
+   "QuestionID": 325,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Модемного протокола побайтной передачи файлов",
+   "AnswerID": 1922,
+   "QuestionID": 326,
+   "IsGood": 0
+ },
+ {
+   "Answer": "разность весов этих векторов",
+   "AnswerID": 1931,
+   "QuestionID": 329,
+   "IsGood": 0
+ },
+ {
+   "Answer": "больше 2q",
+   "AnswerID": 1939,
+   "QuestionID": 332,
+   "IsGood": 1
+ },
+ {
+   "Answer": "кодовые комбинации кодируются и декодируются независимо друг от друга",
+   "AnswerID": 1943,
+   "QuestionID": 333,
+   "IsGood": 1
+ },
+ {
+   "Answer": "последовательность символов DLE",
+   "AnswerID": 1968,
+   "QuestionID": 340,
+   "IsGood": 0
+ },
+ {
+   "Answer": "d=2",
+   "AnswerID": 1976,
+   "QuestionID": 342,
+   "IsGood": 0
+ },
+ {
+   "Answer": "АТХ4DP1234567",
+   "AnswerID": 1983,
+   "QuestionID": 81,
+   "IsGood": 0
+ },
+ {
+   "Answer": "111",
+   "AnswerID": 2032,
+   "QuestionID": 347,
+   "IsGood": 1
+ },
+ {
+   "Answer": "010",
+   "AnswerID": 2036,
+   "QuestionID": 347,
+   "IsGood": 0
+ },
+ {
+   "Answer": "1010011",
+   "AnswerID": 2037,
+   "QuestionID": 345,
+   "IsGood": 1
+ },
+ {
+   "Answer": "1010100",
+   "AnswerID": 2041,
+   "QuestionID": 345,
+   "IsGood": 0
+ },
+ {
+   "Answer": "010",
+   "AnswerID": 2051,
+   "QuestionID": 348,
+   "IsGood": 0
+ },
+ {
+   "Answer": "110",
+   "AnswerID": 2054,
+   "QuestionID": 349,
+   "IsGood": 0
+ },
+ {
+   "Answer": "1111011",
+   "AnswerID": 2058,
+   "QuestionID": 346,
+   "IsGood": 0
+ },
+ {
+   "Answer": "1001110",
+   "AnswerID": 2062,
+   "QuestionID": 354,
+   "IsGood": 1
+ },
+ {
+   "Answer": "16",
+   "AnswerID": 2067,
+   "QuestionID": 355,
+   "IsGood": 1
+ },
+ {
+   "Answer": "5",
+   "AnswerID": 2070,
+   "QuestionID": 355,
+   "IsGood": 0
+ },
+ {
+   "Answer": "построчную",
+   "AnswerID": 2074,
+   "QuestionID": 356,
+   "IsGood": 0
+ },
+ {
+   "Answer": "ниже",
+   "AnswerID": 2079,
+   "QuestionID": 313,
+   "IsGood": 1
+ },
+ {
+   "Answer": "низкой",
+   "AnswerID": 2083,
+   "QuestionID": 1,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Физический",
+   "AnswerID": 2093,
+   "QuestionID": 357,
+   "IsGood": 1
+ },
+ {
+   "Answer": "прикладным уровнем",
+   "AnswerID": 2101,
+   "QuestionID": 358,
+   "IsGood": 0
+ },
+ {
+   "Answer": "да",
+   "AnswerID": 2107,
+   "QuestionID": 13,
+   "IsGood": 1
+ },
+ {
+   "Answer": "протокол маршрутизации",
+   "AnswerID": 2110,
+   "QuestionID": 14,
+   "IsGood": 1
+ },
+ {
+   "Answer": "S/N = 10 дБ",
+   "AnswerID": 2138,
+   "QuestionID": 359,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Нет",
+   "AnswerID": 2143,
+   "QuestionID": 361,
+   "IsGood": 0
+ },
+ {
+   "Answer": "6800 Гц",
+   "AnswerID": 2150,
+   "QuestionID": 364,
+   "IsGood": 1
+ },
+ {
+   "Answer": "300-3400 Гц",
+   "AnswerID": 2160,
+   "QuestionID": 365,
+   "IsGood": 1
+ },
+ {
+   "Answer": "дибиту",
+   "AnswerID": 2168,
+   "QuestionID": 366,
+   "IsGood": 0
+ },
+ {
+   "Answer": "определения числа степеней свободы сигнала",
+   "AnswerID": 2180,
+   "QuestionID": 367,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Усовершенствованная система коррекции ошибок",
+   "AnswerID": 2218,
+   "QuestionID": 54,
+   "IsGood": 0
+ },
+ {
+   "Answer": "полоса пропускания и затухание",
+   "AnswerID": 2235,
+   "QuestionID": 89,
+   "IsGood": 0
+ },
+ {
+   "Answer": "инкапсуляция и наследование",
+   "AnswerID": 2243,
+   "QuestionID": 304,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Подуровень PS - передача физических сигналов",
+   "AnswerID": 2250,
+   "QuestionID": 121,
+   "IsGood": 0
+ },
+ {
+   "Answer": "в комбинированных сетях",
+   "AnswerID": 2261,
+   "QuestionID": 91,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Кабель",
+   "AnswerID": 2268,
+   "QuestionID": 374,
+   "IsGood": 1
+ },
+ {
+   "Answer": "ИУД - интерфейс с устройством доступа",
+   "AnswerID": 2277,
+   "QuestionID": 376,
+   "IsGood": 0
+ },
+ {
+   "Answer": "МД - множественный доступ",
+   "AnswerID": 2287,
+   "QuestionID": 378,
+   "IsGood": 1
+ },
+ {
+   "Answer": "N-типа",
+   "AnswerID": 2294,
+   "QuestionID": 380,
+   "IsGood": 0
+ },
+ {
+   "Answer": "неразделимым кодам",
+   "AnswerID": 2299,
+   "QuestionID": 334,
+   "IsGood": 1
+ },
+ {
+   "Answer": "упорядочивания на приемной стороне поступающих кадров",
+   "AnswerID": 2305,
+   "QuestionID": 343,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Есть",
+   "AnswerID": 2327,
+   "QuestionID": 350,
+   "IsGood": 0
+ },
+ {
+   "Answer": "увеличивается",
+   "AnswerID": 2339,
+   "QuestionID": 384,
+   "IsGood": 0
+ },
+ {
+   "Answer": "100 Мбит/с",
+   "AnswerID": 2378,
+   "QuestionID": 396,
+   "IsGood": 0
+ },
+ {
+   "Answer": "задержка передачи кадра",
+   "AnswerID": 2390,
+   "QuestionID": 399,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Среднего",
+   "AnswerID": 2397,
+   "QuestionID": 401,
+   "IsGood": 0
+ },
+ {
+   "Answer": "любой длины",
+   "AnswerID": 2401,
+   "QuestionID": 402,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Рабочих групп",
+   "AnswerID": 2407,
+   "QuestionID": 404,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Та часть, которая осталась после распределения между синхронным трафиком станций.",
+   "AnswerID": 2412,
+   "QuestionID": 406,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Таймер времени оборота маркера истек при единичном значении счетчика опозданий",
+   "AnswerID": 2418,
+   "QuestionID": 408,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Правило 4-х хабов не относится к сетям на основе конрцентраторов",
+   "AnswerID": 2434,
+   "QuestionID": 412,
+   "IsGood": 0
+ },
+ {
+   "Answer": "МАС-адресу источника",
+   "AnswerID": 2448,
+   "QuestionID": 416,
+   "IsGood": 0
+ },
+ {
+   "Answer": "расширением носителя",
+   "AnswerID": 2454,
+   "QuestionID": 417,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Символ Idle (11111)",
+   "AnswerID": 2461,
+   "QuestionID": 390,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Да, посылкой флаговой последовательности (01111110)",
+   "AnswerID": 2466,
+   "QuestionID": 391,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Для соединения рабочих станций между собой",
+   "AnswerID": 2477,
+   "QuestionID": 397,
+   "IsGood": 0
+ },
+ {
+   "Answer": "За счет сокращения преамболы",
+   "AnswerID": 2488,
+   "QuestionID": 385,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Ethernet_II или 802.2 Ethernet",
+   "AnswerID": 2496,
+   "QuestionID": 394,
+   "IsGood": 0
+ },
+ {
+   "Answer": "трансивер",
+   "AnswerID": 2508,
+   "QuestionID": 116,
+   "IsGood": 0
+ },
+ {
+   "Answer": "925 метров",
+   "AnswerID": 2513,
+   "QuestionID": 382,
+   "IsGood": 0
+ },
+ {
+   "Answer": "256",
+   "AnswerID": 2517,
+   "QuestionID": 383,
+   "IsGood": 0
+ },
+ {
+   "Answer": "10Base-T",
+   "AnswerID": 2521,
+   "QuestionID": 93,
+   "IsGood": 0
+ },
+ {
+   "Answer": "10Base-F",
+   "AnswerID": 2526,
+   "QuestionID": 94,
+   "IsGood": 0
+ },
+ {
+   "Answer": "10Base-F",
+   "AnswerID": 2530,
+   "QuestionID": 95,
+   "IsGood": 0
+ },
+ {
+   "Answer": "10Base-F",
+   "AnswerID": 2535,
+   "QuestionID": 96,
+   "IsGood": 1
+ },
+ {
+   "Answer": "ArcNET",
+   "AnswerID": 2539,
+   "QuestionID": 97,
+   "IsGood": 0
+ },
+ {
+   "Answer": "<кольцо>",
+   "AnswerID": 2543,
+   "QuestionID": 98,
+   "IsGood": 0
+ },
+ {
+   "Answer": "кабель на основе нейронной решетки",
+   "AnswerID": 2547,
+   "QuestionID": 99,
+   "IsGood": 0
+ },
+ {
+   "Answer": "DIX - коннектор либо DB-15 коннектор",
+   "AnswerID": 2556,
+   "QuestionID": 101,
+   "IsGood": 0
+ },
+ {
+   "Answer": "концентратор",
+   "AnswerID": 2565,
+   "QuestionID": 104,
+   "IsGood": 0
+ },
+ {
+   "Answer": "100Base-T",
+   "AnswerID": 2571,
+   "QuestionID": 105,
+   "IsGood": 0
+ },
+ {
+   "Answer": "1",
+   "AnswerID": 2575,
+   "QuestionID": 419,
+   "IsGood": 0
+ },
+ {
+   "Answer": "единиц и нулей (10101010)",
+   "AnswerID": 2579,
+   "QuestionID": 421,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Метод передачи с модуляцией базовой частоты",
+   "AnswerID": 2586,
+   "QuestionID": 423,
+   "IsGood": 0
+ },
+ {
+   "Answer": "2,5 м",
+   "AnswerID": 2595,
+   "QuestionID": 426,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Да",
+   "AnswerID": 2599,
+   "QuestionID": 427,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Да",
+   "AnswerID": 2603,
+   "QuestionID": 429,
+   "IsGood": 1
+ },
+ {
+   "Answer": "4 UTP Cat.3",
+   "AnswerID": 2606,
+   "QuestionID": 430,
+   "IsGood": 0
+ },
+ {
+   "Answer": "2",
+   "AnswerID": 2611,
+   "QuestionID": 432,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Самостоятельным стандартом",
+   "AnswerID": 2615,
+   "QuestionID": 433,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Механизм инкапсуляции (упаковки) пакетов.",
+   "AnswerID": 2622,
+   "QuestionID": 177,
+   "IsGood": 0
+ },
+ {
+   "Answer": "50 Мбод",
+   "AnswerID": 2634,
+   "QuestionID": 386,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Сеть будет заблокирована.",
+   "AnswerID": 2639,
+   "QuestionID": 149,
+   "IsGood": 0
+ },
+ {
+   "Answer": "передаются дальше по сети, если суммарный объем пользовательских данных за время Т не превысил сумму согласованного и дополнительного объема пульсаций",
+   "AnswerID": 2646,
+   "QuestionID": 434,
+   "IsGood": 1
+ },
+ {
+   "Answer": "24",
+   "AnswerID": 2667,
+   "QuestionID": 441,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Мультиплексор",
+   "AnswerID": 2671,
+   "QuestionID": 442,
+   "IsGood": 1
+ },
+ {
+   "Answer": "пользовательскими",
+   "AnswerID": 2676,
+   "QuestionID": 443,
+   "IsGood": 0
+ },
+ {
+   "Answer": "мультиплексор ввода-вывода",
+   "AnswerID": 2683,
+   "QuestionID": 445,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Хэмминга",
+   "AnswerID": 2697,
+   "QuestionID": 449,
+   "IsGood": 0
+ },
+ {
+   "Answer": "HDSL",
+   "AnswerID": 2702,
+   "QuestionID": 450,
+   "IsGood": 0
+ },
+ {
+   "Answer": "данные замешиваются с оцифрованным голосом и в виде пакетов передаются по голосовому каналу",
+   "AnswerID": 2709,
+   "QuestionID": 452,
+   "IsGood": 0
+ },
+ {
+   "Answer": "IP (Internet Protocol)",
+   "AnswerID": 2724,
+   "QuestionID": 457,
+   "IsGood": 0
+ },
+ {
+   "Answer": "cветовая волна",
+   "AnswerID": 2731,
+   "QuestionID": 460,
+   "IsGood": 1
+ },
+ {
+   "Answer": "по выделенному голосовому каналу",
+   "AnswerID": 2740,
+   "QuestionID": 462,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Развитие методов временного мультиплексирования информационных потоков.",
+   "AnswerID": 2749,
+   "QuestionID": 465,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Виртуальные контейнеры VC-n",
+   "AnswerID": 2766,
+   "QuestionID": 471,
+   "IsGood": 0
+ },
+ {
+   "Answer": "сигнальная информация каналов нижнего уровня упорядочивается в канале более высокого уровня или упорядоченный канал высокого уровня размещается внутри мультиплексной секции",
+   "AnswerID": 2774,
+   "QuestionID": 474,
+   "IsGood": 1
+ },
+ {
+   "Answer": "В любых, где нет альтернативных путей следования трафика",
+   "AnswerID": 2791,
+   "QuestionID": 478,
+   "IsGood": 0
+ },
+ {
+   "Answer": "частотное уплотнение линии связи (Frequency Division Multiplexing - FDM)",
+   "AnswerID": 2810,
+   "QuestionID": 448,
+   "IsGood": 1
+ },
+ {
+   "Answer": "128 кбит/с",
+   "AnswerID": 2826,
+   "QuestionID": 447,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Метод 2B1Q",
+   "AnswerID": 2831,
+   "QuestionID": 461,
+   "IsGood": 0
+ },
+ {
+   "Answer": "FDDI",
+   "AnswerID": 2841,
+   "QuestionID": 484,
+   "IsGood": 0
+ },
+ {
+   "Answer": "одинаковые сообщения по-разному понимаются разными объектами, в зависимости от их класса",
+   "AnswerID": 2845,
+   "QuestionID": 19,
+   "IsGood": 0
+ },
+ {
+   "Answer": "компонент оборудования",
+   "AnswerID": 669,
+   "QuestionID": 10,
+   "IsGood": 0
+ },
+ {
+   "Answer": "сетевых адаптеров и их драйверов",
+   "AnswerID": 693,
+   "QuestionID": 18,
+   "IsGood": 1
+ },
+ {
+   "Answer": "одинаковых архитектур и функционирующие под управлением разных операционных систем",
+   "AnswerID": 713,
+   "QuestionID": 24,
+   "IsGood": 0
+ },
+ {
+   "Answer": "N - интерфейсом",
+   "AnswerID": 746,
+   "QuestionID": 35,
+   "IsGood": 0
+ },
+ {
+   "Answer": "сетевой протокол",
+   "AnswerID": 754,
+   "QuestionID": 38,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Протоколы с установлением соединения",
+   "AnswerID": 760,
+   "QuestionID": 40,
+   "IsGood": 0
+ },
+ {
+   "Answer": "пакеты",
+   "AnswerID": 772,
+   "QuestionID": 44,
+   "IsGood": 1
+ },
+ {
+   "Answer": "N - уровневый интерфейс",
+   "AnswerID": 776,
+   "QuestionID": 45,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Устройство преобразования последовательных цифровых сигналов в аналоговые и наоборот.",
+   "AnswerID": 784,
+   "QuestionID": 49,
+   "IsGood": 1
+ },
+ {
+   "Answer": "логического кодирования",
+   "AnswerID": 816,
+   "QuestionID": 183,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Модемные протоколы.",
+   "AnswerID": 843,
+   "QuestionID": 69,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Асинхронный командный режим и режим on-line",
+   "AnswerID": 857,
+   "QuestionID": 74,
+   "IsGood": 1
+ },
+ {
+   "Answer": "Метод узкого окна",
+   "AnswerID": 876,
+   "QuestionID": 79,
+   "IsGood": 0
+ },
+ {
+   "Answer": "в бит-ориентированных протоколах",
+   "AnswerID": 887,
+   "QuestionID": 82,
+   "IsGood": 0
+ },
+ {
+   "Answer": "Это явление, возникающее в сетях с выделенным сервером в случае приема сервером пакетов одинакового приоритета.",
+   "AnswerID": 993,
+   "QuestionID": 109,
+   "IsGood": 0
+ },
+ {
+   "Answer": "В качестве среды передачи данных в этой сети может использоваться только кабель витой пары стандарта UTP 5Cat.",
+   "AnswerID": 997,
+   "QuestionID": 110,
+   "IsGood": 0
+ }
+]
