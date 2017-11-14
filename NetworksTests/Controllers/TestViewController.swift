@@ -18,53 +18,69 @@ class TestViewController: UIViewController, UITableViewDelegate, UITableViewData
     
     var testSession = TestSession(test: TestManager.tests[0])
     var showAnswers = false
+    var questionNumber: Int = 1
+    var answers: [Answer] = []
     
     override func viewDidLoad() {
         super.viewDidLoad()
         
         // Initial preparation
         self.actionButton.isEnabled = false
-        self.navigationItem.title = testSession.title
-        self.questionNumberLabel.text = "Вопрос №\(testSession.currentQuestion!.number-1)"
-        self.questionLabel.text = testSession.currentQuestion!.title
         self.showAnswers = false
-        self.countLabel.text = ""
+        self.navigationItem.title = testSession.title
+        
+        if let currentQuestion = testSession.currentQuestion {
+            self.questionNumberLabel.text = "Вопрос №\(questionNumber)"
+            self.countLabel.text = ""
+            self.questionLabel.text = currentQuestion.title
+            self.answers = currentQuestion.answers.shuffled()
+            self.tableView.reloadData()
+        }
 }
     
     func showQuestion() {
         
-        // Preparation for showing
-        self.actionButton.isEnabled = false
-        self.showAnswers = false
-        self.tableView.allowsSelection = true
-        
-        // Update right answers count
-        self.countLabel.text = "\(testSession.rightAnswersCount)"
-        
-        // Set question
-        self.questionNumberLabel.text = "Вопрос №\(testSession.currentQuestion!.number-1)"
-        self.questionLabel.text = testSession.currentQuestion!.title
-        
-        // Update answers
-        self.tableView.reloadData()
-        
-        // Set button
-        if self.testSession.action == .end {
-            self.actionButton.setTitle("Завершить", for: .normal)
+        if let currentQuestion = testSession.currentQuestion {
+            
+            // Preparation for showing
+            self.questionNumber += 1
+            self.actionButton.isEnabled = false
+            self.showAnswers = false
+            self.tableView.allowsSelection = true
+            
+            // Update right answers count
+            self.countLabel.text = "\(testSession.rightAnswersCount)"
+            
+            // Set question
+            self.questionNumberLabel.text = "Вопрос №\(questionNumber)"
+            self.questionLabel.text = currentQuestion.title
+            
+            // Update answers
+            self.answers = currentQuestion.answers.shuffled()
+            self.tableView.reloadData()
+            
+            // Set button
+            if self.testSession.action == .end {
+                self.actionButton.setTitle("Завершить", for: .normal)
+            } else {
+                self.actionButton.setTitle("Следующий", for: .normal)
+            }
+            
         } else {
-            self.actionButton.setTitle("Следующий", for: .normal)
+            testSession.next()
+            showQuestion()
         }
     }
     
     // MARK: TableView
     
     func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
-        return testSession.currentQuestion!.answers.count
+        return answers.count
     }
     
     func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
         
-        let answer = testSession.currentQuestion!.answers[indexPath.row]
+        let answer = answers[indexPath.row]
         
         let cell = tableView.dequeueReusableCell(withIdentifier: "AnswerCell", for: indexPath) as! AnswerCell
         cell.titleLabel.text = answer.title
@@ -86,12 +102,12 @@ class TestViewController: UIViewController, UITableViewDelegate, UITableViewData
         showAnswers = true
         tableView.allowsSelection = false
         
-        let answer = testSession.currentQuestion!.answers[indexPath.row]
+        let answer = answers[indexPath.row]
         testSession.answer(isRight: answer.isRight)
 
         var answersIndexes = [indexPath]
         if !answer.isRight {
-            for (index, currentAnswer) in testSession.currentQuestion!.answers.enumerated() {
+            for (index, currentAnswer) in answers.enumerated() {
                 if currentAnswer.isRight {
                     answersIndexes.append(IndexPath(row: index, section: 0))
                 }
@@ -121,3 +137,4 @@ class TestViewController: UIViewController, UITableViewDelegate, UITableViewData
         }
     }
 }
+
