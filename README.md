@@ -1,4 +1,8 @@
 # NetworkTests
+
+![Platform](https://img.shields.io/badge/platform-iOS-lightgray.svg)
+![License](https://img.shields.io/github/license/mashape/apistatus.svg)
+
 Небольшое iOS-приложение для подготовки к РК по сетям и телекоммуникациям
 
 <p align="center">
